@@ -1479,7 +1479,7 @@
  gramm: NCP
 -lexeme
  lex: Адайыхох
- stem: Адайыхох.|Адайыхох.|Адайыхӕх.
+ stem: адайыхох.|Адайыхох.|Адайыхӕх.
  paradigm: Nct
  trans_ru: гора Адайхох
  trans_en: Adayhoh mountain
@@ -1640,7 +1640,7 @@
  gramm: N,anim,human,inanim,nonhuman
 -lexeme
  lex: Адриатикон
- stem: Адриатикон.
+ stem: адриатикон.
  paradigm: Nct
  trans_ru: Адриатическое
  trans_en: Adriatic
@@ -1927,7 +1927,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Азербайджан
- stem: Азербайджан.|Азербайджан.|Азербайджан.
+ stem: азербайджан.|Азербайджан.|Азербайджан.
  paradigm: Nct
  trans_ru: Азербайджан
  trans_en: Azerbaijan
@@ -1948,7 +1948,7 @@
  gramm: V,intr
 -lexeme
  lex: Ази
- stem: Ази.|Ази.|Ази.
+ stem: ази.|Ази.|Ази.
  paradigm: Nct
  trans_ru: Азия
  trans_en: Asia
@@ -1990,7 +1990,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Азовы
- stem: Азовы.
+ stem: азовы.
  paradigm: Nct
  trans_ru: Азовское
  trans_en: Azov
@@ -2144,7 +2144,7 @@
  gramm: PRON
 -lexeme
  lex: Айгомӕг
- stem: Айгомӕг.|Айгомӕдж.|Айгомӕг.
+ stem: айгомӕг.|Айгомӕдж.|Айгомӕг.
  paradigm: Nct
  trans_ru: Айгомаг
  trans_en: Aigomag
@@ -2648,7 +2648,7 @@
  gramm: N,inanim,nonhum
 -lexeme
  lex: Алагир
- stem: Алагир.|Алагир.|Алагир.
+ stem: алагир.|Алагир.|Алагир.
  paradigm: Nct
  trans_ru: Алагир
  trans_en: Alagir
@@ -2683,14 +2683,14 @@
  gramm: N,anim,hum
 -lexeme
  lex: Алани
- stem: Алани.
+ stem: алани.
  paradigm: Nv
  trans_ru: Алания
  trans_en: Alania
  gramm: N,prop,inanim,nonhum
 -lexeme
  lex: Аланыстон
- stem: Аланыстон.|Аланыстон.|Аланыстон.
+ stem: аланыстон.|Аланыстон.|Аланыстон.
  paradigm: Nct
  trans_ru: Алания
  trans_en: Alania
@@ -2718,7 +2718,7 @@
  gramm: N,anim,hum
 -lexeme
  lex: Албани
- stem: Албани.
+ stem: албани.
  paradigm: Nv
  trans_ru: Албания
  trans_en: Albania
@@ -2900,7 +2900,7 @@
  gramm: INTJ
 -lexeme
  lex: Алтай
- stem: Алтай.|Алтай.|Алтай.
+ stem: алтай.|Алтай.|Алтай.
  paradigm: Nct
  trans_ru: Алтай
  trans_en: Altai
@@ -3124,7 +3124,7 @@
  gramm: ADJ
 -lexeme
  lex: Альпӕтӕ
- stem: Альпӕ.//Альпӕ.
+ stem: альпӕ.//Альпӕ.
  paradigm: Nv
  trans_ru: Альпы
  trans_en: Alps
@@ -3173,7 +3173,7 @@
  gramm: N,inanim,nonhum
 -lexeme
  lex: Аляскӕ
- stem: Аляскӕ.//Аляск.
+ stem: аляскӕ.//Аляск.
  paradigm: Nv
  trans_ru: Аляска
  trans_en: Alaska
@@ -3299,7 +3299,7 @@
  gramm: N,inanim,nonhum
 -lexeme
  lex: Америкӕ
- stem: Америкӕ.//Америк.//америкӕ.//америк.
+ stem: америкӕ.//Америк.//америкӕ.//америк.
  paradigm: Nv
  trans_ru: Америка
  trans_en: America
@@ -3481,7 +3481,7 @@
  gramm: N,inanim,nonhum
 -lexeme
  lex: Аму-Дарья
- stem: Аму-Дарья.
+ stem: аму-Дарья.
  paradigm: Nv
  trans_ru: Аму-Дарья
  trans_en: Amu Darya
@@ -3502,7 +3502,7 @@
  gramm: N,inanim,nonhum
 -lexeme
  lex: Амур
- stem: Амур.|Амур.|Амур.
+ stem: амур.|Амур.|Амур.
  paradigm: Nct
  trans_ru: Амур
  trans_en: Amur
@@ -3712,7 +3712,7 @@
  gramm: N,inanim,nonhum
 -lexeme
  lex: Англис
- stem: Англис.|Англис.|Англис.
+ stem: англис.|Англис.|Англис.
  paradigm: Nct
  trans_ru: Англия
  trans_en: England
@@ -3873,14 +3873,14 @@
  gramm: N,anim,hum
 -lexeme
  lex: Антарктидӕ
- stem: Антарктидӕ.//антарктид.
+ stem: антарктидӕ.//антарктид.
  paradigm: Nv
  trans_ru: Антарктида
  trans_en: Antarctica
  gramm: N,prop,inanim,nonhum
 -lexeme
  lex: Антарктикӕ
- stem: Антарктикӕ.//антарктик.
+ stem: антарктикӕ.//антарктик.
  paradigm: Nv
  trans_ru: Антарктика
  trans_en: the Antarctic
@@ -4167,7 +4167,7 @@
  gramm: N,inanim,nonhum
 -lexeme
  lex: Апеннины
- stem: Аппенины.
+ stem: аппенины.
  paradigm: Nv
  trans_ru: Апеннины
  trans_en: Apennines
@@ -4314,7 +4314,7 @@
  gramm: N,anim,hum
 -lexeme
  lex: Арави
- stem: Арави.
+ stem: арави.
  paradigm: Nv
  trans_ru: Аравия
  trans_en: Arabia
@@ -4545,7 +4545,7 @@
  gramm: N,inanim,nonhum
 -lexeme
  lex: Аргентинӕ
- stem: Аргентинӕ.//Аргентин.
+ stem: аргентинӕ.//Аргентин.
  paradigm: Nv
  trans_ru: Аргентина
  trans_en: Argentina
@@ -4825,7 +4825,7 @@
  gramm: N,inanim,nonhum
 -lexeme
  lex: Арктикӕ
- stem: Арктикӕ.//арктик.
+ stem: арктикӕ.//арктик.
  paradigm: Nct
  trans_ru: Арктика
  trans_en: the Arctic
@@ -6015,7 +6015,7 @@
  gramm: N,inanim,nonhum
 -lexeme
  lex: Атлантикӕ
- stem: Атлантикӕ.//Атлантик.
+ stem: атлантикӕ.//Атлантик.
  paradigm: Nct
  trans_ru: Атлантика
  trans_en: the Atlantic
@@ -6372,7 +6372,7 @@
  gramm: ADJ
 -lexeme
  lex: Афинӕтӕ
- stem: Афинӕ.
+ stem: афинӕ.
  paradigm: Nv
  trans_ru: Афины
  trans_en: Athens
@@ -6428,7 +6428,7 @@
  gramm: N,inanim,nonhum
 -lexeme
  lex: Африкӕ
- stem: Африкӕ.//Африк.
+ stem: африкӕ.//Африк.
  paradigm: Nv
  trans_ru: Африка
  trans_en: Africa
@@ -7275,7 +7275,7 @@
  gramm: N,anim,hum
 -lexeme
  lex: Ашхабад
- stem: Ашхабад.|Ашхабад.|Ашхабад.
+ stem: ашхабад.|Ашхабад.|Ашхабад.
  paradigm: Nct
  trans_ru: Ашхабад
  trans_en: Ashkhabad
@@ -13357,9 +13357,6 @@
  trans_ru: непоколебимый
  trans_en: firm, staunch
  gramm: ADJ
- trans_ru: 
- trans_en: 
- gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕнӕхайыр
  stem: ӕнӕхайыр.//нӕхайыр.
@@ -17933,7 +17930,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Бабиатыхъӕу
- stem: Бабиатыхъӕу.
+ stem: бабиатыхъӕу.
  paradigm: Nct
  trans_ru: Бабиатикау (село)
  trans_en: Babiatikau (village)
@@ -18018,7 +18015,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Бад
- stem: Бад.
+ stem: бад.
  paradigm: Nct
  trans_ru: Бад (село)
  trans_en: Bad (village)
@@ -18472,7 +18469,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Балканы
- stem: Балканы.
+ stem: балканы.
  paradigm: Nv
  trans_ru: Балканский
  trans_en: Balkan
@@ -18521,7 +18518,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Балтикӕ
- stem: Балтикӕ.
+ stem: балтикӕ.
  paradigm: Nv
  trans_ru: Балтика
  trans_en: the Baltic
@@ -18864,7 +18861,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Баренцы
- stem: Баренцы.
+ stem: баренцы.
  paradigm: Nv
  trans_ru: Баренцово
  trans_en: Barents
@@ -18878,7 +18875,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Барзыхъӕу
- stem: Барзыхъӕу.
+ stem: барзыхъӕу.
  paradigm: Nct
  trans_ru: Барзикау (село)
  trans_en: Barzikau (village)
@@ -19403,14 +19400,14 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Беринджы
- stem: Беринджы.
+ stem: беринджы.
  paradigm: Nct
  trans_ru: Берингов, Берингово
  trans_en: Bering
  gramm: ADJ
 -lexeme
  lex: Беслӕн
- stem: Беслӕн.
+ stem: беслӕн.
  paradigm: Nct
  trans_ru: Беслан (город)
  trans_en: Beslan (town)
@@ -19424,7 +19421,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Бетъырбух
- stem: Бетъырбух.
+ stem: бетъырбух.
  paradigm: Nct
  trans_ru: Санкт-Петербург
  trans_en: St.Petersburg
@@ -19739,7 +19736,7 @@
  gramm: N,bodypart
 -lexeme
  lex: Бирӕгъзӕнг
- stem: Бирӕгъзӕнг.|Бирӕгъзӕндж.|Бирӕгъзӕнг.
+ stem: бирӕгъзӕнг.|Бирӕгъзӕндж.|Бирӕгъзӕнг.
  paradigm: Nct
  trans_ru: Бирагзанг (село)
  trans_en: Biragzang (village)
@@ -19753,7 +19750,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Бирӕгътыхъӕу
- stem: Бирӕгътыхъӕу.
+ stem: бирӕгътыхъӕу.
  paradigm: Nct
  trans_ru: Бирагтикау (село)
  trans_en: Biragtikau (village)
@@ -19956,7 +19953,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Бискайы
- stem: Бискайы.
+ stem: бискайы.
  paradigm: Nct
  trans_ru: Бискайский
  trans_en: of Biscay
@@ -20185,7 +20182,6 @@
  trans_ru: сила; возможность
  trans_en: strength; ability, possibility
  gramm: N,inanim,nonhuman
- gramm: N,inanim,nonhuman
 -lexeme
  lex: бон-изӕрмӕ
  stem: бон-изӕрмӕ.
@@ -20231,7 +20227,7 @@
  gramm: ADJ
 -lexeme
  lex: Бонвӕрнон
- stem: Бонвӕрнон.
+ stem: бонвӕрнон.
  paradigm: Nct
  trans_ru: Венера (звезда)
  trans_en: Venus
@@ -20441,7 +20437,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Боцитыхъӕу
- stem: Боцитыхъӕу.
+ stem: боцитыхъӕу.
  paradigm: Nct
  trans_ru: Боцитикау (село)
  trans_en: Botsitikau (village)
@@ -20483,7 +20479,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Бразили
- stem: Бразили.
+ stem: бразили.
  paradigm: Nv
  trans_ru: Бразилия
  trans_en: Brazil
@@ -20602,14 +20598,14 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Брут
- stem: Брут.
+ stem: брут.
  paradigm: Nct
  trans_ru: Брут (село)
  trans_en: Brut (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Брутӕ
- stem: Брутӕ.
+ stem: брутӕ.
  paradigm: Nv
  trans_ru: Брут (село)
  trans_en: Brut (village)
@@ -21155,7 +21151,7 @@
  gramm: ADJ
 -lexeme
  lex: Быз
- stem: Быз.
+ stem: быз.
  paradigm: Nct
  trans_ru: Биз (село)
  trans_en: Biz (village)
@@ -22114,7 +22110,7 @@
  gramm: ADJ
 -lexeme
  lex: Бӕлта
- stem: Бӕлта.
+ stem: бӕлта.
  paradigm: Nv
  trans_ru: Балта (село)
  trans_en: Balta (village)
@@ -22478,7 +22474,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Бӕрӕгъуын
- stem: Бӕрӕгъуын.
+ stem: бӕрӕгъуын.
  paradigm: Nct
  trans_ru: Красногор (село)
  trans_en: Krasnogor (village)
@@ -23255,7 +23251,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Весёловскӕй
- stem: Весёловскӕй.
+ stem: весёловскӕй.
  paradigm: Nct
  trans_ru: Весёловское (село)
  trans_en: Vesjolovskoje (village)
@@ -23339,7 +23335,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Винограднӕй
- stem: Винограднӕй.
+ stem: винограднӕй.
  paradigm: Nct
  trans_ru: Виноградное (село)
  trans_en: Vinogradnoje (village)
@@ -23388,7 +23384,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Вислӕ
- stem: Вислӕ.
+ stem: вислӕ.
  paradigm: Nv
  trans_ru: Висла (река)
  trans_en: Vistula (river)
@@ -23472,7 +23468,7 @@
  gramm: ADJ
 -lexeme
  lex: Волгӕ
- stem: Волгӕ.
+ stem: волгӕ.
  paradigm: Nv
  trans_ru: Волга (река)
  trans_en: Volga (river)
@@ -23633,7 +23629,7 @@
  gramm: N-ADJ,inanim,nonhuman,anim,human
 -lexeme
  lex: Гадӕкк
- stem: Гадӕкк.|Гадӕчч.|Гадӕкк.
+ stem: гадӕкк.|Гадӕчч.|Гадӕкк.
  paradigm: Nct
  trans_ru: название одной из семи звезд созвездия Плеяд
  trans_en: 
@@ -23843,7 +23839,7 @@
  gramm: ADJ
 -lexeme
  lex: Галгӕс
- stem: Галгӕс.
+ stem: галгӕс.
  paradigm: Nct
  trans_ru: Волопас (созвездие)
  trans_en: Bootes (constellation)
@@ -23927,7 +23923,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Галон
- stem: Галон.
+ stem: галон.
  paradigm: Nct
  trans_ru: Галлон (река, поселок)
  trans_en: Gallon (river, village)
@@ -24039,7 +24035,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Ганис
- stem: Ганис.
+ stem: ганис.
  paradigm: Nct
  trans_ru: Ганис (село)
  trans_en: Ganis (village)
@@ -24410,7 +24406,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Герман
- stem: Герман.
+ stem: герман.
  paradigm: Nct
  trans_ru: Германия
  trans_en: Germany
@@ -24438,7 +24434,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Гибралтар
- stem: Гибралтар.
+ stem: гибралтар.
  paradigm: Nct
  trans_ru: Гибралтар
  trans_en: Gibraltar
@@ -24543,7 +24539,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Гималайтӕ
- stem: Гималай.
+ stem: гималай.
  paradigm: Nct
  trans_ru: Гималаи
  trans_en: Himalayas
@@ -24942,7 +24938,7 @@
  gramm: N-ADJ,inanim,nonhuman
 -lexeme
  lex: Госбанк
- stem: Госбанк.|Госбанч.|Госбанк.
+ stem: госбанк.|Госбанч.|Госбанк.
  paradigm: Nct
  trans_ru: госбанк
  trans_en: State Bank
@@ -25152,7 +25148,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Грекъ
- stem: Грекъ.|Гречъ.|Грекъ.
+ stem: грекъ.|Гречъ.|Грекъ.
  paradigm: Nct
  trans_ru: Греция
  trans_en: Greece
@@ -25173,7 +25169,7 @@
  gramm: N-ADJ,inanim,nonhuman
 -lexeme
  lex: Гренланди
- stem: Гренланди.
+ stem: гренланди.
  paradigm: Nv
  trans_ru: Гренландия
  trans_en: Greenland
@@ -25201,7 +25197,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Грозна
- stem: Грозна.
+ stem: грозна.
  paradigm: Nv
  trans_ru: Грозный (город)
  trans_en: Grozny (town)
@@ -25327,7 +25323,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Гур
- stem: Гур.
+ stem: гур.
  paradigm: Nct
  trans_ru: Гори (город)
  trans_en: Gori (town)
@@ -25341,7 +25337,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Гусойтӕ
- stem: Гусой.
+ stem: гусой.
  paradigm: Nv
  trans_ru: Гусойта (село)
  trans_en: Gusoyta (village)
@@ -25768,14 +25764,14 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Гуырдзыстон
- stem: Гуырдзыстон.
+ stem: гуырдзыстон.
  paradigm: Nct
  trans_ru: Грузия
  trans_en: Georgia
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Гуыркъуымтӕ
- stem: Гуыркъуым.
+ stem: гуыркъуым.
  paradigm: Nv
  trans_ru: Гуркумта (село)
  trans_en: Gurkumta (village)
@@ -25866,7 +25862,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Гуысыра
- stem: Гуысыра.
+ stem: гуысыра.
  paradigm: Nv
  trans_ru: Гусура (село)
  trans_en: Gusura (village)
@@ -26034,7 +26030,7 @@
  gramm: ADJ-ADV
 -lexeme
  lex: ГЭС
- stem: ГЭС.
+ stem: гЭС.
  paradigm: Nct
  trans_ru: ГЭС
  trans_en: hydropower station
@@ -26146,7 +26142,7 @@
  gramm: ADJ
 -lexeme
  lex: Гӕда
- stem: Гӕда.
+ stem: гӕда.
  paradigm: Nv
  trans_ru: название одной из семи звезд созвездия Плеяд
  trans_en: 
@@ -26237,7 +26233,7 @@
  gramm: N,bodypart
 -lexeme
  lex: Гӕлиат
- stem: Гӕлиат.
+ stem: гӕлиат.
  paradigm: Nct
  trans_ru: Галиат (село)
  trans_en: Galiat (village)
@@ -26321,7 +26317,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Гӕналдон
- stem: Гӕналдон.
+ stem: гӕналдон.
  paradigm: Nct
  trans_ru: Геналдон (река)
  trans_en: Genaldon (river)
@@ -26713,7 +26709,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Дагом
- stem: Дагом.
+ stem: дагом.
  paradigm: Nct
  trans_ru: Дагом (село)
  trans_en: Dagom (village)
@@ -26776,7 +26772,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Дайраны
- stem: Дайраны.
+ stem: дайраны.
  paradigm: Nv
  trans_ru: Дарьяльский
  trans_en: Darial
@@ -26909,7 +26905,7 @@
  gramm: ADJ
 -lexeme
  lex: Даргъ-Къох
- stem: Даргъ-Къох.
+ stem: даргъ-Къох.
  paradigm: Nct
  trans_ru: Дарг-Кох
  trans_en: Darg-Kokh
@@ -27070,7 +27066,7 @@
  gramm: N-ADJ-ADV,inanim,nonhuman
 -lexeme
  lex: Дарданеллтӕ
- stem: Дарданеллтӕ.
+ stem: дарданеллтӕ.
  paradigm: Nct
  trans_ru: Дарданеллы
  trans_en: Dardanelles
@@ -27287,7 +27283,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Дачнӕй
- stem: Дачнӕй.
+ stem: дачнӕй.
  paradigm: Nct
  trans_ru: Дачное (село)
  trans_en: Dachnoe (village)
@@ -27301,7 +27297,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Двина
- stem: Двина.
+ stem: двина.
  paradigm: Nv
  trans_ru: Двина (река)
  trans_en: Dvina (river)
@@ -27903,7 +27899,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Джимара
- stem: Джимара.
+ stem: джимара.
  paradigm: Nv
  trans_ru: Джимара (село)
  trans_en: Dzhimara (village)
@@ -28099,14 +28095,14 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Джызӕл
- stem: Джызӕл.
+ stem: джызӕл.
  paradigm: Nct
  trans_ru: Гизель (село)
  trans_en: Gizel (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Джызӕлдонгэс
- stem: Джызӕлдонгэс.
+ stem: джызӕлдонгэс.
  paradigm: Nct
  trans_ru: Гизельдонгэс
  trans_en: Gizeldonges
@@ -28253,14 +28249,14 @@
  gramm: ADJ
 -lexeme
  lex: Дзасых
- stem: Дзасых.
+ stem: дзасых.
  paradigm: Nct
  trans_ru: Дзасых
  trans_en: Zashyh
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Дзау
- stem: Дзау.
+ stem: дзау.
  paradigm: Nct
  trans_ru: Джава (село, санаторий)
  trans_en: Dzhava (village, sanatorium)
@@ -28302,7 +28298,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Дзедо
- stem: Дзедо.
+ stem: дзедо.
  paradigm: Nv
  trans_ru: Дзедо
  trans_en: Dzedo
@@ -28400,7 +28396,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Дзинагъа
- stem: Дзинагъа.
+ stem: дзинагъа.
  paradigm: Nv
  trans_ru: Дзинага (село)
  trans_en: Dzinaga (village)
@@ -28435,7 +28431,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Дзомагъгом
- stem: Дзомагъгом.
+ stem: дзомагъгом.
  paradigm: Nct
  trans_ru: Дзомагское ущелье
  trans_en: Dzomag gorge
@@ -28568,7 +28564,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Дзуарыхъӕу
- stem: Дзуарыхъӕу.
+ stem: дзуарыхъӕу.
  paradigm: Nct
  trans_ru: Дзуарикау (село)
  trans_en: Dzwarikau (village)
@@ -28673,7 +28669,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Дзывгъис
- stem: Дзывгъис.
+ stem: дзывгъис.
  paradigm: Nct
  trans_ru: Дзивгис (село)
  trans_en: Dziwgis (village)
@@ -29499,7 +29495,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Дзӕуджыхъӕу
- stem: Дзӕуджыхъӕу.
+ stem: дзӕуджыхъӕу.
  paradigm: Nct
  trans_ru: Владикавказ
  trans_en: Vladikavkaz
@@ -29688,7 +29684,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Дигорӕ
- stem: Дигорӕ.
+ stem: дигорӕ.
  paradigm: Nv
  trans_ru: Дигора (город)
  trans_en: Digora (town)
@@ -29709,7 +29705,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Дидинатӕ
- stem: Дидинатӕ.
+ stem: дидинатӕ.
  paradigm: Nv
  trans_ru: Дидината (село)
  trans_en: Didinata (village
@@ -30297,14 +30293,14 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Днепр
- stem: Днепр.
+ stem: днепр.
  paradigm: Nct
  trans_ru: Днепр
  trans_en: Dnieper (river)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Днестр
- stem: Днестр.
+ stem: днестр.
  paradigm: Nct
  trans_ru: Днестр
  trans_en: Dniester (river)
@@ -30528,7 +30524,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Дон
- stem: Дон.
+ stem: дон.
  paradigm: Nct
  trans_ru: Дон
  trans_en: Don (river)
@@ -30570,7 +30566,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Донбасс
- stem: Донбасс.
+ stem: донбасс.
  paradigm: Nct
  trans_ru: Донбасс
  trans_en: Donets Basin
@@ -30682,7 +30678,7 @@
  gramm: N,bodypart,pltantum
 -lexeme
  lex: Донгӕнӕг
- stem: Донгӕнӕг.|Донгӕнӕдж.|Донгӕнӕг.
+ stem: донгӕнӕг.|Донгӕнӕдж.|Донгӕнӕг.
  paradigm: Nct
  trans_ru: Водолей
  trans_en: Aquarius
@@ -30773,7 +30769,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Донец
- stem: Донец.
+ stem: донец.
  paradigm: Nct
  trans_ru: Донец
  trans_en: Donets (river)
@@ -31004,7 +31000,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Донысӕр
- stem: Донысӕр.
+ stem: донысӕр.
  paradigm: Nct
  trans_ru: Донисар (село)
  trans_en: Donisar (village)
@@ -31277,7 +31273,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Дунай
- stem: Дунай.
+ stem: дунай.
  paradigm: Nct
  trans_ru: Дунай
  trans_en: Danube (river)
@@ -31312,14 +31308,14 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Дунесфӕлдисӕг
- stem: Дунесфӕлдисӕг.|Дунесфӕлдисӕдж.|Дунесфӕлдисӕг.
+ stem: дунесфӕлдисӕг.|Дунесфӕлдисӕдж.|Дунесфӕлдисӕг.
  paradigm: Nct
  trans_ru: Бог, Творец
  trans_en: God, the Creator
  gramm: N,anim,nonhuman
 -lexeme
  lex: Дунтӕ
- stem: Дунтӕ.
+ stem: дунтӕ.
  paradigm: Nv
  trans_ru: Дунта (село)
  trans_en: Dunta (village)
@@ -31333,7 +31329,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Дур-Дур
- stem: Дур-Дур.
+ stem: дур-Дур.
  paradigm: Nct
  trans_ru: Дур-Дур (село)
  trans_en: Dur-Dur (village)
@@ -31669,7 +31665,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Дыгургом
- stem: Дыгургом.
+ stem: дыгургом.
  paradigm: Nct
  trans_ru: Дигорское ущелье
  trans_en: Digor gorge
@@ -32348,7 +32344,7 @@
  gramm: V,tr,ptcp.pst
 -lexeme
  lex: Дӕйыхъӕу
- stem: Дӕйыхъӕу.
+ stem: дӕйыхъӕу.
  paradigm: Nct
  trans_ru: Даикау (село)
  trans_en: Daikau (village)
@@ -32614,98 +32610,98 @@
  gramm: ADJ
 -lexeme
  lex: Донгӕрон
- stem: Донгӕрон.
+ stem: донгӕрон.
  paradigm: Nct
  trans_ru: Донгарон (село)
  trans_en: Dongaron (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Зӕрӕмӕг
- stem: Зӕрӕмӕг.|Зӕрӕмӕдж.|Зӕрӕмӕг.
+ stem: зӕрӕмӕг.|Зӕрӕмӕдж.|Зӕрӕмӕг.
  paradigm: Nct
  trans_ru: Зарамаг (село)
  trans_en: Zaramag (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Камбилеевскӕй
- stem: Камбилеевскӕй.
+ stem: камбилеевскӕй.
  paradigm: Nct
  trans_ru: Камбилеевское (село)
  trans_en: Kambileevskoe (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Карца
- stem: Карца.
+ stem: карца.
  paradigm: Nv
  trans_ru: Карца (село)
  trans_en: Kartsa (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Лезгор
- stem: Лезгор.
+ stem: лезгор.
  paradigm: Nct
  trans_ru: Лезгор (село)
  trans_en: Lezgor (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Мызур
- stem: Мызур.
+ stem: мызур.
  paradigm: Nct
  trans_ru: Мизур (село)
  trans_en: Mizur (village)
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Пуриат
- stem: Пуриат.
+ stem: пуриат.
  paradigm: Nct
  trans_ru: Пуриат (село)
  trans_en: Puriat (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Саниба
- stem: Саниба.
+ stem: саниба.
  paradigm: Nv
  trans_ru: Саниба (село)
  trans_en: Saniba (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Тменыхъӕу
- stem: Тменыхъӕу.
+ stem: тменыхъӕу.
  paradigm: Nct
  trans_ru: Тменикау (село)
  trans_en: Tmenikau (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Тӕмискъ
- stem: Тӕмискъ.|Тӕмисчъ.|Тӕмискъ.
+ stem: тӕмискъ.|Тӕмисчъ.|Тӕмискъ.
  paradigm: Nct
  trans_ru: Тамиск (село)
  trans_en: Tamisk (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Уынал
- stem: Уынал.
+ stem: уынал.
  paradigm: Nct
  trans_ru: Унал (село)
  trans_en: Wynal (village
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Хъани
- stem: Хъани.
+ stem: хъани.
  paradigm: Nv
  trans_ru: Кани (село)
  trans_en: Kani (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Хъобан
- stem: Хъобан.
+ stem: хъобан.
  paradigm: Nct
  trans_ru: Кобан (село)
  trans_en: Koban (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Хӕнӕз
- stem: Хӕнӕз.
+ stem: хӕнӕз.
  paradigm: Nct
  trans_ru: Ханаз (село)
  trans_en: Khanaz (village)
@@ -32726,7 +32722,7 @@
  gramm: N,bodypart
 -lexeme
  lex: Дӕллагхъӕу
- stem: Дӕллагхъӕу.
+ stem: дӕллагхъӕу.
  paradigm: Nct
  trans_ru: Даллагкау (село)
  trans_en: Dallagkau (village)
@@ -33020,14 +33016,14 @@
  gramm: ADJ
 -lexeme
  lex: Дӕргъӕвс
- stem: Дӕргъӕвс.
+ stem: дӕргъӕвс.
  paradigm: Nct
  trans_ru: Даргавс (село)
  trans_en: Dargavs (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Дӕргъӕвсгом
- stem: Дӕргъӕвсгом.
+ stem: дӕргъӕвсгом.
  paradigm: Nct
  trans_ru: Даргавское ущелье
  trans_en: Dargavs gorge
@@ -33216,7 +33212,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Европӕ
- stem: Европӕ.
+ stem: европӕ.
  paradigm: Nv
  trans_ru: Европа
  trans_en: Europe
@@ -33244,7 +33240,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Египет
- stem: Египет.
+ stem: египет.
  paradigm: Nct
  trans_ru: Египет
  trans_en: Egipt
@@ -33272,7 +33268,7 @@
  gramm: ADJ
 -lexeme
  lex: Елгона
- stem: Елгона.
+ stem: елгона.
  paradigm: Nv
  trans_ru: Эльгона (село)
  trans_en: Elgona (village)
@@ -33286,7 +33282,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Елхотт
- stem: Елхотт.
+ stem: елхотт.
  paradigm: Nct
  trans_ru: Эльхотово (село)
  trans_en: Elhotovo (village)
@@ -33307,7 +33303,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Енисей
- stem: Енисей.
+ stem: енисей.
  paradigm: Nct
  trans_ru: Енисей
  trans_en: Yenisei (river)
@@ -33440,7 +33436,7 @@
  gramm: INTJ
 -lexeme
  lex: Ецъына
- stem: Ецъына.
+ stem: ецъына.
  paradigm: Nv
  trans_ru: Ецна (село)
  trans_en: Etsna (village)
@@ -33496,7 +33492,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Женевӕ
- stem: Женевӕ.
+ stem: женевӕ.
  paradigm: Nv
  trans_ru: Женева
  trans_en: Geneva
@@ -33699,7 +33695,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Зада
- stem: Зада.
+ stem: зада.
  paradigm: Nv
  trans_ru: название одной из семи звёзд созвездия Плеяд
  trans_en: 
@@ -33713,14 +33709,14 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Задӕлеск
- stem: Задӕлеск.|Задӕлесч.|Задӕлеск.
+ stem: задӕлеск.|Задӕлесч.|Задӕлеск.
  paradigm: Nct
  trans_ru: Задалеск (село)
  trans_en: Zadalesk (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Заз
- stem: Заз.
+ stem: заз.
  paradigm: Nct
  trans_ru: название одной из семи звезд созвездия Плеяд
  trans_en: 
@@ -33923,7 +33919,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Заманхъул
- stem: Заманхъул.
+ stem: заманхъул.
  paradigm: Nct
  trans_ru: Заманкул
  trans_en: Zamankul
@@ -34007,14 +34003,14 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Захъа
- stem: Захъа.
+ stem: захъа.
  paradigm: Nv
  trans_ru: Зака (село)
  trans_en: Zaka (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Захъагом
- stem: Захъагом.
+ stem: захъагом.
  paradigm: Nct
  trans_ru: Закинское ущелье
  trans_en: Zaka gorge
@@ -34063,7 +34059,7 @@
  gramm: N,inanim,nonhuman,pltantum
 -lexeme
  lex: Згъил
- stem: Згъил.
+ stem: згъил.
  paradigm: Nct
  trans_ru: Згил
  trans_en: Zgil
@@ -34259,7 +34255,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Зджыд
- stem: Зджыд.
+ stem: зджыд.
  paradigm: Nct
  trans_ru: Згид (село)
  trans_en: Zgid (village)
@@ -34420,7 +34416,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Зикъара
- stem: Зикъара.
+ stem: зикъара.
  paradigm: Nv
  trans_ru: Зикара
  trans_en: Zikara
@@ -34441,7 +34437,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Зилгӕ
- stem: Зилгӕ.
+ stem: зилгӕ.
  paradigm: Nv
  trans_ru: Зилга (село)
  trans_en: Zilga (village)
@@ -34532,7 +34528,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Змейкӕ
- stem: Змейкӕ.
+ stem: змейкӕ.
  paradigm: Nv
  trans_ru: Змейская (станция)
  trans_en: Zmeyskaya (station)
@@ -34861,14 +34857,14 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Зригатӕ
- stem: Зригатӕ.
+ stem: зригатӕ.
  paradigm: Nv
  trans_ru: Зригата (село)
  trans_en: Zrigata (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Зруггом
- stem: Зруггом.
+ stem: зруггом.
  paradigm: Nct
  trans_ru: Зругское ущелье
  trans_en: Zrug gorge
@@ -35372,7 +35368,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Зынцъар
- stem: Зынцъар.
+ stem: зынцъар.
  paradigm: Nct
  trans_ru: Зинцар (село)
  trans_en: Zintsar (village)
@@ -36842,7 +36838,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Идыл
- stem: Идыл.
+ stem: идыл.
  paradigm: Nct
  trans_ru: Волга
  trans_en: Volga (river)
@@ -37192,7 +37188,7 @@
  gramm: ADJ
 -lexeme
  lex: Инджынтӕ
- stem: Инджын.
+ stem: инджын.
  paradigm: Nv
  trans_ru: Инджынта (село)
  trans_en: Indjynta (village)
@@ -37206,7 +37202,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Инди
- stem: Инди.
+ stem: инди.
  paradigm: Nv
  trans_ru: Индия
  trans_en: India
@@ -37255,14 +37251,14 @@
  gramm: N,anim,human
 -lexeme
  lex: Индийы
- stem: Индийы.
+ stem: индийы.
  paradigm: ZERO
  trans_ru: Индийский (океан)
  trans_en: Indian (ocean)
  gramm: ADJ
 -lexeme
  lex: Индонези
- stem: Индонези.
+ stem: индонези.
  paradigm: Nv
  trans_ru: Индонезия
  trans_en: Indonesia
@@ -37619,7 +37615,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Интернационал
- stem: Интернационал.
+ stem: интернационал.
  paradigm: Nct
  trans_ru: Интернационал
  trans_en: International
@@ -37808,7 +37804,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Ир
- stem: Ир.
+ stem: ир.
  paradigm: Nct
  trans_ru: Осетия
  trans_en: Ossetia
@@ -37829,14 +37825,14 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Ирак
- stem: Ирак.|Ирач.|Ирак.
+ stem: ирак.|Ирач.|Ирак.
  paradigm: Nct
  trans_ru: Ирак
  trans_en: Iraq
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Иран
- stem: Иран.
+ stem: иран.
  paradigm: Nct
  trans_ru: Иран
  trans_en: Iran
@@ -37942,14 +37938,14 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Ирланди
- stem: Ирланди.
+ stem: ирланди.
  paradigm: Nct
  trans_ru: Ирландия
  trans_en: Ireland
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Ирон
- stem: Ирон.
+ stem: ирон.
  paradigm: Nct
  trans_ru: Ирон (село)
  trans_en: Iron (village)
@@ -38019,7 +38015,7 @@
  gramm: N-ADJ,inanim,nonhuman
 -lexeme
  lex: Иртыш
- stem: Иртыш.
+ stem: иртыш.
  paradigm: Nct
  trans_ru: Иртыш
  trans_en: Irtysh (river)
@@ -38061,7 +38057,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Ирыстон
- stem: Ирыстон.
+ stem: ирыстон.
  paradigm: Nct
  trans_ru: Осетия
  trans_en: Ossetia
@@ -38215,7 +38211,7 @@
  gramm: PRON,indef,nom
 -lexeme
  lex: Исланди
- stem: Исланди.
+ stem: исланди.
  paradigm: Nct
  trans_ru: Исландия
  trans_en: Iceland
@@ -38229,7 +38225,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Испани
- stem: Испани.
+ stem: испани.
  paradigm: Nct
  trans_ru: Испания
  trans_en: Spain
@@ -38299,7 +38295,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Итали
- stem: Итали.
+ stem: итали.
  paradigm: Nv
  trans_ru: Италия
  trans_en: Italy
@@ -39272,7 +39268,7 @@
  gramm: N,bodypart
 -lexeme
  lex: Кавказ
- stem: Кавказ.
+ stem: кавказ.
  paradigm: Nct
  trans_ru: Кавказ
  trans_en: Caucasus
@@ -39559,7 +39555,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Камбилеевкӕ
- stem: Камбилеевкӕ.
+ stem: камбилеевкӕ.
  paradigm: Nv
  trans_ru: Камбилеевка (река)
  trans_en: Kambileevka (river)
@@ -39594,21 +39590,21 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Камчаткӕ
- stem: Камчаткӕ.
+ stem: камчаткӕ.
  paradigm: Nv
  trans_ru: Камчатка
  trans_en: Kamchatka
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Камӕ
- stem: Камӕ.
+ stem: камӕ.
  paradigm: Nv
  trans_ru: Кама (река)
  trans_en: Kama (river)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Канадӕ
- stem: Канадӕ.
+ stem: канадӕ.
  paradigm: Nv
  trans_ru: Канада
  trans_en: Canada
@@ -39972,14 +39968,14 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Карпаты
- stem: Карпаты.
+ stem: карпаты.
  paradigm: Nv
  trans_ru: Карпатский (горы)
  trans_en: Carpathian
  gramm: ADJ
 -lexeme
  lex: Карскы
- stem: Карскы.
+ stem: карскы.
  paradigm: Nv
  trans_ru: Карское (море)
  trans_en: Kara (sea)
@@ -40154,7 +40150,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Каспийы
- stem: Каспийы.
+ stem: каспийы.
  paradigm: Nv
  trans_ru: Каспийский
  trans_en: Caspian
@@ -40714,21 +40710,21 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Кипр
- stem: Кипр.
+ stem: кипр.
  paradigm: Nct
  trans_ru: Кипр
  trans_en: Cyprus
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Кировы
- stem: Кировы.
+ stem: кировы.
  paradigm: Nct
  trans_ru: Кировский
  trans_en: Kirovskiy
  gramm: ADJ
 -lexeme
  lex: Кировыхъӕу
- stem: Кировыхъӕу.
+ stem: кировыхъӕу.
  paradigm: Nct
  trans_ru: Кирово (село)
  trans_en: Kirovo (village)
@@ -40742,7 +40738,7 @@
  gramm: N,anim,nonhuman
 -lexeme
  lex: Китай
- stem: Китай.
+ stem: китай.
  paradigm: Nct
  trans_ru: Китай
  trans_en: China
@@ -41064,7 +41060,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Кольскы
- stem: Кольскы.
+ stem: кольскы.
  paradigm: Nv
  trans_ru: Кольский
  trans_en: Kola
@@ -41183,7 +41179,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Комгӕрон
- stem: Комгӕрон.
+ stem: комгӕрон.
  paradigm: Nct
  trans_ru: Комгарон (село)
  trans_en: Komgaron (village)
@@ -41281,7 +41277,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Коминтерн
- stem: Коминтерн.
+ stem: коминтерн.
  paradigm: Nct
  trans_ru: Коминтерн
  trans_en: Comintern
@@ -41575,7 +41571,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Комсомольскӕй
- stem: Комсомольскӕй.
+ stem: комсомольскӕй.
  paradigm: Nct
  trans_ru: Комсомольское (село)
  trans_en: Komsomolskoe (village)
@@ -41666,7 +41662,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Конго
- stem: Конго.
+ stem: конго.
  paradigm: Nv
  trans_ru: Конго
  trans_en: Congo
@@ -42219,7 +42215,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Корей
- stem: Корей.
+ stem: корей.
  paradigm: Nct
  trans_ru: Корея
  trans_en: Korea
@@ -42296,7 +42292,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Корсикӕ
- stem: Корсикӕ.
+ stem: корсикӕ.
  paradigm: Nv
  trans_ru: Корсика (остров)
  trans_en: Corsica (island)
@@ -42415,7 +42411,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Красногор
- stem: Красногор.
+ stem: красногор.
  paradigm: Nct
  trans_ru: Красногор (село)
  trans_en: Krasnogor (village)
@@ -42555,7 +42551,7 @@
  gramm: ADJ
 -lexeme
  lex: Крит
- stem: Крит.
+ stem: крит.
  paradigm: Nct
  trans_ru: Крит (остров)
  trans_en: Crete (island)
@@ -42618,14 +42614,14 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Ксурт
- stem: Ксурт.
+ stem: ксурт.
  paradigm: Nct
  trans_ru: Ксурт (село)
  trans_en: Ksurt (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Куадзӕн
- stem: Куадзӕн.
+ stem: куадзӕн.
  paradigm: Nct
  trans_ru: Пасха
  trans_en: Easter
@@ -42646,7 +42642,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Кубань
- stem: Кубань.//Кубан.
+ stem: кубань.//Кубан.
  paradigm: Nct
  trans_ru: Кубань (село)
  trans_en: Kuban (village)
@@ -42667,7 +42663,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Кубӕ
- stem: Кубӕ.
+ stem: кубӕ.
  paradigm: Nv
  trans_ru: Куба
  trans_en: Cuba
@@ -42716,7 +42712,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Кузбасс
- stem: Кузбасс.
+ stem: кузбасс.
  paradigm: Nct
  trans_ru: Кузбасс
  trans_en: Kuznetsk Basin
@@ -42919,7 +42915,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Курилы
- stem: Курилы.
+ stem: курилы.
  paradigm: Nv
  trans_ru: Курильский
  trans_en: Kuril (Islands)
@@ -43339,7 +43335,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Куырттат
- stem: Куырттат.
+ stem: куырттат.
  paradigm: Nct
  trans_ru: Куртат (село)
  trans_en: Kurtat (village)
@@ -43353,7 +43349,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Куырттаты
- stem: Куырттаты.
+ stem: куырттаты.
  paradigm: Nct
  trans_ru: Куртатинский (ущелье)
  trans_en: Kurtat (gorge)
@@ -44081,7 +44077,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Кӕрдзын
- stem: Кӕрдзын.
+ stem: кӕрдзын.
  paradigm: Nct
  trans_ru: Карджин (село)
  trans_en: Kardjin (village)
@@ -44571,7 +44567,7 @@
  gramm: V,intr,ptcp.pst
 -lexeme
  lex: Кӕсӕг
- stem: Кӕсӕг.|Кӕсӕдж.|Кӕсӕг.
+ stem: кӕсӕг.|Кӕсӕдж.|Кӕсӕг.
  paradigm: Nct
  trans_ru: Кабарда
  trans_en: Kabardia
@@ -44585,7 +44581,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Кӕсӕг-Балхъары
- stem: Кӕсӕг-Балхъары.
+ stem: кӕсӕг-Балхъары.
  paradigm: Nct
  trans_ru: Кабардино-Балкарский
  trans_en: Kabardino-Balkaria (attr)
@@ -45216,14 +45212,14 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Къаматӕ
- stem: Къаматӕ.
+ stem: къаматӕ.
  paradigm: Nv
  trans_ru: Камата (село)
  trans_en: Kamata (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Къамах
- stem: Къамах.
+ stem: къамах.
  paradigm: Nct
  trans_ru: Камах
  trans_en: Kamakh
@@ -45279,7 +45275,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Къамсхо
- stem: Къамсхо.
+ stem: къамсхо.
  paradigm: Nv
  trans_ru: Камсхо (село)
  trans_en: Kamskho (village)
@@ -45384,7 +45380,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Къасарагом
- stem: Къасарагом.
+ stem: къасарагом.
  paradigm: Nct
  trans_ru: Касарское ущелье
  trans_en: Kasar gorge
@@ -45475,7 +45471,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Къахет
- stem: Къахет.
+ stem: къахет.
  paradigm: Nct
  trans_ru: Кахетия
  trans_en: Kakhetia
@@ -45678,7 +45674,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Къоб
- stem: Къоб.
+ stem: къоб.
  paradigm: Nct
  trans_ru: Коб (село)
  trans_en: Kob (village)
@@ -45734,7 +45730,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Къодахджын
- stem: Къодахджын.
+ stem: къодахджын.
  paradigm: Nct
  trans_ru: Кодахджын (село)
  trans_en: Kodakhdzhyn (village)
@@ -45811,7 +45807,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Къора-Урсдон
- stem: Къора-Урсдон.
+ stem: къора-Урсдон.
  paradigm: Nct
  trans_ru: Кора-Урсдон (село)
  trans_en: Kora-Ursdon (village)
@@ -45846,7 +45842,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Къоста
- stem: Къоста.
+ stem: къоста.
  paradigm: Nv
  trans_ru: Коста
  trans_en: Kosta
@@ -46056,7 +46052,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Къумбул
- stem: Къумбул.|Къумбул.|Къумбул.
+ stem: къумбул.|Къумбул.|Къумбул.
  paradigm: Nct
  trans_ru: Кумбулта (село)
  trans_en: Kumbulta (village)
@@ -46147,7 +46143,7 @@
  gramm: N,bodypart
 -lexeme
  lex: Къуссу
- stem: Къуссу.
+ stem: къуссу.
  paradigm: Nv
  trans_ru: Кусу (село)
  trans_en: Kusu (village)
@@ -46406,7 +46402,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Къуыдаргом
- stem: Къуыдаргом.
+ stem: къуыдаргом.
  paradigm: Nct
  trans_ru: Кударское ущелье
  trans_en: Kudar gorge
@@ -47127,7 +47123,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Къӕмунтӕ
- stem: Къӕмунтӕ.
+ stem: къӕмунтӕ.
  paradigm: Nv
  trans_ru: Камунта (село)
  trans_en: Kamunta (village)
@@ -47393,7 +47389,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Къӕхтысӕр
- stem: Къӕхтысӕр.
+ stem: къӕхтысӕр.
  paradigm: Nct
  trans_ru: Кахтисар (село)
  trans_en: Kakhtisar (village)
@@ -47505,7 +47501,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Ладогӕ
- stem: Ладогӕ.
+ stem: ладогӕ.
  paradigm: Nv
  trans_ru: Ладога
  trans_en: Ladoga
@@ -47582,7 +47578,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Ламанш
- stem: Ламанш.
+ stem: ламанш.
  paradigm: Nct
  trans_ru: Ла-Манш
  trans_en: English Channel
@@ -47631,7 +47627,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Ларс
- stem: Ларс.
+ stem: ларс.
  paradigm: Nct
  trans_ru: Ларс (село)
  trans_en: Lars (village)
@@ -47666,7 +47662,7 @@
  gramm: V,tr,ptcp.pst
 -lexeme
  lex: Латви
- stem: Латви.
+ stem: латви.
  paradigm: Nv
  trans_ru: Латвия
  trans_en: Latvia
@@ -47939,14 +47935,14 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Ленӕ
- stem: Ленӕ.
+ stem: ленӕ.
  paradigm: Nv
  trans_ru: Лена
  trans_en: Lena
  gramm: N,prop,anim,human
 -lexeme
  lex: Ленӕ
- stem: Ленӕ.
+ stem: ленӕ.
  paradigm: Nv
  trans_ru: Лена (река)
  trans_en: Lena (river)
@@ -47960,14 +47956,14 @@
  gramm: N,anim,nonhuman
 -lexeme
  lex: Лескен
- stem: Лескен.
+ stem: лескен.
  paradigm: Nct
  trans_ru: Лескен (река, село)
  trans_en: Lesken (river, village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Леуахи
- stem: Леуахи.
+ stem: леуахи.
  paradigm: Nv
  trans_ru: Лиахва (река)
  trans_en: Liakhva (river)
@@ -48009,7 +48005,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Ливи
- stem: Ливи.
+ stem: ливи.
  paradigm: Nv
  trans_ru: Ливия
  trans_en: Libya
@@ -48184,14 +48180,14 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Лисыри
- stem: Лисыри.
+ stem: лисыри.
  paradigm: Nv
  trans_ru: Лисыри (село)
  trans_en: Lisyri (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Литва
- stem: Литва.
+ stem: литва.
  paradigm: Nct
  trans_ru: Литва
  trans_en: Lithuania
@@ -48408,7 +48404,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Лондон
- stem: Лондон.|Лондон.|Лондон.//Лондӕт.
+ stem: лондон.|Лондон.|Лондон.//Лондӕт.
  paradigm: Nct
  trans_ru: Лондон
  trans_en: London
@@ -48429,7 +48425,7 @@
  gramm: ADJ
 -lexeme
  lex: Лотаринги
- stem: Лотаринги.
+ stem: лотаринги.
  paradigm: Nv
  trans_ru: Лотарингия
  trans_en: Lotharingia
@@ -48464,7 +48460,7 @@
  gramm: ADJ
 -lexeme
  lex: Луар
- stem: Луар.
+ stem: луар.
  paradigm: Nct
  trans_ru: Луар (село)
  trans_en: Luar (village)
@@ -48478,7 +48474,7 @@
  gramm: V,tr
 -lexeme
  lex: Луковскӕй
- stem: Луковскӕй.
+ stem: луковскӕй.
  paradigm: Nct
  trans_ru: Луковская (станица)
  trans_en: Lukovskaya (village)
@@ -49220,7 +49216,7 @@
  gramm: ADJ
 -lexeme
  lex: Лӕц
- stem: Лӕц.
+ stem: лӕц.
  paradigm: Nct
  trans_ru: Лац (село)
  trans_en: Lac (village)
@@ -49381,7 +49377,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Майрӕм
- stem: Майрӕм.
+ stem: майрӕм.
  paradigm: Nct
  trans_ru: Мария
  trans_en: Mary
@@ -49507,7 +49503,7 @@
  gramm: CONJ
 -lexeme
  lex: Майкъоп
- stem: Майкъоп.
+ stem: майкъоп.
  paradigm: Nct
  trans_ru: Майкоп
  trans_en: Maykop
@@ -49542,7 +49538,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Майрӕмадаг
- stem: Майрӕмадаг.|Майрӕмададж.|Майрӕмадӕг.
+ stem: майрӕмадаг.|Майрӕмададж.|Майрӕмадӕг.
  paradigm: Nct
  trans_ru: Майрамадаг (село)
  trans_en: Mayramadag (village)
@@ -49691,7 +49687,7 @@
  gramm: N,anim,nonhuman
 -lexeme
  lex: Мамысон
- stem: Мамысон.
+ stem: мамысон.
  paradigm: Nct
  trans_ru: Мамисон (село)
  trans_en: Mamison (village)
@@ -49719,7 +49715,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Мангол
- stem: Мангол.
+ stem: мангол.
  paradigm: Nct
  trans_ru: Монголия
  trans_en: Mongolia
@@ -50559,7 +50555,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Мексикӕ
- stem: Мексикӕ.
+ stem: мексикӕ.
  paradigm: Nv
  trans_ru: Мексика
  trans_en: Mexico
@@ -51693,7 +51689,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Михайловскӕй
- stem: Михайловскӕй.
+ stem: михайловскӕй.
  paradigm: Nct
  trans_ru: Михайловское (село)
  trans_en: Mikhailovskoe (village)
@@ -51707,7 +51703,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Мичурин
- stem: Мичурин.
+ stem: мичурин.
  paradigm: Nct
  trans_ru: Мичурин
  trans_en: Michurin
@@ -51861,7 +51857,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Мысыр
- stem: Мысыр.
+ stem: мысыр.
  paradigm: Nct
  trans_ru: Египет
  trans_en: Egypt
@@ -52036,7 +52032,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Мӕздӕг
- stem: Мӕздӕг.|Мӕздӕдж.|Мӕздӕг.//Мӕздӕджы.
+ stem: мӕздӕг.|Мӕздӕдж.|Мӕздӕг.//Мӕздӕджы.
  paradigm: Nct
  trans_ru: Моздок (город)
  trans_en: Mozdok (city)
@@ -52659,7 +52655,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Мӕскуы
- stem: Мӕскуы.
+ stem: мӕскуы.
  paradigm: Nv
  trans_ru: Москва
  trans_en: Moscow
@@ -52862,7 +52858,7 @@
  gramm: N,bodypart
 -lexeme
  lex: Мӕхческ
- stem: Мӕхческ.|Мӕхческ.//Мӕхчесч.|Мӕхческ.//Мӕхчесчы.
+ stem: мӕхческ.|Мӕхческ.//Мӕхчесч.|Мӕхческ.//Мӕхчесчы.
  paradigm: Nct
  trans_ru: Махческ (село)
  trans_en: Makhchesk (village)
@@ -52883,7 +52879,7 @@
  gramm: N,anim,nonhuman
 -lexeme
  lex: Мӕхъхъӕл
- stem: Мӕхъхъӕл.
+ stem: мӕхъхъӕл.
  paradigm: Nct
  trans_ru: Ингушетия
  trans_en: Ingushetia
@@ -52911,7 +52907,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Мӕцутӕ
- stem: Мӕцутӕ.
+ stem: мӕцутӕ.
  paradigm: Nv
  trans_ru: Мацута (поселок)
  trans_en: Macuta (village)
@@ -53114,7 +53110,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Нар
- stem: Нар.
+ stem: нар.
  paradigm: Nct
  trans_ru: Нар (село)
  trans_en: Nar (village)
@@ -53135,7 +53131,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Нарт
- stem: Нарт.
+ stem: нарт.
  paradigm: Nct
  trans_ru: нарты
  trans_en: Narts
@@ -53233,7 +53229,7 @@
  gramm: ADJ
 -lexeme
  lex: Нартыхъӕу
- stem: Нартыхъӕу.
+ stem: нартыхъӕу.
  paradigm: Nct
  trans_ru: Нарт (село)
  trans_en: Nart (village)
@@ -53611,7 +53607,7 @@
  gramm: V,prs,3,sg,neg
 -lexeme
  lex: Нева
- stem: Нева.
+ stem: нева.
  paradigm: Nct
  trans_ru: Нева
  trans_en: Neva (river)
@@ -53723,7 +53719,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Неман
- stem: Неман.
+ stem: неман.
  paradigm: Nct
  trans_ru: Неман (река)
  trans_en: Neman (river)
@@ -53849,7 +53845,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Нидерландтӕ
- stem: Нидерланд.
+ stem: нидерланд.
  paradigm: Nct
  trans_ru: Нидерланды
  trans_en: The Netherlands
@@ -53912,7 +53908,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Николаевскӕй
- stem: Николаевскӕй.
+ stem: николаевскӕй.
  paradigm: Nct
  trans_ru: Николаевская (станица)
  trans_en: Nikolaevskaya (Cossack village)
@@ -54017,7 +54013,7 @@
  gramm: PRON,neg
 -lexeme
  lex: Нил
- stem: Нил.
+ stem: нил.
  paradigm: Nct
  trans_ru: Нил (река)
  trans_en: Nile (river)
@@ -54108,7 +54104,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Ново-Осетинскӕй
- stem: Ново-Осетинскӕй.
+ stem: ново-Осетинскӕй.
  paradigm: Nct
  trans_ru: Ново-Осетинская (станица)
  trans_en: Novo-Osetinskaya (Cossack village)
@@ -54122,21 +54118,21 @@
  gramm: ADJ
 -lexeme
  lex: Бӕтӕхъойыхъӕу
- stem: Бӕтӕхъойыхъӕу.
+ stem: бӕтӕхъойыхъӕу.
  paradigm: Nct
  trans_ru: Батако (село)
  trans_en: Batako (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Гвиней
- stem: Гвиней.
+ stem: гвиней.
  paradigm: Nct
  trans_ru: Гвинея
  trans_en: Guinea
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Зеланди
- stem: Зеланди.
+ stem: зеланди.
  paradigm: Nv
  trans_ru: Зеландия
  trans_en: Zealand
@@ -54213,7 +54209,7 @@
  gramm: N-ADJ,anim,nonhuman
 -lexeme
  lex: Ногир
- stem: Ногир.
+ stem: ногир.
  paradigm: Nct
  trans_ru: Ногир (село)
  trans_en: Nogir (village)
@@ -54255,7 +54251,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Ногхъӕу
- stem: Ногхъӕу.
+ stem: ногхъӕу.
  paradigm: Nct
  trans_ru: Ногкау (село)
  trans_en: Nogkau (village)
@@ -54542,7 +54538,7 @@
  gramm: NUM,card
 -lexeme
  lex: Нузал
- stem: Нузал.
+ stem: нузал.
  paradigm: Nct
  trans_ru: Нузал (село)
  trans_en: Nuzal (village)
@@ -55263,7 +55259,7 @@
  gramm: V,intr
 -lexeme
  lex: Нью-Йорк
- stem: Нью-Йорк.|Нью-Йорч.|Нью-Йорк.
+ stem: нью-Йорк.|Нью-Йорч.|Нью-Йорк.
  paradigm: Nct
  trans_ru: Нью-Йорк
  trans_en: New York
@@ -55354,7 +55350,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Нӕзыджын
- stem: Нӕзыджын.
+ stem: нӕзыджын.
  paradigm: Nct
  trans_ru: Назиджин (село)
  trans_en: Nazidzhin (village)
@@ -55788,7 +55784,7 @@
  gramm: ADJ
 -lexeme
  lex: Обь
- stem: Обь.//Об.
+ stem: обь.//Об.
  paradigm: Nct
  trans_ru: Обь
  trans_en: Ob' (river)
@@ -55816,21 +55812,21 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Одер
- stem: Одер.
+ stem: одер.
  paradigm: Nct
  trans_ru: Одер
  trans_en: Oder
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Одессӕ
- stem: Одессӕ.
+ stem: одессӕ.
  paradigm: Nv
  trans_ru: Одесса
  trans_en: Odessa
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Одола
- stem: Одола.
+ stem: одола.
  paradigm: Nv
  trans_ru: Одола (село)
  trans_en: Odola (village)
@@ -55858,7 +55854,7 @@
  gramm: INTJ
 -lexeme
  lex: Ока
- stem: Ока.
+ stem: ока.
  paradigm: Nv
  trans_ru: Ока
  trans_en: Oka (river)
@@ -55886,7 +55882,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Окрохъана
- stem: Окрохъана.
+ stem: окрохъана.
  paradigm: Nv
  trans_ru: Окрокана (село)
  trans_en: Okrokana (village)
@@ -55914,7 +55910,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Октябрьскӕй
- stem: Октябрьскӕй.
+ stem: октябрьскӕй.
  paradigm: Nct
  trans_ru: Октябрьский (посёлок)
  trans_en: Oktyabrsky (village)
@@ -55963,14 +55959,14 @@
  gramm: N,anim,nonhuman
 -lexeme
  lex: Ольгинскӕ
- stem: Ольгинскӕ.
+ stem: ольгинскӕ.
  paradigm: Nv
  trans_ru: Ольгинское (село)
  trans_en: Ol'ginskoe (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Ом
- stem: Ом.
+ stem: ом.
  paradigm: Nct
  trans_ru: Ом
  trans_en: ohm
@@ -56033,7 +56029,7 @@
  gramm: POST
 -lexeme
  lex: Онегӕ
- stem: Онегӕ.
+ stem: онегӕ.
  paradigm: Nv
  trans_ru: Онега
  trans_en: Onega
@@ -56474,7 +56470,7 @@
  gramm: N,CP
 -lexeme
  lex: Охотск
- stem: Охотск.
+ stem: охотск.
  paradigm: Nct
  trans_ru: Охотск
  trans_en: Okhotsk
@@ -56530,7 +56526,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Па-де-Кале
- stem: Па-де-Кале.
+ stem: па-де-Кале.
  paradigm: Nct
  trans_ru: Па-де-Кале
  trans_en: Strait of Dover
@@ -56544,7 +56540,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Павлодольскӕй
- stem: Павлодольскӕй.
+ stem: павлодольскӕй.
  paradigm: Nct
  trans_ru: Павлодольская (деревня)
  trans_en: Pavlodol'skaya (village)
@@ -56733,7 +56729,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Памир
- stem: Памир.
+ stem: памир.
  paradigm: Nct
  trans_ru: Памир
  trans_en: the Pamirs
@@ -56761,7 +56757,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Панамӕ
- stem: Панамӕ.//Панам.
+ stem: панамӕ.//Панам.
  paradigm: Nct
  trans_ru: Панама
  trans_en: Panama
@@ -57608,7 +57604,7 @@
  gramm: ADJ
 -lexeme
  lex: Перс
- stem: Перс.
+ stem: перс.
  paradigm: Nct
  trans_ru: Персия 
  trans_en: Persia
@@ -57643,7 +57639,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Петербург
- stem: Петербург.|Петербург.//Петербурдж.|Петербург.
+ stem: петербург.|Петербург.//Петербурдж.|Петербург.
  paradigm: Nct
  trans_ru: Петербург
  trans_en: Petersburg
@@ -57874,7 +57870,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Пиренейтӕ
- stem: Пиреней.
+ stem: пиреней.
  paradigm: Nct
  trans_ru: Пиренеи
  trans_en: Pyrenees
@@ -58280,7 +58276,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Пограничнӕй
- stem: Пограничнӕй.
+ stem: пограничнӕй.
  paradigm: Nct
  trans_ru: Пограничное (село)
  trans_en: Pogranichnoe (village)
@@ -58455,7 +58451,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Польшӕ
- stem: Польшӕ.
+ stem: польшӕ.
  paradigm: Nv
  trans_ru: Польша
  trans_en: Poland
@@ -58644,7 +58640,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Потыхъӕу
- stem: Потыхъӕу.
+ stem: потыхъӕу.
  paradigm: Nct
  trans_ru: Потыкау (село)
  trans_en: Potykau (village)
@@ -58770,7 +58766,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Предместнӕй
- stem: Предместнӕй.
+ stem: предместнӕй.
  paradigm: Nct
  trans_ru: Предместный (хутор)
  trans_en: Predmestnyj (homestead)
@@ -60625,7 +60621,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Раздзог
- stem: Раздзог.|Раздзодж.|Раздзог.
+ stem: раздзог.|Раздзодж.|Раздзог.
  paradigm: Nct
  trans_ru: Раздзог (село)
  trans_en: Razdzog (village)
@@ -60646,7 +60642,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Раздольнӕй
- stem: Раздольнӕй.
+ stem: раздольнӕй.
  paradigm: Nct
  trans_ru: Раздольное (село)
  trans_en: Razdol'noe (village)
@@ -60968,7 +60964,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Рассвет
- stem: Рассвет.
+ stem: рассвет.
  paradigm: Nct
  trans_ru: Рассвет (село)
  trans_en: Rassvet (village)
@@ -61115,7 +61111,7 @@
  gramm: ADJ
 -lexeme
  lex: Рахизфарс
- stem: Рахизфарс.
+ stem: рахизфарс.
  paradigm: Nct
  trans_ru: правый берег
  trans_en: right coast
@@ -61311,7 +61307,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Регах
- stem: Регах.
+ stem: регах.
  paradigm: Nct
  trans_ru: Регах (село)
  trans_en: Regakh (village)
@@ -61388,7 +61384,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Редант
- stem: Редант.
+ stem: редант.
  paradigm: Nct
  trans_ru: Редант (село)
  trans_en: Redant (village)
@@ -61507,7 +61503,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Рейн
- stem: Рейн.
+ stem: рейн.
  paradigm: Nct
  trans_ru: Рейн
  trans_en: Rhine
@@ -61892,7 +61888,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Ригӕ
- stem: Ригӕ.
+ stem: ригӕ.
  paradigm: Nv
  trans_ru: Рига
  trans_en: Riga
@@ -61906,7 +61902,7 @@
  gramm: V,intr
 -lexeme
  lex: Рим
- stem: Рим.
+ stem: рим.
  paradigm: Nct
  trans_ru: Рим
  trans_en: Rome
@@ -62165,7 +62161,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Ром
- stem: Ром.
+ stem: ром.
  paradigm: Nct
  trans_ru: Рим
  trans_en: Rome
@@ -62354,7 +62350,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: РТС
- stem: РТС.
+ stem: рТС.
  paradigm: Nct
  trans_ru: ремонтно-техническая станция
  trans_en: service and supply station
@@ -62480,7 +62476,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Румыни
- stem: Румыни.
+ stem: румыни.
  paradigm: Nv
  trans_ru: Румыния
  trans_en: Romania
@@ -62592,7 +62588,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Рукъ
- stem: Рукъ.|Ручъ.|Рукъ.
+ stem: рукъ.|Ручъ.|Рукъ.
  paradigm: Nct
  trans_ru: Рук (село)
  trans_en: Ruk (village)
@@ -63607,7 +63603,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Сагол
- stem: Сагол.
+ stem: сагол.
  paradigm: Nct
  trans_ru: Сагол (село)
  trans_en: Sagol (village)
@@ -63719,7 +63715,7 @@
  gramm: V,tr
 -lexeme
  lex: Садон
- stem: Садон.
+ stem: садон.
  paradigm: Nct
  trans_ru: Садон (село)
  trans_en: Sadon (village)
@@ -63901,7 +63897,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Санибагом
- stem: Санибагом.
+ stem: санибагом.
  paradigm: Nct
  trans_ru: Санибанское ущелье
  trans_en: Saniba gorge
@@ -63929,7 +63925,7 @@
  gramm: ADJ
 -lexeme
  lex: Санкт-Петербург
- stem: Санкт-Петербург.|Санкт-Петербурдж.|Санкт-Петербург.
+ stem: санкт-Петербург.|Санкт-Петербурдж.|Санкт-Петербург.
  paradigm: Nct
  trans_ru: Санкт-Петербург
  trans_en: Saint Petersburg
@@ -64195,7 +64191,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Сатъат
- stem: Сатъат.
+ stem: сатъат.
  paradigm: Nct
  trans_ru: Сатат (село)
  trans_en: Satat (village)
@@ -64552,7 +64548,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Сахалин
- stem: Сахалин.
+ stem: сахалин.
  paradigm: Nct
  trans_ru: Сахалин
  trans_en: Sakhalin
@@ -64580,7 +64576,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Сахарӕ
- stem: Сахарӕ.
+ stem: сахарӕ.
  paradigm: Nv
  trans_ru: Сахара
  trans_en: Sahara
@@ -64601,7 +64597,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Сахсатыхъӕу
- stem: Сахсатыхъӕу.
+ stem: сахсатыхъӕу.
  paradigm: Nct
  trans_ru: Сахсатикау (село)
  trans_en: Sakhsatikau (village)
@@ -64944,7 +64940,7 @@
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Сенӕ
- stem: Сенӕ.
+ stem: сенӕ.
  paradigm: Nv
  trans_ru: Сена (река)
  trans_en: Seine (river)
@@ -65021,7 +65017,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Сечер
- stem: Сечер.
+ stem: сечер.
  paradigm: Nct
  trans_ru: Новый Урух (село)
  trans_en: Novyj Urukh (village)
@@ -65532,7 +65528,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Сицили
- stem: Сицили.
+ stem: сицили.
  paradigm: Nv
  trans_ru: Сицилия
  trans_en: Sicily
@@ -65966,7 +65962,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Сомих
- stem: Сомих.
+ stem: сомих.
  paradigm: Nct
  trans_ru: Армения
  trans_en: Armenia
@@ -65987,7 +65983,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Сомихыстон
- stem: Сомихыстон.
+ stem: сомихыстон.
  paradigm: Nct
  trans_ru: Армения
  trans_en: Armenia
@@ -66113,14 +66109,14 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: София
- stem: София.
+ stem: софия.
  paradigm: Nct
  trans_ru: София (город)
  trans_en: Sofia (city)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: София
- stem: София.
+ stem: софия.
  paradigm: Nct
  trans_ru: София
  trans_en: Sofia
@@ -66442,7 +66438,7 @@
  gramm: V,tr
 -lexeme
  lex: ССРЦ
- stem: ССРЦ.
+ stem: сСРЦ.
  paradigm: Nct
  trans_ru: СССР
  trans_en: USSR
@@ -66561,7 +66557,7 @@
  gramm: ADJ
 -lexeme
  lex: Ставддуртӕ
- stem: Ставддур.
+ stem: ставддур.
  paradigm: Nct
  trans_ru: Ставддорт (село)
  trans_en: Stavddort (village)
@@ -66573,7 +66569,6 @@
  trans_ru: ставка
  trans_en: bet, stake
  gramm: N,inanim,nonhuman
- gramm: ADJ
 -lexeme
  lex: стади
  stem: стади.
@@ -66632,7 +66627,7 @@
  gramm: V,intr
 -lexeme
  lex: Стамбул
- stem: Стамбул.
+ stem: стамбул.
  paradigm: Nct
  trans_ru: Стамбул
  trans_en: Istanbul
@@ -66954,7 +66949,7 @@
  gramm: N-ADJ,inanim,nonhuman
 -lexeme
  lex: Стокгольм
- stem: Стокгольм.
+ stem: стокгольм.
  paradigm: Nct
  trans_ru: Стокгольм
  trans_en: Stockholm
@@ -67087,7 +67082,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Стъарапол
- stem: Стъарапол.
+ stem: стъарапол.
  paradigm: Nct
  trans_ru: Ставрополь (город)
  trans_en: Stavropol (city)
@@ -67157,7 +67152,7 @@
  gramm: ADJ
 -lexeme
  lex: Стыр-Дыгур
- stem: Стыр-Дыгур.
+ stem: стыр-Дыгур.
  paradigm: Nct
  trans_ru: Стур-Дигора (село)
  trans_en: Stur-Digora (village)
@@ -67549,7 +67544,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Сулӕрдон
- stem: Сулӕрдон.
+ stem: сулӕрдон.
  paradigm: Nct
  trans_ru: Сулардон (село)
  trans_en: Sulardon (village)
@@ -67563,7 +67558,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Сунжӕ
- stem: Сунжӕ.
+ stem: сунжӕ.
  paradigm: Nct
  trans_ru: Сунжа
  trans_en: Sunzha (river, village)
@@ -67773,7 +67768,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Сухотскӕй
- stem: Сухотскӕй.
+ stem: сухотскӕй.
  paradigm: Nct
  trans_ru: Сухотский (посёлок)
  trans_en: Sukhotskij (village)
@@ -67794,7 +67789,7 @@
  gramm: V,intr
 -lexeme
  lex: Суэц
- stem: Суэц.
+ stem: суэц.
  paradigm: Nct
  trans_ru: Суэц (город)
  trans_en: Suez (city)
@@ -67962,7 +67957,7 @@
  gramm: N-ADJ,inanim,nonhuman
 -lexeme
  lex: Сыба
- stem: Сыба.
+ stem: сыба.
  paradigm: Nv
  trans_ru: Сба (село)
  trans_en: Sba (village)
@@ -67983,7 +67978,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Сыбыр
- stem: Сыбыр.
+ stem: сыбыр.
  paradigm: Nct
  trans_ru: Сибирь
  trans_en: Siberia
@@ -68459,7 +68454,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Сындзысӕр
- stem: Сындзысӕр.
+ stem: сындзысӕр.
  paradigm: Nct
  trans_ru: Сындзисар (село)
  trans_en: Syndzisar (village)
@@ -68578,7 +68573,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Сыр-Дарья
- stem: Сыр-Дарья.
+ stem: сыр-Дарья.
  paradigm: Nv
  trans_ru: Сыр-Дарья (река)
  trans_en: Syr-Darya (river)
@@ -68669,7 +68664,7 @@
  gramm: N-ADJ,inanim,nonhuman
 -lexeme
  lex: Сырх-Дыгур
- stem: Сырх-Дыгур.
+ stem: сырх-Дыгур.
  paradigm: Nct
  trans_ru: Сурх-Дигора (село)
  trans_en: Surkh-Digora (village)
@@ -69460,7 +69455,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Сӕна
- stem: Сӕна.
+ stem: сӕна.
  paradigm: Nv
  trans_ru: Казбек
  trans_en: Kazbek
@@ -69493,9 +69488,6 @@
  trans_ru: винный магазин
  trans_en: alcohol shop
  gramm: N,inanim,nonhuman,ag
- trans_ru: винный
- trans_en: wine
- gramm: ADJ
 -lexeme
  lex: сӕндуцын
  stem: сӕндуцын.
@@ -70569,7 +70561,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Таджикистан
- stem: Таджикистан.
+ stem: таджикистан.
  paradigm: Nct
  trans_ru: Таджикистан
  trans_en: Tajikistan
@@ -70597,7 +70589,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Тайван
- stem: Тайван.
+ stem: тайван.
  paradigm: Nct
  trans_ru: Тайвань
  trans_en: Taiwan
@@ -70611,7 +70603,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Таймыр
- stem: Таймыр.
+ stem: таймыр.
  paradigm: Nct
  trans_ru: Таймыр
  trans_en: Taimyr
@@ -70975,7 +70967,7 @@
  gramm: N,anim,nonhuman
 -lexeme
  lex: Тарскӕй
- stem: Тарскӕй.
+ stem: тарскӕй.
  paradigm: Nct
  trans_ru: Тарское (село)
  trans_en: Tarskoe (village)
@@ -71171,7 +71163,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Тбилис
- stem: Тбилис.
+ stem: тбилис.
  paradigm: Nct
  trans_ru: Тбилиси
  trans_en: Tbilisi
@@ -71220,7 +71212,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Тегеран
- stem: Тегеран.
+ stem: тегеран.
  paradigm: Nct
  trans_ru: Тегеран
  trans_en: Tehran
@@ -71850,7 +71842,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Тоборза
- stem: Тоборза.
+ stem: тоборза.
  paradigm: Nv
  trans_ru: Тоборза (село)
  trans_en: Toborza (village)
@@ -71892,7 +71884,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Токио
- stem: Токио.
+ stem: токио.
  paradigm: Nv
  trans_ru: Токио
  trans_en: Tokyo
@@ -71913,7 +71905,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Толдзгун
- stem: Толдзгун.
+ stem: толдзгун.
  paradigm: Nct
  trans_ru: Толдзгун (село)
  trans_en: Toldzgun (village)
@@ -72403,7 +72395,7 @@
  gramm: ADJ
 -lexeme
  lex: Троицкӕй
- stem: Троицкӕй.
+ stem: троицкӕй.
  paradigm: Nct
  trans_ru: Троицкое (село)
  trans_en: Troitskoe (village)
@@ -72893,7 +72885,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Турк
- stem: Турк.|Турч.|Турк.
+ stem: турк.|Турч.|Турк.
  paradigm: Nct
  trans_ru: Турция
  trans_en: Turkey
@@ -72921,7 +72913,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Туркмени
- stem: Туркмени.
+ stem: туркмени.
  paradigm: Nv
  trans_ru: Туркмения
  trans_en: Turkmenia
@@ -73544,7 +73536,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Тырсыгом
- stem: Тырсыгом.|Тырсыгом.|Тырсыгом.//Тырсыгӕмт.
+ stem: тырсыгом.|Тырсыгом.|Тырсыгом.//Тырсыгӕмт.
  paradigm: Nct
  trans_ru: Трусовское ущелье
  trans_en: Trusso gorge
@@ -73866,7 +73858,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Тянь-Шань
- stem: Тянь-Шань.//Тянь-Шан.
+ stem: тянь-Шань.//Тянь-Шан.
  paradigm: Nct
  trans_ru: Тянь-Шань
  trans_en: Tien Shan
@@ -74930,7 +74922,7 @@
  gramm: ADJ
 -lexeme
  lex: Уаза
- stem: Уаза.
+ stem: уаза.
  paradigm: Nv
  trans_ru: Уаза (гора)
  trans_en: Waza (mountain)
@@ -75798,7 +75790,7 @@
  gramm: ADJ
 -lexeme
  lex: Удыкк
- stem: Удыкк.|Удычч.|Удыкк.//Удыччы.
+ stem: удыкк.|Удычч.|Удыкк.//Удыччы.
  paradigm: Nct
  trans_ru: одна из семи звёзд в созвездии Плеяд
  trans_en: one of the seven stars in the Pleiades
@@ -75861,7 +75853,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Узбекистан
- stem: Узбекистан.
+ stem: узбекистан.
  paradigm: Nct
  trans_ru: Узбекистан
  trans_en: Uzbekistan
@@ -76064,7 +76056,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Украинӕ
- stem: Украинӕ.
+ stem: украинӕ.
  paradigm: Nv
  trans_ru: Украина
  trans_en: Ukraine
@@ -76155,7 +76147,7 @@
  gramm: ADJ
 -lexeme
  lex: Урал
- stem: Урал.
+ stem: урал.
  paradigm: Nct
  trans_ru: Урал
  trans_en: Urals
@@ -76260,7 +76252,7 @@
  gramm: ADJ
 -lexeme
  lex: Урсдон
- stem: Урсдон.
+ stem: урсдон.
  paradigm: Nct
  trans_ru: Урсдон (река, село)
  trans_en: Ursdon (river, village)
@@ -77311,7 +77303,7 @@
  gramm: ADJ
 -lexeme
  lex: Хъӕни
- stem: Хъӕни.
+ stem: хъӕни.
  paradigm: Nv
  trans_ru: Кани (село)
  trans_en: Kani (village)
@@ -77724,91 +77716,91 @@
  gramm: ADJ
 -lexeme
  lex: Донгӕрон
- stem: Донгӕрон.
+ stem: донгӕрон.
  paradigm: Nct
  trans_ru: Донгарон
  trans_en: Dongaron
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Зӕрӕмӕг
- stem: Зӕрӕмӕг.|Зӕрӕмӕдж.|Зӕрӕмӕг.
+ stem: зӕрӕмӕг.|Зӕрӕмӕдж.|Зӕрӕмӕг.
  paradigm: Nct
  trans_ru: Зарамаг
  trans_en: Zaramag
  gramm: N,inanim,nonhuman,prop
 -lexeme
  lex: Камбилеевскӕй
- stem: Камбилеевскӕй.
+ stem: камбилеевскӕй.
  paradigm: Nct
  trans_ru: Камбилеевское (село)
  trans_en: Kambileevskoe (village)
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Карца
- stem: Карца.
+ stem: карца.
  paradigm: Nv
  trans_ru: Карца (село)
  trans_en: Kartsa (village)
  gramm: N,inanim,nonhuman, prop
 -lexeme
  lex: Лезгор
- stem: Лезгор.
+ stem: лезгор.
  paradigm: Nct
  trans_ru: Лезгор (село)
  trans_en: Lezgor (village)
  gramm: N,inanim,nonhuman,prop
 -lexeme
  lex: Мызур
- stem: Мызур.
+ stem: мызур.
  paradigm: Nct
  trans_ru: Мизур (село)
  trans_en: Mizur (village)
  gramm: N,inanim,nonhuman,prop
 -lexeme
  lex: Пурнат
- stem: Пурнат.
+ stem: пурнат.
  paradigm: Nct
  trans_ru: Пурнат (село)
  trans_en: Purnat (village)
  gramm: N,inanim,nonhuman,prop
 -lexeme
  lex: Саниба
- stem: Саниба.
+ stem: саниба.
  paradigm: Nv
  trans_ru: Саниба (село)
  trans_en: Saniba (village)
  gramm: N,inanim,nonhuman,prop
 -lexeme
  lex: Суадаг
- stem: Суадаг.|Суададж.|Суадаг.
+ stem: суадаг.|Суададж.|Суадаг.
  paradigm: Nct
  trans_ru: Суадаг (село)
  trans_en: Suadag (village)
  gramm: N,inanim,nonhuman,prop
 -lexeme
  lex: Тменыхъӕу
- stem: Тменыхъӕу.
+ stem: тменыхъӕу.
  paradigm: Nct
  trans_ru: Тменикау (село)
  trans_en: Tmenikau (village)
  gramm: N,inanim,nonhuman,prop
 -lexeme
  lex: Тӕмискъ
- stem: Тӕмискъ.|Тӕмисчъ.|Тӕмискъ.
+ stem: тӕмискъ.|Тӕмисчъ.|Тӕмискъ.
  paradigm: Nct
  trans_ru: Тамиск
  trans_en: Tamisk
  gramm: N,inanim,nonhuman,prop
 -lexeme
  lex: Уынал
- stem: Уынал.
+ stem: уынал.
  paradigm: Nct
  trans_ru: Унал (село)
  trans_en: Unal (village)
  gramm: N,inanim,nonhuman,prop
 -lexeme
  lex: Хӕнӕз
- stem: Хӕнӕз.
+ stem: хӕнӕз.
  paradigm: Nct
  trans_ru: Ханаз (село)
  trans_en: Khanaz (village)
@@ -77829,7 +77821,7 @@
  gramm: ADJ
 -lexeme
  lex: Уӕлладжыр
- stem: Уӕлладжыр.
+ stem: уӕлладжыр.
  paradigm: Nct
  trans_ru: Алагир
  trans_en: Alagir
@@ -78662,7 +78654,7 @@
  gramm: INTJ
 -lexeme
  lex: Уӕхъӕц
- stem: Уӕхъӕц.
+ stem: уӕхъӕц.
  paradigm: Nct
  trans_ru: Вакац (село)
  trans_en: Vakats (village)
@@ -79187,7 +79179,7 @@
  gramm: ADJ
 -lexeme
  lex: Фарныхъӕу
- stem: Фарныхъӕу.
+ stem: фарныхъӕу.
  paradigm: Nct
  trans_ru: Фарн (село)
  trans_en: Farn (village)
@@ -79845,7 +79837,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Фиййагдон
- stem: Фиййагдон.
+ stem: фиййагдон.
  paradigm: Nct
  trans_ru: Фиагдон (река, село)
  trans_en: Fiagdon (river, village)
@@ -79999,7 +79991,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Финлянди
- stem: Финлянди.
+ stem: финлянди.
  paradigm: Nv
  trans_ru: Финляндия
  trans_en: Finland
@@ -80118,7 +80110,7 @@
  gramm: ADV
 -lexeme
  lex: Фисынмӕдзӕуджытӕ
- stem: Фисынмӕдзӕуӕг.|Фисынмӕдзӕуӕдж.|Фисынмӕдзӕуджы.
+ stem: фисынмӕдзӕуӕг.|Фисынмӕдзӕуӕдж.|Фисынмӕдзӕуджы.
  paradigm: Nct
  trans_ru: Большая Медведица
  trans_en: Big Dipper
@@ -80629,7 +80621,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Франц
- stem: Франц.
+ stem: франц.
  paradigm: Nct
  trans_ru: Франция
  trans_en: France
@@ -80643,7 +80635,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Франц-Иосиф
- stem: Франц-Иосиф.
+ stem: франц-Иосиф.
  paradigm: Nct
  trans_ru: Франц-Иосиф
  trans_en: Franz-Joseph
@@ -83484,7 +83476,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Фӕрӕскъӕттӕ
- stem: Фӕрӕскъӕт.
+ stem: фӕрӕскъӕт.
  paradigm: Nct
  trans_ru: Фараскат (село)
  trans_en: Faraskat (village)
@@ -83687,7 +83679,7 @@
  gramm: N,ADV,inanim,nonhuman
 -lexeme
  lex: Фӕскавказ
- stem: Фӕскавказ.
+ stem: фӕскавказ.
  paradigm: Nct
  trans_ru: Закавказье
  trans_en: Transcaucasia
@@ -83708,7 +83700,7 @@
  gramm: N,bodypart
 -lexeme
  lex: Фӕскомцӕдис
- stem: Фӕскомцӕдис.
+ stem: фӕскомцӕдис.
  paradigm: Nct
  trans_ru: комсомол
  trans_en: Komsomol (Party youth organization)
@@ -83785,7 +83777,7 @@
  gramm: N-ADJ,inanim,nonhuman
 -lexeme
  lex: Фӕснӕл
- stem: Фӕснӕл.
+ stem: фӕснӕл.
  paradigm: Nct
  trans_ru: Фаснал
  trans_en: Fasnal
@@ -84598,7 +84590,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Харбин
- stem: Харбин.
+ stem: харбин.
  paradigm: Nct
  trans_ru: Харбин (город)
  trans_en: Harbin (city)
@@ -85025,7 +85017,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Хидыхъус
- stem: Хидыхъус.
+ stem: хидыхъус.
  paradigm: Nct
  trans_ru: Хидикус (село)
  trans_en: Khidikus (village)
@@ -85648,7 +85640,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Ход
- stem: Ход.
+ stem: ход.
  paradigm: Nct
  trans_ru: Ход (село)
  trans_en: Khod (village)
@@ -86558,7 +86550,7 @@
  gramm: N,inanim,nonhuman,ag
 -lexeme
  lex: Хурыхъӕу
- stem: Хурыхъӕу.
+ stem: хурыхъӕу.
  paradigm: Nct
  trans_ru: Хурикау (село)
  trans_en: Khurikau (village)
@@ -86621,7 +86613,7 @@
  gramm: N-ADJ,inanim,nonhuman,ag
 -lexeme
  lex: Ламардон
- stem: Ламардон.
+ stem: ламардон.
  paradigm: Nct
  trans_ru: Ламардон
  trans_en: Lamardon (village)
@@ -86978,7 +86970,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Хуымӕллӕг
- stem: Хуымӕллӕг.|Хуымӕллӕдж.|Хуымӕллӕг.
+ stem: хуымӕллӕг.|Хуымӕллӕдж.|Хуымӕллӕг.
  paradigm: Nct
  trans_ru: Хумалаг (село)
  trans_en: Khumalag (village)
@@ -87391,7 +87383,7 @@
  gramm: ADJ
 -lexeme
  lex: Хъазахстан
- stem: Хъазахстан.
+ stem: хъазахстан.
  paradigm: Nct
  trans_ru: Казахстан
  trans_en: Kazakhstan
@@ -87433,7 +87425,7 @@
  gramm: N-ADJ,inanim,nonhuman
 -lexeme
  lex: Хъазыбег
- stem: Хъазыбег.|Хъазыбедж.|Хъазыбег.
+ stem: хъазыбег.|Хъазыбедж.|Хъазыбег.
  paradigm: Nct
  trans_ru: Казбек (гора)
  trans_en: Kazbek (mountain)
@@ -87769,7 +87761,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Хъарман-Сындзыхъӕу
- stem: Хъарман-Сындзыхъӕу.
+ stem: хъарман-Сындзыхъӕу.
  paradigm: Nct
  trans_ru: Карман-Синдзикау (село)
  trans_en: Karman-Sindzikau (village)
@@ -87839,7 +87831,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Хъасп
- stem: Хъасп.
+ stem: хъасп.
  paradigm: Nct
  trans_ru: Каспий
  trans_en: Caspian
@@ -87909,7 +87901,7 @@
  gramm: V,tr
 -lexeme
  lex: Хъахъхъӕдур
- stem: Хъахъхъӕдур.
+ stem: хъахъхъӕдур.
  paradigm: Nct
  trans_ru: Дарг-Кох (село)
  trans_en: Darg-Kokh (village)
@@ -87993,7 +87985,7 @@
  gramm: ADV
 -lexeme
  lex: Хъесатыхъӕу
- stem: Хъесатыхъӕу.
+ stem: хъесатыхъӕу.
  paradigm: Nct
  trans_ru: Кесатикау (село)
  trans_en: Kesatikau (village)
@@ -88147,14 +88139,14 @@
  gramm: N,bodypart
 -lexeme
  lex: Хълиат
- stem: Хълиат.
+ stem: хълиат.
  paradigm: Nct
  trans_ru: Клиат (село)
  trans_en: Kilat (village)
  gramm: N,inanim,nonhuman,prop
 -lexeme
  lex: Хъобангом
- stem: Хъобангом.
+ stem: хъобангом.
  paradigm: Nct
  trans_ru: Кобанское ущелье
  trans_en: Koban gorge
@@ -88868,7 +88860,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Хъуыран
- stem: Хъуыран.
+ stem: хъуыран.
  paradigm: Nct
  trans_ru: Коран
  trans_en: Qur'an
@@ -89106,7 +89098,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Хъызлар
- stem: Хъызлар.
+ stem: хъызлар.
  paradigm: Nct
  trans_ru: Кизляр (город)
  trans_en: Kizlar (city)
@@ -89267,7 +89259,7 @@
  gramm: ADJ
 -lexeme
  lex: Хъырым
- stem: Хъырым.
+ stem: хъырым.
  paradigm: Nct
  trans_ru: Крым
  trans_en: Crimea
@@ -89540,7 +89532,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Хъӕдгӕрон
- stem: Хъӕдгӕрон.
+ stem: хъӕдгӕрон.
  paradigm: Nct
  trans_ru: Кадгарон (село)
  trans_en: Kadgaron (village)
@@ -90135,7 +90127,7 @@
  gramm: ADJ
 -lexeme
  lex: Хъӕрӕсе
- stem: Хъӕрӕсе.
+ stem: хъӕрӕсе.
  paradigm: Nv
  trans_ru: Карачай
  trans_en: Karachay
@@ -90149,7 +90141,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Хъӕрӕсе-Черкестӕ
- stem: Хъӕрӕсе-Черкес.
+ stem: хъӕрӕсе-Черкес.
  paradigm: Nct
  trans_ru: карачаевцы и черкесы
  trans_en: Karachay and Circassians
@@ -90597,7 +90589,7 @@
  gramm: V,tr
 -lexeme
  lex: Хынцӕг
- stem: Хынцӕг.|Хынцӕдж.|Хынцӕг.
+ stem: хынцӕг.|Хынцӕдж.|Хынцӕг.
  paradigm: Nct
  trans_ru: Хынцаг (село)
  trans_en: Khyntsag (village)
@@ -91297,7 +91289,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Хӕзныдон
- stem: Хӕзныдон.
+ stem: хӕзныдон.
  paradigm: Nct
  trans_ru: Хазнидон (село)
  trans_en: Khaznidon (village)
@@ -92172,7 +92164,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Хӕрисджын
- stem: Хӕрисджын.
+ stem: хӕрисджын.
  paradigm: Nct
  trans_ru: Харисгин (село)
  trans_en: Kharisgin (village)
@@ -92627,7 +92619,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Хӕтӕлдон
- stem: Хӕтӕлдон.
+ stem: хӕтӕлдон.
  paradigm: Nct
  trans_ru: Хаталдон (село)
  trans_en: Khataldon (village)
@@ -93404,7 +93396,7 @@
  gramm: CONJ
 -lexeme
  lex: Цейлон
- stem: Цейлон.
+ stem: цейлон.
  paradigm: Nct
  trans_ru: Цейлон
  trans_en: Ceylon
@@ -93831,7 +93823,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Црау
- stem: Црау.
+ stem: црау.
  paradigm: Nct
  trans_ru: Црау (село)
  trans_en: Tsrau (village)
@@ -93992,7 +93984,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Цхинвал.
- stem: Цхинвал.
+ stem: цхинвал.
  paradigm: Nct
  trans_ru: Цхинвал (город)
  trans_en: Tskhinval (city)
@@ -94027,7 +94019,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Цъамад
- stem: Цъамад.
+ stem: цъамад.
  paradigm: Nct
  trans_ru: Цамад (село)
  trans_en: Tsamad (village)
@@ -94678,7 +94670,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Цъӕй
- stem: Цъӕй.
+ stem: цъӕй.
  paradigm: Nct
  trans_ru: Цей (село, санаторий)
  trans_en: Tsey (village, resort)
@@ -94965,7 +94957,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Цыкола
- stem: Цыкола.
+ stem: цыкола.
  paradigm: Nv
  trans_ru: Чикола (село)
  trans_en: Chikola (village)
@@ -95021,7 +95013,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Цыми
- stem: Цыми.
+ stem: цыми.
  paradigm: Nv
  trans_ru: Чми (село)
  trans_en: Chmi (village)
@@ -95056,7 +95048,7 @@
  gramm: V,tr
 -lexeme
  lex: Цымыти
- stem: Цымыти.
+ stem: цымыти.
  paradigm: Nv
  trans_ru: Цмити (село)
  trans_en: Tsmiti (village)
@@ -95630,14 +95622,14 @@
  gramm: N-ADJ,inanim,nonhuman
 -lexeme
  lex: Ихджын
- stem: Ихджын.
+ stem: ихджын.
  paradigm: Nct
  trans_ru: ледовитый
  trans_en: Arctic (ocean)
  gramm: N,inanim,nonhuman,prop
 -lexeme
  lex: Ламардон
- stem: Ламардон.
+ stem: ламардон.
  paradigm: Nct
  trans_ru: Ламардон (село)
  trans_en: Lamardon (village)
@@ -96569,7 +96561,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Цӕцӕн
- stem: Цӕцӕн.
+ stem: цӕцӕн.
  paradigm: Nct
  trans_ru: Чечня
  trans_en: Chechnya
@@ -96681,14 +96673,14 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Чермен
- stem: Чермен.
+ stem: чермен.
  paradigm: Nct
  trans_ru: Чермен (село)
  trans_en: Chermen (village)
  gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: Чермен
- stem: Чермен.
+ stem: чермен.
  paradigm: Nct
  trans_ru: Чермен
  trans_en: Chermen
@@ -96709,21 +96701,21 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Чернореченскӕй
- stem: Чернореченскӕй.
+ stem: чернореченскӕй.
  paradigm: Nct
  trans_ru: Чернореченский (хутор)
  trans_en: Chernorechenskiy (settlement)
  gramm: N,inanim,nonhuman,prop
 -lexeme
  lex: Черноярскӕй
- stem: Черноярскӕй.
+ stem: черноярскӕй.
  paradigm: Nct
  trans_ru: Черноярская (станица)
  trans_en: Chernoyarksaya (Cossack village)
  gramm: N,inanim,nonhuman,prop
 -lexeme
  lex: Чёрнӕй
- stem: Чёрнӕй.
+ stem: чёрнӕй.
  paradigm: Nct
  trans_ru: Чёрная (река)
  trans_en: Chernaya (river)
@@ -96765,7 +96757,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Чехи
- stem: Чехи.
+ stem: чехи.
  paradigm: Nv
  trans_ru: Чехия
  trans_en: Czechia
@@ -96891,7 +96883,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Чукоткӕ
- stem: Чукоткӕ.
+ stem: чукоткӕ.
  paradigm: Nv
  trans_ru: Чукотка
  trans_en: Chukchi Peninsula
@@ -97458,7 +97450,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Чысангом
- stem: Чысангом.
+ stem: чысангом.
  paradigm: Nct
  trans_ru: Ксанское ущелье
  trans_en: Ksan gorge
@@ -97521,7 +97513,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Шанаев
- stem: Шанаев.
+ stem: шанаев.
  paradigm: Nct
  trans_ru: Шанаев
  trans_en: Shanaev
@@ -97535,7 +97527,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Шанхай
- stem: Шанхай.
+ stem: шанхай.
  paradigm: Nct
  trans_ru: Шанхай
  trans_en: Shanghai
@@ -97619,7 +97611,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Швейцари
- stem: Швейцари.
+ stem: швейцари.
  paradigm: Nv
  trans_ru: Швейцария
  trans_en: Switzerland
@@ -97633,7 +97625,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Швеци
- stem: Швеци.
+ stem: швеци.
  paradigm: Nv
  trans_ru: Швеция
  trans_en: Sweden
@@ -97759,7 +97751,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Шотланди
- stem: Шотланди.
+ stem: шотланди.
  paradigm: Nct
  trans_ru: Шотландия
  trans_en: Scotland
@@ -97997,7 +97989,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Эгей
- stem: Эгей.
+ stem: эгей.
  paradigm: Nct
  trans_ru: Эгей
  trans_en: Aegeus
@@ -98375,14 +98367,14 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Эльбрус
- stem: Эльбрус.
+ stem: эльбрус.
  paradigm: Nct
  trans_ru: Эльбрус
  trans_en: Elbrus
  gramm: N,inanim,nonhuman,prop
 -lexeme
  lex: Эльбӕ
- stem: Эльбӕ.
+ stem: эльбӕ.
  paradigm: Nv
  trans_ru: Эльба
  trans_en: Elbe
@@ -98837,7 +98829,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Эфиопи
- stem: Эфиопи.
+ stem: эфиопи.
  paradigm: Nv
  trans_ru: Эфиопия
  trans_en: Ethiopia
@@ -98886,7 +98878,7 @@
  gramm: N,anim,human
 -lexeme
  lex: Югослави
- stem: Югослави.
+ stem: югослави.
  paradigm: Nv
  trans_ru: Югославия
  trans_en: Yugoslavia
@@ -98977,7 +98969,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Явӕ
- stem: Явӕ.
+ stem: явӕ.
  paradigm: Nv
  trans_ru: Ява
  trans_en: Java
@@ -99019,7 +99011,7 @@
  gramm: N,inanim,nonhuman,prop
 -lexeme
  lex: Яндыркӕ
- stem: Яндыркӕ.
+ stem: яндыркӕ.
  paradigm: Nv
  trans_ru: Яндырка (река)
  trans_en: Yandyrka (river)
@@ -99047,7 +99039,7 @@
  gramm: N-ADJ,anim,human
 -lexeme
  lex: Япон
- stem: Япон.
+ stem: япон.
  paradigm: Nct
  trans_ru: Япония
  trans_en: Japan
@@ -103559,77 +103551,77 @@
 
 -lexeme
  lex: Сослан
- stem: Сослан.
+ stem: сослан.
  paradigm: Nct
  trans_ru: Сослан
  trans_en: Soslan
  gramm: N,prop,M
 -lexeme
  lex: Сергей
- stem: Сергей.
+ stem: сергей.
  paradigm: Nct
  trans_ru: Сергей
  trans_en: Sergej
  gramm: N,prop,M
 -lexeme
  lex: Алыксандр
- stem: Алыксандр.
+ stem: алыксандр.
  paradigm: Nct
  trans_ru: Александр
  trans_en: Aleksander
  gramm: N,prop,M
 -lexeme
  lex: Плитӕ
- stem: Плит.
+ stem: плит.
  paradigm: Nct
  trans_ru: Плиев
  trans_en: Плиев
  gramm: N,prop,M,F
 -lexeme
  lex: Марус
- stem: Марус.
+ stem: марус.
  paradigm: Nct
  trans_ru: Маруся
  trans_en: Marusa
  gramm: N,prop,F
 -lexeme
  lex: Сафонка
- stem: Сафонка.
+ stem: сафонка.
  paradigm: Nct
  trans_ru: Сафонка
  trans_en: Safonka
  gramm: N,prop,F
 -lexeme
  lex: Алыкка
- stem: Алыкка.
+ stem: алыкка.
  paradigm: Nv
  trans_ru: Алыкка
  trans_en: Alykka
  gramm: N,prop,M
 -lexeme
  lex: Афай
- stem: Афай.
+ stem: афай.
  paradigm: Nct
  trans_ru: Афай
  trans_en: Afaj
  gramm: N,prop,M
 -lexeme
  lex: Уастырджи
- stem: Уастырджи.
+ stem: уастырджи.
  paradigm: Nv
  trans_ru: Уастырджи
  trans_en: Wastyrzhy
  gramm: N,prop,M
 -lexeme
  lex: Дзибус
- stem: Дзибус.
+ stem: дзибус.
  paradigm: Nct
  trans_ru: Дзибус
  trans_en: Dzibus
  gramm: N,prop,M
 -lexeme
  lex: Максим
- stem: Максим.
+ stem: максим.
  paradigm: Nct
  trans_ru: Максим
  trans_en: Maksim
@@ -103637,7 +103629,7 @@
 
 -lexeme
  lex: Бицъотӕ
- stem: Бицъо.
+ stem: бицъо.
  paradigm: Nv
  trans_ru: Бицоев
  trans_en: Bitsoev
@@ -103645,35 +103637,35 @@
 
 -lexeme
  lex: Бестаутӕ
- stem: Бестау.
+ stem: бестау.
  paradigm: Nct
  trans_ru: Бестаев
  trans_en: Bestaev
  gramm: N,prop,pltantum,M,F
 -lexeme
  lex: Грис
- stem: Грис.
+ stem: грис.
  paradigm: Nct
  trans_ru: Грис
  trans_en: Gris
  gramm: N,prop,M
 -lexeme
  lex: Гриш
- stem: Гриш.
+ stem: гриш.
  paradigm: Nct
  trans_ru: Гриш
  trans_en: Grish
  gramm: N,prop,M
 -lexeme
  lex: Абайтӕ
- stem: Абай.
+ stem: абай.
  paradigm: Nct
  trans_ru: Абаев
  trans_en: Abaev
  gramm: N,prop,pltantum,M,F
 -lexeme
  lex: Агънатӕ
- stem: Агъна.
+ stem: агъна.
  paradigm: Nv
  trans_ru: Агнаев
  trans_en: Agnaev
@@ -103681,70 +103673,70 @@
 
 -lexeme
  lex: Уӕрхтӕнӕг
- stem: Уӕрхтӕнӕг.|Уӕрхтӕнӕдж.|Уӕрхтӕнӕг.
+ stem: уӕрхтӕнӕг.|Уӕрхтӕнӕдж.|Уӕрхтӕнӕг.
  paradigm: Nct
  trans_ru: Уархтанаг
  trans_en: Warkhtanag
  gramm: N,prop,M
 -lexeme
  lex: Терк
- stem: Терк.|Терч.|Терк.
+ stem: терк.|Терч.|Терк.
  paradigm: Nct
  trans_ru: Терек (река)
  trans_en: Terek (river)
  gramm: N,prop,inanim
 -lexeme
  lex: Сталин
- stem: Сталин.
+ stem: сталин.
  paradigm: Nct
  trans_ru: Сталин
  trans_en: Stalin
  gramm: N,prop,M
 -lexeme
  lex: Авдан
- stem: Авдан.
+ stem: авдан.
  paradigm: Nct
  trans_ru: Авдан
  trans_en: Avdan
  gramm: N,prop,M
 -lexeme
  lex: Дабег
- stem: Дабег.|Дабедж.|Дабег.
+ stem: дабег.|Дабедж.|Дабег.
  paradigm: Nct
  trans_ru: Дабег
  trans_en: Dabeg
  gramm: N,prop,M
 -lexeme
  lex: Куырдалӕгон
- stem: Куырдалӕгон.
+ stem: куырдалӕгон.
  paradigm: Nct
  trans_ru: Куырдалагон
  trans_en: Kwyrdalagon
  gramm: N,prop,M
 -lexeme
  lex: Цӕгӕратӕ
- stem: Цӕгӕрат.
+ stem: цӕгӕрат.
  paradigm: Nct
  trans_ru: Цагараев
  trans_en: Tsagaraev
  gramm: N,prop,M,F
 -lexeme
  lex: Алафарн
- stem: Алафарн.
+ stem: алафарн.
  paradigm: Nct
  trans_ru: Алафарн
  trans_en: Alafarn
  gramm: N,prop,M
 -lexeme
  lex: Али
- stem: Али.
+ stem: али.
  paradigm: Nv
  trans_ru: Али
  trans_en: Ali
  gramm: N,prop,M
 -lexeme
  lex: Будзи
- stem: Будзи.
+ stem: будзи.
  paradigm: Nv
  trans_ru: Будзи
  trans_en: Budzi
@@ -103752,7 +103744,7 @@
 
 -lexeme
  lex: Салгир
- stem: Салгир.
+ stem: салгир.
  paradigm: Nct
  trans_ru: Салгир
  trans_en: Salgir
@@ -103851,7 +103843,7 @@
  gramm: N,inanim,nonhuman
 -lexeme
  lex: Абрам
- stem: Абрам.
+ stem: абрам.
  paradigm: Nct
  gloss: Абрам
  trans_ru: Абрам
@@ -103859,7 +103851,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Абхаз
- stem: Абхаз.
+ stem: абхаз.
  paradigm: Nct
  gloss: Абхаз
  trans_ru: Абхаз
@@ -103867,7 +103859,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Абысал
- stem: Абысал.
+ stem: абысал.
  paradigm: Nct
  gloss: Абисал
  trans_ru: Абисал
@@ -103875,7 +103867,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Агыса
- stem: Агыса.
+ stem: агыса.
  paradigm: Nv
  gloss: Александр
  trans_ru: Александр
@@ -103883,7 +103875,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Адам
- stem: Адам.
+ stem: адам.
  paradigm: Nct
  gloss: Адам
  trans_ru: Адам
@@ -103891,7 +103883,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Азӕмӕт
- stem: Азӕмӕт.
+ stem: азӕмӕт.
  paradigm: Nct
  gloss: Азамат
  trans_ru: Азамат
@@ -103899,7 +103891,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Аким
- stem: Аким.
+ stem: аким.
  paradigm: Nct
  gloss: Аким
  trans_ru: Аким
@@ -103907,7 +103899,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Алан
- stem: Алан.
+ stem: алан.
  paradigm: Nct
  gloss: Алан
  trans_ru: Алан
@@ -103915,7 +103907,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Албег
- stem: Албег.|Албедж.|Албег.
+ stem: албег.|Албедж.|Албег.
  paradigm: Nct
  gloss: Албек
  trans_ru: Албек
@@ -103923,7 +103915,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Алимбег
- stem: Алимбег.|Алимбедж.|Алимбег.
+ stem: алимбег.|Алимбедж.|Алимбег.
  paradigm: Nct
  gloss: Алимбек
  trans_ru: Алимбек
@@ -103931,7 +103923,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Алихан
- stem: Алихан.
+ stem: алихан.
  paradigm: Nct
  gloss: Алихан
  trans_ru: Алихан
@@ -103939,7 +103931,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Алмӕхсидт
- stem: Алмӕхсидт.
+ stem: алмӕхсидт.
  paradigm: Nct
  gloss: Алмахсидт
  trans_ru: Алмахсидт
@@ -103947,7 +103939,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Алхаз
- stem: Алхаз.
+ stem: алхаз.
  paradigm: Nct
  gloss: Алхаз
  trans_ru: Алхаз
@@ -103955,7 +103947,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Алыксандыр
- stem: Алыксандыр.
+ stem: алыксандыр.
  paradigm: Nct
  gloss: Александр
  trans_ru: Александр
@@ -103963,7 +103955,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Алыкси
- stem: Алыкси.
+ stem: алыкси.
  paradigm: Nv
  gloss: Алексей
  trans_ru: Алексей
@@ -103971,7 +103963,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Амыран
- stem: Амыран.
+ stem: амыран.
  paradigm: Nct
  gloss: Амиран
  trans_ru: Амиран
@@ -103979,7 +103971,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Амырхан
- stem: Амырхан.
+ stem: амырхан.
  paradigm: Nct
  gloss: Амирхан
  trans_ru: Амирхан
@@ -103987,7 +103979,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Анатоли
- stem: Анатоли.
+ stem: анатоли.
  paradigm: Nv
  gloss: Анатолий
  trans_ru: Анатолий
@@ -103995,7 +103987,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Антон
- stem: Антон.
+ stem: антон.
  paradigm: Nct
  gloss: Антон
  trans_ru: Антон
@@ -104003,7 +103995,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Аркади
- stem: Аркади.
+ stem: аркади.
  paradigm: Nv
  gloss: Аркадий
  trans_ru: Аркадий
@@ -104011,7 +104003,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Арсен
- stem: Арсен.
+ stem: арсен.
  paradigm: Nct
  gloss: Арсен
  trans_ru: Арсен
@@ -104019,7 +104011,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Асӕбе
- stem: Асӕбе.
+ stem: асӕбе.
  paradigm: Nv
  gloss: Асабе
  trans_ru: Асабе
@@ -104027,7 +104019,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Асӕго
- stem: Асӕго.
+ stem: асӕго.
  paradigm: Nv
  gloss: Асаго
  trans_ru: Асаго
@@ -104035,7 +104027,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Асӕх
- stem: Асӕх.
+ stem: асӕх.
  paradigm: Nct
  gloss: Асах
  trans_ru: Асах 
@@ -104043,7 +104035,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Аслан
- stem: Аслан.
+ stem: аслан.
  paradigm: Nct
  gloss: Аслан
  trans_ru: Аслан
@@ -104051,7 +104043,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Аслӕнбег
- stem: Аслӕнбег.|Аслӕнбедж.|Аслӕнбег.
+ stem: аслӕнбег.|Аслӕнбедж.|Аслӕнбег.
  paradigm: Nct
  gloss: Асланбек
  trans_ru: Асланбек
@@ -104059,7 +104051,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Аслӕмырзӕ
- stem: Аслӕмырзӕ.
+ stem: аслӕмырзӕ.
  paradigm: Nv
  gloss: Асламирза
  trans_ru: Асламирза
@@ -104067,7 +104059,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Аслӕнджери
- stem: Аслӕнджери.
+ stem: аслӕнджери.
  paradigm: Nv
  gloss: Аслангирей
  trans_ru: Аслангирей
@@ -104075,7 +104067,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Астемыр
- stem: Астемыр.
+ stem: астемыр.
  paradigm: Nct
  gloss: Астемир
  trans_ru: Астемир
@@ -104083,7 +104075,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Ауызби
- stem: Ауызби.
+ stem: ауызби.
  paradigm: Nv
  gloss: Аузби
  trans_ru: Аузби
@@ -104091,7 +104083,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Афӕхъо
- stem: Афӕхъо.
+ stem: афӕхъо.
  paradigm: Nv
  gloss: Афако
  trans_ru: Афако
@@ -104099,7 +104091,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Ахан
- stem: Ахан.
+ stem: ахан.
  paradigm: Nct
  gloss: Ахан
  trans_ru: Ахан
@@ -104107,7 +104099,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Ахболат
- stem: Ахболат.
+ stem: ахболат.
  paradigm: Nct
  gloss: Ахболат
  trans_ru: Ахболат
@@ -104115,7 +104107,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Ахмӕт
- stem: Ахмӕт.
+ stem: ахмӕт.
  paradigm: Nct
  gloss: Ахмат
  trans_ru: Ахмат
@@ -104123,7 +104115,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Ацӕмӕз
- stem: Ацӕмӕз.
+ stem: ацӕмӕз.
  paradigm: Nct
  gloss: Ацамаз
  trans_ru: Ацамаз
@@ -104163,7 +104155,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Бакке
- stem: Бакке.
+ stem: бакке.
  paradigm: Nv
  gloss: Бакке
  trans_ru: Бакке
@@ -104171,7 +104163,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Бало
- stem: Бало.
+ stem: бало.
  paradigm: Nv
  gloss: Бало
  trans_ru: Бало
@@ -104179,7 +104171,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Баппе
- stem: Баппе.
+ stem: баппе.
  paradigm: Nv
  gloss: Баппе
  trans_ru: Баппе
@@ -104187,7 +104179,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Барис
- stem: Барис.
+ stem: барис.
  paradigm: Nct
  gloss: Борис
  trans_ru: Борис
@@ -104195,7 +104187,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Барысби
- stem: Барысби.
+ stem: барысби.
  paradigm: Nv
  gloss: Борисби
  trans_ru: Борисби
@@ -104203,7 +104195,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Басил
- stem: Басил.
+ stem: басил.
  paradigm: Nct
  gloss: Василий
  trans_ru: Василий
@@ -104211,7 +104203,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Батыр
- stem: Батыр.
+ stem: батыр.
  paradigm: Nct
  gloss: Батыр
  trans_ru: Батыр
@@ -104219,7 +104211,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Батырадз
- stem: Батырадз.
+ stem: батырадз.
  paradigm: Nct
  gloss: Батыраз
  trans_ru: Батыраз
@@ -104227,7 +104219,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Батырбег
- stem: Батырбег.|Батырбедж.|Батырбег.
+ stem: батырбег.|Батырбедж.|Батырбег.
  paradigm: Nct
  gloss: Батырбек
  trans_ru: Батырбек
@@ -104235,7 +104227,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Бачче
- stem: Бачче.
+ stem: бачче.
  paradigm: Nv
  gloss: Бачче
  trans_ru: Бачче
@@ -104243,7 +104235,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Баччери
- stem: Баччери.
+ stem: баччери.
  paradigm: Nv
  gloss: Баччери
  trans_ru: Баччери
@@ -104251,7 +104243,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Бӕтӕ
- stem: Бӕтӕ.
+ stem: бӕтӕ.
  paradigm: Nv
  gloss: Бата
  trans_ru: Бата
@@ -104259,7 +104251,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Бӕтӕхъо
- stem: Бӕтӕхъо.
+ stem: бӕтӕхъо.
  paradigm: Nv
  gloss: Батако
  trans_ru: Батако
@@ -104267,7 +104259,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Бекмырзӕ
- stem: Бекмырзӕ.
+ stem: бекмырзӕ.
  paradigm: Nv
  gloss: Бекмирза
  trans_ru: Бекмирза
@@ -104275,7 +104267,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Бибо
- stem: Бибо.
+ stem: бибо.
  paradigm: Nv
  gloss: Бибо
  trans_ru: Бибо
@@ -104283,7 +104275,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Бинболат
- stem: Бинболат.
+ stem: бинболат.
  paradigm: Nct
  gloss: Бинболат
  trans_ru: Бинболат
@@ -104291,7 +104283,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Бобо
- stem: Бобо.
+ stem: бобо.
  paradigm: Nv
  gloss: Бобо
  trans_ru: Бобо
@@ -104299,7 +104291,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Болат
- stem: Болат.
+ stem: болат.
  paradigm: Nct
  gloss: Болат
  trans_ru: Болат
@@ -104307,7 +104299,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Боци
- stem: Боци.
+ stem: боци.
  paradigm: Nv
  gloss: Боци
  trans_ru: Боци
@@ -104315,7 +104307,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Бухар
- stem: Бухар.
+ stem: бухар.
  paradigm: Nct
  gloss: Бухар
  trans_ru: Бухар
@@ -104323,7 +104315,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Бухарбег
- stem: Бухарбег.|Бухарбедж.|Бухарбег.
+ stem: бухарбег.|Бухарбедж.|Бухарбег.
  paradigm: Nct
  gloss: Бухарбек
  trans_ru: Бухарбек
@@ -104331,7 +104323,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Вано
- stem: Вано.
+ stem: вано.
  paradigm: Nv
  gloss: Вано
  trans_ru: Вано
@@ -104339,7 +104331,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Васили
- stem: Васили.
+ stem: васили.
  paradigm: Nv
  gloss: Васили
  trans_ru: Василий
@@ -104347,7 +104339,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Васо
- stem: Васо.
+ stem: васо.
  paradigm: Nv
  gloss: Василий
  trans_ru: Василий
@@ -104355,7 +104347,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Вахтанг
- stem: Вахтанг.|Вахтандж.|Вахтанг.
+ stem: вахтанг.|Вахтандж.|Вахтанг.
  paradigm: Nct
  gloss: Вахтанг
  trans_ru: Вахтанг
@@ -104363,7 +104355,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Виктыр
- stem: Виктыр.
+ stem: виктыр.
  paradigm: Nct
  gloss: Виктор
  trans_ru: Виктор
@@ -104371,7 +104363,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Владимир
- stem: Владимир.
+ stem: владимир.
  paradigm: Nct
  gloss: Владимир
  trans_ru: Владимир
@@ -104379,7 +104371,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Габо
- stem: Габо.
+ stem: габо.
  paradigm: Nv
  gloss: Габо
  trans_ru: Габо
@@ -104387,7 +104379,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Габола
- stem: Габола.
+ stem: габола.
  paradigm: Nv
  gloss: Габола
  trans_ru: Габола
@@ -104395,7 +104387,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Габоци
- stem: Габоци.
+ stem: габоци.
  paradigm: Nv
  gloss: Габоци
  trans_ru: Габоци
@@ -104403,7 +104395,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Гаврил
- stem: Гаврил.
+ stem: гаврил.
  paradigm: Nct
  gloss: Гавриил
  trans_ru: Гавриил
@@ -104411,7 +104403,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Гагуыдз
- stem: Гагуыдз.
+ stem: гагуыдз.
  paradigm: Nct
  gloss: Гагудз
  trans_ru: Гагудз
@@ -104419,7 +104411,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Гадӕгко
- stem: Гадӕгко.
+ stem: гадӕгко.
  paradigm: Nv
  gloss: Гадагко
  trans_ru: Гадагко
@@ -104427,7 +104419,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Гадзӕго
- stem: Гадзӕго.
+ stem: гадзӕго.
  paradigm: Nv
  gloss: Гадзаго
  trans_ru: Гадзаго
@@ -104435,7 +104427,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Газакк
- stem: Газакк.|Газачч.|Газакк.
+ stem: газакк.|Газачч.|Газакк.
  paradigm: Nct
  gloss: Газак
  trans_ru: Газак
@@ -104443,7 +104435,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Гайси
- stem: Гайси.
+ stem: гайси.
  paradigm: Nv
  gloss: Гайши
  trans_ru: Гайши
@@ -104451,7 +104443,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Гаппо
- stem: Гаппо.
+ stem: гаппо.
  paradigm: Nv
  gloss: Гаппо
  trans_ru: Гаппо
@@ -104459,7 +104451,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Гацыр
- stem: Гацыр.
+ stem: гацыр.
  paradigm: Nct
  gloss: Гацыр
  trans_ru: Гацыр
@@ -104467,7 +104459,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Гӕмин
- stem: Гӕмин.
+ stem: гӕмин.
  paradigm: Nct
  gloss: Гамин
  trans_ru: Гамин 
@@ -104475,7 +104467,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Георги
- stem: Георги.
+ stem: георги.
  paradigm: Nv
  gloss: Георгий
  trans_ru: Георгий
@@ -104483,7 +104475,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Гермӕн
- stem: Гермӕн.
+ stem: гермӕн.
  paradigm: Nct
  gloss: Герман
  trans_ru: Герман
@@ -104491,7 +104483,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Гига
- stem: Гига.
+ stem: гига.
  paradigm: Nv
  gloss: Гига
  trans_ru: Гига
@@ -104499,7 +104491,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Горга
- stem: Горга.
+ stem: горга.
  paradigm: Nv
  gloss: Горга
  trans_ru: Горга
@@ -104507,7 +104499,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Григка
- stem: Григка.
+ stem: григка.
  paradigm: Nv
  gloss: Григка
  trans_ru: Григка
@@ -104515,7 +104507,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Давид
- stem: Давид.
+ stem: давид.
  paradigm: Nct
  gloss: Давид
  trans_ru: Давид
@@ -104523,7 +104515,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Дадӕкка
- stem: Дадӕкка.
+ stem: дадӕкка.
  paradigm: Nv
  gloss: Дадакка
  trans_ru: Дадакка
@@ -104531,7 +104523,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Дакко
- stem: Дакко.
+ stem: дакко.
  paradigm: Nv
  gloss: Дакко
  trans_ru: Дакко
@@ -104539,7 +104531,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Данел
- stem: Данел.
+ stem: данел.
  paradigm: Nct
  gloss: Даниил
  trans_ru: Даниил
@@ -104547,7 +104539,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Дауыр
- stem: Дауыр.
+ stem: дауыр.
  paradigm: Nct
  gloss: Даур
  trans_ru: Даур 
@@ -104555,7 +104547,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Дӕбе
- stem: Дӕбе.
+ stem: дӕбе.
  paradigm: Nv
  gloss: Даба
  trans_ru: Даба
@@ -104563,7 +104555,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Дӕкка
- stem: Дӕкка.
+ stem: дӕкка.
  paradigm: Nv
  gloss: Дакка
  trans_ru: Дакка
@@ -104571,7 +104563,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Дӕхцыхъо
- stem: Дӕхцыхъо.
+ stem: дӕхцыхъо.
  paradigm: Nv
  gloss: Дахцико
  trans_ru: Дахцико
@@ -104579,7 +104571,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Дебола
- stem: Дебола.
+ stem: дебола.
  paradigm: Nv
  gloss: Дебола
  trans_ru: Дебола
@@ -104587,7 +104579,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Дрис
- stem: Дрис.
+ stem: дрис.
  paradigm: Nct
  gloss: Дриш
  trans_ru: Дриш
@@ -104595,7 +104587,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Дудар
- stem: Дудар.
+ stem: дудар.
  paradigm: Nct
  gloss: Дудар
  trans_ru: Дудар
@@ -104603,7 +104595,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Дударыхъо
- stem: Дударыхъо.
+ stem: дударыхъо.
  paradigm: Nv
  gloss: Дударико
  trans_ru: Дударико
@@ -104611,7 +104603,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Джери
- stem: Джери.
+ stem: джери.
  paradigm: Nv
  gloss: Джери
  trans_ru: Джери
@@ -104619,7 +104611,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Джерихан
- stem: Джерихан.
+ stem: джерихан.
  paradigm: Nct
  gloss: Джерихан
  trans_ru: Джерихан
@@ -104627,7 +104619,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Джетӕ
- stem: Джетӕ.
+ stem: джетӕ.
  paradigm: Nv
  gloss: Джета
  trans_ru: Джета
@@ -104635,7 +104627,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Дзабо
- stem: Дзабо.
+ stem: дзабо.
  paradigm: Nv
  gloss: Дзабо
  trans_ru: Дзабо
@@ -104643,7 +104635,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Дзамболат
- stem: Дзамболат.
+ stem: дзамболат.
  paradigm: Nct
  gloss: Дзамболат
  trans_ru: Дзамболат
@@ -104651,7 +104643,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Дзантемыр
- stem: Дзантемыр.
+ stem: дзантемыр.
  paradigm: Nct
  gloss: Дзантемир
  trans_ru: Дзантемир
@@ -104659,7 +104651,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Дзанхот
- stem: Дзанхот.
+ stem: дзанхот.
  paradigm: Nct
  gloss: Дзанхот
  trans_ru: Дзанхот
@@ -104667,7 +104659,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Дзӕрӕхмӕт
- stem: Дзӕрӕхмӕт.
+ stem: дзӕрӕхмӕт.
  paradigm: Nct
  gloss: Дзарахмат
  trans_ru: Дзарахмат
@@ -104675,7 +104667,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Евгени
- stem: Евгени.
+ stem: евгени.
  paradigm: Nv
  gloss: Евгений
  trans_ru: Евгений
@@ -104683,7 +104675,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Елбыздыхъо
- stem: Елбыздыхъо.
+ stem: елбыздыхъо.
  paradigm: Nv
  gloss: Елбиздико
  trans_ru: Елбиздико
@@ -104691,7 +104683,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Елмырзӕ
- stem: Елмырзӕ.
+ stem: елмырзӕ.
  paradigm: Nv
  gloss: Елмирза
  trans_ru: Елмирза
@@ -104699,7 +104691,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Зауыр
- stem: Зауыр.
+ stem: зауыр.
  paradigm: Nct
  gloss: Заур
  trans_ru: Заур
@@ -104707,7 +104699,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Зауырбег
- stem: Зауырбег.|Зауырбедж.|Зауырбег.
+ stem: зауырбег.|Зауырбедж.|Зауырбег.
  paradigm: Nct
  gloss: Заурбек
  trans_ru: Заурбек
@@ -104715,7 +104707,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Зелимхан
- stem: Зелимхан.
+ stem: зелимхан.
  paradigm: Nct
  gloss: Зелимхан
  trans_ru: Зелимхан
@@ -104723,7 +104715,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Знауыр
- stem: Знауыр.
+ stem: знауыр.
  paradigm: Nct
  gloss: Знаур
  trans_ru: Знаур
@@ -104731,7 +104723,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Зурап
- stem: Зурап.
+ stem: зурап.
  paradigm: Nct
  gloss: Зурап
  trans_ru: Зурап
@@ -104739,7 +104731,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Ибрагим
- stem: Ибрагим.
+ stem: ибрагим.
  paradigm: Nct
  gloss: Ибрагим
  trans_ru: Ибрагим
@@ -104747,7 +104739,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Илас
- stem: Илас.
+ stem: илас.
  paradigm: Nct
  gloss: Илаш
  trans_ru: Илаш
@@ -104755,7 +104747,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Илико
- stem: Илико.
+ stem: илико.
  paradigm: Nv
  gloss: Илико
  trans_ru: Илико
@@ -104763,7 +104755,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Инал
- stem: Инал.
+ stem: инал.
  paradigm: Nct
  gloss: Инал
  trans_ru: Инал
@@ -104771,7 +104763,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Иналыхъ
- stem: Иналыхъ.
+ stem: иналыхъ.
  paradigm: Nct
  gloss: Иналук
  trans_ru: Иналук
@@ -104779,7 +104771,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Инус
- stem: Инус.
+ stem: инус.
  paradigm: Nct
  gloss: Инуш
  trans_ru: Инуш
@@ -104787,7 +104779,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Ирбег
- stem: Ирбег.|Ирбедж.|Ирбег.
+ stem: ирбег.|Ирбедж.|Ирбег.
  paradigm: Nct
  gloss: Ирбек
  trans_ru: Ирбек
@@ -104795,7 +104787,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Ислам
- stem: Ислам.
+ stem: ислам.
  paradigm: Nct
  gloss: Ислам
  trans_ru: Ислам
@@ -104803,7 +104795,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Иссӕ
- stem: Иссӕ.
+ stem: иссӕ.
  paradigm: Nv
  gloss: Исса
  trans_ru: Исса
@@ -104811,7 +104803,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Кермен
- stem: Кермен.
+ stem: кермен.
  paradigm: Nct
  gloss: Кермен
  trans_ru: Кермен
@@ -104819,7 +104811,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Къӕдзӕх
- stem: Къӕдзӕх.
+ stem: къӕдзӕх.
  paradigm: Nct
  gloss: Кадзах
  trans_ru: Кадзах
@@ -104827,7 +104819,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Къоста
- stem: Къоста.
+ stem: къоста.
  paradigm: Nct
  gloss: Коста
  trans_ru: Коста
@@ -104835,7 +104827,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Ладемыр
- stem: Ладемыр.
+ stem: ладемыр.
  paradigm: Nct
  gloss: Владимир
  trans_ru: Владимир
@@ -104843,7 +104835,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Лексо
- stem: Лексо.
+ stem: лексо.
  paradigm: Nv
  gloss: Лексо
  trans_ru: Лексо
@@ -104851,7 +104843,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Леуан
- stem: Леуан.
+ stem: леуан.
  paradigm: Nct
  gloss: Леван
  trans_ru: Леван
@@ -104859,7 +104851,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Майрӕм
- stem: Майрӕм.
+ stem: майрӕм.
  paradigm: Nct
  gloss: Майрам
  trans_ru: Майрам
@@ -104867,7 +104859,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Мамсыр
- stem: Мамсыр.
+ stem: мамсыр.
  paradigm: Nct
  gloss: Мамсур
  trans_ru: Мамсур
@@ -104875,7 +104867,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Махар 
- stem: Махар.
+ stem: махар.
  paradigm: Nct
  gloss: Махар
  trans_ru: Махар
@@ -104883,7 +104875,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Махарбег
- stem: Махарбег.|Махарбедж.|Махарбег.
+ stem: махарбег.|Махарбедж.|Махарбег.
  paradigm: Nct
  gloss: Махарбек
  trans_ru: Махарбек
@@ -104891,7 +104883,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Мӕир
- stem: Мӕир.
+ stem: мӕир.
  paradigm: Nct
  gloss: Маир
  trans_ru: Маир
@@ -104899,7 +104891,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Мӕирбег
- stem: Мӕирбег.|Мӕирбедж.|Мӕирбег.
+ stem: мӕирбег.|Мӕирбедж.|Мӕирбег.
  paradigm: Nct
  gloss: Маирбек
  trans_ru: Маирбек
@@ -104907,7 +104899,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Мӕхӕмӕт
- stem: Мӕхӕмӕт.
+ stem: мӕхӕмӕт.
  paradigm: Nct
  gloss: Магомет
  trans_ru: Магомет
@@ -104915,7 +104907,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Мӕцыхъо
- stem: Мӕцыхъо.
+ stem: мӕцыхъо.
  paradigm: Nct
  gloss: Мацко
  trans_ru: Мацко
@@ -104923,7 +104915,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Микъала
- stem: Микъала.
+ stem: микъала.
  paradigm: Nct
  gloss: Николай
  trans_ru: Николай
@@ -104931,7 +104923,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Михал
- stem: Михал.
+ stem: михал.
  paradigm: Nct
  gloss: Михаил
  trans_ru: Михаил
@@ -104939,7 +104931,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Мурат
- stem: Мурат.
+ stem: мурат.
  paradigm: Nct
  gloss: Мурат
  trans_ru: Мурат
@@ -104947,7 +104939,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Муссӕ
- stem: Муссӕ.
+ stem: муссӕ.
  paradigm: Nv
  gloss: Мусса
  trans_ru: Мусса
@@ -104955,7 +104947,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Мухтар
- stem: Мухтар.
+ stem: мухтар.
  paradigm: Nct
  gloss: Мухтар
  trans_ru: Мухтар
@@ -104963,7 +104955,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Мухтарбег
- stem: Мухтарбег.|Мухтарбедж.|Мухтарбег.
+ stem: мухтарбег.|Мухтарбедж.|Мухтарбег.
  paradigm: Nct
  gloss: Мухтарбек
  trans_ru: Мухтарбек
@@ -104971,7 +104963,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Мырзабег
- stem: Мырзабег.|Мырзабедж.|Мырзабег.
+ stem: мырзабег.|Мырзабедж.|Мырзабег.
  paradigm: Nct
  gloss: Мирзабек
  trans_ru: Мирзабек
@@ -104979,7 +104971,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Мырзакка
- stem: Мырзакка.
+ stem: мырзакка.
  paradigm: Nv
  gloss: Мирзакка
  trans_ru: Мирзакка
@@ -104987,7 +104979,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Мысост
- stem: Мысост.
+ stem: мысост.
  paradigm: Nct
  gloss: Мисост
  trans_ru: Мисост
@@ -104995,7 +104987,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Мысырби
- stem: Мысырби.
+ stem: мысырби.
  paradigm: Nv
  gloss: Мисирби
  trans_ru: Мисирби
@@ -105003,7 +104995,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Налыхъ
- stem: Налыхъ.
+ stem: налыхъ.
  paradigm: Nct
  gloss: Налук
  trans_ru: Налук
@@ -105011,7 +105003,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Нариман
- stem: Нариман.
+ stem: нариман.
  paradigm: Nct
  gloss: Нариман
  trans_ru: Нариман
@@ -105019,7 +105011,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Нафи
- stem: Нафи.
+ stem: нафи.
  paradigm: Nv
  gloss: Нафи
  trans_ru: Нафи
@@ -105027,7 +105019,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Павел
- stem: Павел.
+ stem: павел.
  paradigm: Nct
  gloss: Павел
  trans_ru: Павел
@@ -105035,7 +105027,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Петр
- stem: Пётр.
+ stem: пётр.
  paradigm: Nct
  gloss: Пётр
  trans_ru: Пётр
@@ -105043,7 +105035,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Раман
- stem: Раман.
+ stem: раман.
  paradigm: Nct
  gloss: Роман
  trans_ru: Роман
@@ -105051,7 +105043,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Руслан
- stem: Руслан.
+ stem: руслан.
  paradigm: Nct
  gloss: Руслан
  trans_ru: Руслан
@@ -105059,7 +105051,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Русланбег
- stem: Русланбег.|Русланбедж.|Русланбег.
+ stem: русланбег.|Русланбедж.|Русланбег.
  paradigm: Nct
  gloss: Русланбек
  trans_ru: Русланбек
@@ -105067,7 +105059,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Садуллӕ
- stem: Садуллӕ.
+ stem: садуллӕ.
  paradigm: Nv
  gloss: Садулла
  trans_ru: Садулла
@@ -105075,7 +105067,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Салам
- stem: Салам.
+ stem: салам.
  paradigm: Nct
  gloss: Салам
  trans_ru: Салам
@@ -105083,7 +105075,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Саламджери
- stem: Саламджери.
+ stem: саламджери.
  paradigm: Nv
  gloss: Саламuгирей
  trans_ru: Саламгирей
@@ -105091,7 +105083,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Сандыр
- stem: Сандыр.
+ stem: сандыр.
  paradigm: Nct
  gloss: Сандир
  trans_ru: Сандир
@@ -105099,7 +105091,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Саукуыдз
- stem: Саукуыдз.
+ stem: саукуыдз.
  paradigm: Nct
  gloss: Саукудз
  trans_ru: Саукудз
@@ -105107,7 +105099,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Саулох
- stem: Саулох.
+ stem: саулох.
  paradigm: Nct
  gloss: Саулох
  trans_ru: Саулох
@@ -105115,7 +105107,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Сафар
- stem: Сафар.
+ stem: сафар.
  paradigm: Nct
  gloss: Сафар
  trans_ru: Сафар
@@ -105123,7 +105115,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Сафарбег
- stem: Сафарбег.|Сафарбедж.|Сафарбег.
+ stem: сафарбег.|Сафарбедж.|Сафарбег.
  paradigm: Nct
  gloss: Сафарбек
  trans_ru: Сафарбек
@@ -105131,7 +105123,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Саханджери
- stem: Саханджери.
+ stem: саханджери.
  paradigm: Nv
  gloss: Сахангирей
  trans_ru: Сахангирей
@@ -105139,7 +105131,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Сӕрмӕт
- stem: Сӕрмӕт.
+ stem: сӕрмӕт.
  paradigm: Nct
  gloss: Сармат
  trans_ru: Сармат
@@ -105147,7 +105139,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Серге
- stem: Серге.
+ stem: серге.
  paradigm: Nv
  gloss: Сергей
  trans_ru: Сергей
@@ -105155,7 +105147,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Симон
- stem: Симон.
+ stem: симон.
  paradigm: Nct
  gloss: Семён
  trans_ru: Семён
@@ -105163,7 +105155,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Сланбег
- stem: Сланбег.|Сланбедж.|Сланбег.
+ stem: сланбег.|Сланбедж.|Сланбег.
  paradigm: Nct
  gloss: Сланбек
  trans_ru: Сланбек
@@ -105171,7 +105163,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Созырыхъо
- stem: Созырыхъо.
+ stem: созырыхъо.
  paradigm: Nv
  gloss: Созруко
  trans_ru: Созруко
@@ -105179,7 +105171,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Солӕман
- stem: Солӕман.
+ stem: солӕман.
  paradigm: Nct
  gloss: Соломон
  trans_ru: Соломон
@@ -105187,7 +105179,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Солтан
- stem: Солтан.
+ stem: солтан.
  paradigm: Nct
  gloss: Солтан
  trans_ru: Солтан
@@ -105195,7 +105187,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Солтанбег
- stem: Солтанбег.|Солтанбедж.|Солтанбег.
+ stem: солтанбег.|Солтанбедж.|Солтанбег.
  paradigm: Nct
  gloss: Солтанбек
  trans_ru: Солтанбек
@@ -105203,7 +105195,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Спартак
- stem: Спартак.|Спартач.|Спартак.
+ stem: спартак.|Спартач.|Спартак.
  paradigm: Nct
  gloss: Спартак
  trans_ru: Спартак
@@ -105211,7 +105203,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Степан
- stem: Степан.
+ stem: степан.
  paradigm: Nct
  gloss: Степан
  trans_ru: Степан
@@ -105219,7 +105211,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Таймураз
- stem: Таймураз.
+ stem: таймураз.
  paradigm: Nct
  gloss: Таймураз
  trans_ru: Таймураз
@@ -105227,7 +105219,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Тамерлан
- stem: Тамерлан.
+ stem: тамерлан.
  paradigm: Nct
  gloss: Тамерлан
  trans_ru: Тамерлан
@@ -105235,7 +105227,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Тарас
- stem: Тарас.
+ stem: тарас.
  paradigm: Nct
  gloss: Тарас
  trans_ru: Тарас
@@ -105243,7 +105235,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Тасо
- stem: Тасо.
+ stem: тасо.
  paradigm: Nv
  gloss: Тасо
  trans_ru: Тасо
@@ -105251,7 +105243,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Тасолтан
- stem: Тасолтан.
+ stem: тасолтан.
  paradigm: Nct
  gloss: Тасолтан
  trans_ru: Тасолтан
@@ -105259,7 +105251,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Тӕтӕри
- stem: Тӕтӕри.
+ stem: тӕтӕри.
  paradigm: Nv
  gloss: Татари
  trans_ru: Татари
@@ -105267,7 +105259,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Тӕтӕрхъан
- stem: Тӕтӕрхъан.
+ stem: тӕтӕрхъан.
  paradigm: Nct
  gloss: Татаркан
  trans_ru: Татаркан
@@ -105275,7 +105267,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Тебро
- stem: Тебро.
+ stem: тебро.
  paradigm: Nct
  gloss: Тебро
  trans_ru: Тебро
@@ -105283,7 +105275,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Темболат
- stem: Темболат.
+ stem: темболат.
  paradigm: Nct
  gloss: Темболат
  trans_ru: Темболат
@@ -105291,7 +105283,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Темыр
- stem: Темыр.
+ stem: темыр.
  paradigm: Nct
  gloss: Темир
  trans_ru: Темир
@@ -105299,7 +105291,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Темырболат
- stem: Темырболат.
+ stem: темырболат.
  paradigm: Nct
  gloss: Темирболат
  trans_ru: Темирболат
@@ -105307,7 +105299,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Темырхъан
- stem: Темырхъан.
+ stem: темырхъан.
  paradigm: Nct
  gloss: Темиркан
  trans_ru: Темиркан
@@ -105315,7 +105307,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Тигран
- stem: Тигран.
+ stem: тигран.
  paradigm: Nct
  gloss: Тигран
  trans_ru: Тигран
@@ -105323,7 +105315,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Тотырадз
- stem: Тотырадз.
+ stem: тотырадз.
  paradigm: Nct
  gloss: Тотирадз
  trans_ru: Тотирадз
@@ -105331,7 +105323,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Тотырбег
- stem: Тотырбег.|Тотырбедж.|Тотырбег.
+ stem: тотырбег.|Тотырбедж.|Тотырбег.
  paradigm: Nct
  gloss: Тотирбек
  trans_ru: Тотирбек
@@ -105339,7 +105331,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Тох
- stem: Тох.
+ stem: тох.
  paradigm: Nct
  gloss: Тох
  trans_ru: Тох 
@@ -105347,7 +105339,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Тугъан
- stem: Тугъан.
+ stem: тугъан.
  paradigm: Nct
  gloss: Туган
  trans_ru: Туган
@@ -105355,7 +105347,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Тузар
- stem: Тузар.
+ stem: тузар.
  paradigm: Nct
  gloss: Тузар
  trans_ru: Тузар
@@ -105363,7 +105355,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Турбег
- stem: Турбег.|Турбедж.|Турбег.
+ stem: турбег.|Турбедж.|Турбег.
  paradigm: Nct
  gloss: Турбек
  trans_ru: Турбек
@@ -105371,7 +105363,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Умар
- stem: Умар.
+ stem: умар.
  paradigm: Nct
  gloss: Умар
  trans_ru: Умар
@@ -105379,7 +105371,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Умарбег
- stem: Умарбег.|Умарбедж.|Умарбег.
+ stem: умарбег.|Умарбедж.|Умарбег.
  paradigm: Nct
  gloss: Умарбек
  trans_ru: Умарбек
@@ -105387,7 +105379,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Умархан
- stem: Умархан.
+ stem: умархан.
  paradigm: Nct
  gloss: Умархан
  trans_ru: Умархан
@@ -105395,7 +105387,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Уыгъалыхъ
- stem: Уыгъалыхъ.
+ stem: уыгъалыхъ.
  paradigm: Nct
  gloss: Угалук
  trans_ru: Угалук
@@ -105403,7 +105395,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Уырызмӕг
- stem: Уырызмӕг.|Уырызмӕдж.|Уырызмӕг.
+ stem: уырызмӕг.|Уырызмӕдж.|Уырызмӕг.
  paradigm: Nct
  gloss: Урузмаг
  trans_ru: Урузмаг
@@ -105411,7 +105403,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Уырысби
- stem: Уырысби.
+ stem: уырысби.
  paradigm: Nv
  gloss: Урусби
  trans_ru: Урусби
@@ -105419,7 +105411,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Уырысхан
- stem: Уырысхан.
+ stem: уырысхан.
  paradigm: Nct
  gloss: Урусхан
  trans_ru: Урусхан
@@ -105427,7 +105419,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Федыр
- stem: Федыр.
+ stem: федыр.
  paradigm: Nct
  gloss: Фёдор
  trans_ru: Фёдор
@@ -105435,7 +105427,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Фидар
- stem: Фидар.
+ stem: фидар.
  paradigm: Nct
  gloss: Фидар
  trans_ru: Фидар
@@ -105443,7 +105435,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Фидарыхъо
- stem: Фидарыхъо.
+ stem: фидарыхъо.
  paradigm: Nv
  gloss: Фидарико
  trans_ru: Фидарико
@@ -105451,7 +105443,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хаби
- stem: Хаби.
+ stem: хаби.
  paradigm: Nv
  gloss: Хаби
  trans_ru: Хаби
@@ -105459,7 +105451,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хаджумар
- stem: Хаджумар.
+ stem: хаджумар.
  paradigm: Nct
  gloss: Хаджумар
  trans_ru: Хаджумар
@@ -105467,7 +105459,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хадзы
- stem: Хадзы.
+ stem: хадзы.
  paradigm: Nv
  gloss: Хаджи
  trans_ru: Хаджи
@@ -105475,7 +105467,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хадзыбатыр
- stem: Хадзыбатыр.
+ stem: хадзыбатыр.
  paradigm: Nct
  gloss: Хаджибатыр
  trans_ru: Хаджибатыр
@@ -105483,7 +105475,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хадзыбечыр
- stem: Хадзыбечыр.
+ stem: хадзыбечыр.
  paradigm: Nct
  gloss: Хаджибекир
  trans_ru: Хаджибекир
@@ -105491,7 +105483,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хадзымӕт
- stem: Хадзымӕт.
+ stem: хадзымӕт.
  paradigm: Nct
  gloss: Хаджимет
  trans_ru: Хаджимет
@@ -105499,7 +105491,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хадзымуссӕ
- stem: Хадзымуссӕ.
+ stem: хадзымуссӕ.
  paradigm: Nv
  gloss: Хаджимусса
  trans_ru: Хаджимусса
@@ -105507,7 +105499,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хадзымырзӕ
- stem: Хадзымырзӕ.
+ stem: хадзымырзӕ.
  paradigm: Nv
  gloss: Хаджимирза
  trans_ru: Хаджимирза
@@ -105515,7 +105507,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хадзырӕт
- stem: Хадзырӕт.
+ stem: хадзырӕт.
  paradigm: Nct
  gloss: Хазрет
  trans_ru: Хазрет
@@ -105523,7 +105515,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хазби
- stem: Хазби.
+ stem: хазби.
  paradigm: Nv
  gloss: Хазби
  trans_ru: Хазби
@@ -105531,7 +105523,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хайырбег
- stem: Хайырбег.|Хайырбедж.|Хайырбег.
+ stem: хайырбег.|Хайырбедж.|Хайырбег.
  paradigm: Nct
  gloss: Хаирбек
  trans_ru: Хаирбек
@@ -105539,7 +105531,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хамырзӕ
- stem: Хамырзӕ.
+ stem: хамырзӕ.
  paradigm: Nv
  gloss: Хамирза
  trans_ru: Хамирза
@@ -105547,7 +105539,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Ханджери
- stem: Ханджери.
+ stem: ханджери.
  paradigm: Nv
  gloss: Хангерей
  trans_ru: Хангерей
@@ -105555,7 +105547,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Харитон
- stem: Харитон.
+ stem: харитон.
  paradigm: Nct
  gloss: Харитон
  trans_ru: Харитон
@@ -105563,7 +105555,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Харум
- stem: Харум.
+ stem: харум.
  paradigm: Nct
  gloss: Харум
  trans_ru: Харум
@@ -105571,7 +105563,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хасан
- stem: Хасан.
+ stem: хасан.
  paradigm: Nct
  gloss: Хасан
  trans_ru: Хасан
@@ -105579,7 +105571,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хатӕхцхъо
- stem: Хатӕхцхъо.
+ stem: хатӕхцхъо.
  paradigm: Nv
  gloss: Хатахцко
  trans_ru: Хатахцко
@@ -105587,7 +105579,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хӕмӕт
- stem: Хӕмӕт.
+ stem: хӕмӕт.
  paradigm: Nct
  gloss: Хамат
  trans_ru: Хамат
@@ -105595,7 +105587,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хӕмыц
- stem: Хӕмыц.
+ stem: хӕмыц.
  paradigm: Nct
  gloss: Хамиц
  trans_ru: Хамиц
@@ -105603,7 +105595,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хӕсанӕ
- stem: Хӕсанӕ.
+ stem: хӕсанӕ.
  paradigm: Nv
  gloss: Хасана
  trans_ru: Хасана
@@ -105611,7 +105603,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хетӕг
- stem: Хетӕг.|Хетӕдж.|Хетӕг.
+ stem: хетӕг.|Хетӕдж.|Хетӕг.
  paradigm: Nct
  gloss: Хетаг
  trans_ru: Хетаг
@@ -105619,7 +105611,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Христафор
- stem: Христафор.
+ stem: христафор.
  paradigm: Nct
  gloss: Христафор
  trans_ru: Христафор
@@ -105627,7 +105619,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хъазыбег
- stem: Хъазыбег.|Хъазыбедж.|Хъазыбег.
+ stem: хъазыбег.|Хъазыбедж.|Хъазыбег.
  paradigm: Nct
  gloss: Казбек
  trans_ru: Казбек
@@ -105635,7 +105627,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хъайсын
- stem: Хъайсын.
+ stem: хъайсын.
  paradigm: Nct
  gloss: Кайсын
  trans_ru: Кайсын
@@ -105643,7 +105635,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хъамболат
- stem: Хъамболат.
+ stem: хъамболат.
  paradigm: Nct
  gloss: Камболат
  trans_ru: Камболат
@@ -105651,7 +105643,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хъасболат
- stem: Хъасболат.
+ stem: хъасболат.
  paradigm: Nct
  gloss: Касболат
  trans_ru: Касболат
@@ -105659,7 +105651,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хъауырбег
- stem: Хъауырбег.|Хъауырбедж.|Хъауырбег.
+ stem: хъауырбег.|Хъауырбедж.|Хъауырбег.
  paradigm: Nct
  gloss: Каурбек
  trans_ru: Каурбек
@@ -105667,7 +105659,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хъӕхӕрман
- stem: Хъӕхӕрман.
+ stem: хъӕхӕрман.
  paradigm: Nct
  gloss: Кахарман
  trans_ru: Кахарман
@@ -105675,7 +105667,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Хъырым
- stem: Хъырым.
+ stem: хъырым.
  paradigm: Nct
  gloss: Кирим
  trans_ru: Кирим
@@ -105683,7 +105675,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Цӕра
- stem: Цӕра.
+ stem: цӕра.
  paradigm: Nct
  gloss: Цара
  trans_ru: Цара
@@ -105691,7 +105683,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Цӕргӕс
- stem: Цӕргӕс.
+ stem: цӕргӕс.
  paradigm: Nct
  gloss: Царгас
  trans_ru: Царгас
@@ -105699,7 +105691,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Ципыр
- stem: Ципыр.
+ stem: ципыр.
  paradigm: Nct
  gloss: Ципир
  trans_ru: Ципир
@@ -105707,7 +105699,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Шамил
- stem: Шамил.
+ stem: шамил.
  paradigm: Nct
  gloss: Шамиль
  trans_ru: Шамиль
@@ -105715,7 +105707,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Шота
- stem: Шота.
+ stem: шота.
  paradigm: Nct
  gloss: Шота
  trans_ru: Шота
@@ -105723,7 +105715,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Эврик
- stem: Эврик.|Эврич.|Эврик.
+ stem: эврик.|Эврич.|Эврик.
  paradigm: Nct
  gloss: Эврик
  trans_ru: Эврик
@@ -105731,7 +105723,7 @@
  gramm: N,prop,anim,human,M
 -lexeme
  lex: Эльбрус
- stem: Эльбрус.
+ stem: эльбрус.
  paradigm: Nct
  gloss: Эльбрус
  trans_ru: Эльбрус
@@ -105741,7 +105733,7 @@
  
 -lexeme
  lex: Агуындӕ
- stem: Агуындӕ.
+ stem: агуындӕ.
  paradigm: Nv
  gloss: Агунда
  trans_ru: Агунда
@@ -105749,7 +105741,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Азау
- stem: Азау.
+ stem: азау.
  paradigm: Nct
  gloss: Азау
  trans_ru: Азау
@@ -105757,7 +105749,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Азаухан
- stem: Азаухан.
+ stem: азаухан.
  paradigm: Nct
  gloss: Азаухан
  trans_ru: Азаухан
@@ -105765,7 +105757,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Азӕ
- stem: Азӕ.
+ stem: азӕ.
  paradigm: Nv
  gloss: Аза
  trans_ru: Аза 
@@ -105773,7 +105765,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Аллӕ
- stem: Аллӕ.
+ stem: аллӕ.
  paradigm: Nv
  gloss: Алла
  trans_ru: Алла
@@ -105781,7 +105773,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Аминӕт
- stem: Аминӕт.
+ stem: аминӕт.
  paradigm: Nct
  gloss: Аминат
  trans_ru: Аминат
@@ -105789,7 +105781,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Аниссӕ
- stem: Аниссӕ.
+ stem: аниссӕ.
  paradigm: Nv
  gloss: Анисса
  trans_ru: Анисса
@@ -105797,7 +105789,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Анна
- stem: Анна.
+ stem: анна.
  paradigm: Nv
  gloss: Анна
  trans_ru: Анна
@@ -105805,7 +105797,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Аннӕ
- stem: Аннӕ.
+ stem: аннӕ.
  paradigm: Nv
  gloss: Анна
  trans_ru: Анна
@@ -105813,7 +105805,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Асиат
- stem: Асиат.
+ stem: асиат.
  paradigm: Nct
  gloss: Асиат
  trans_ru: Асиат
@@ -105821,7 +105813,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Афассӕ
- stem: Афассӕ.
+ stem: афассӕ.
  paradigm: Nv
  gloss: Афасса
  trans_ru: Афасса
@@ -105829,7 +105821,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Ацырухс
- stem: Ацырухс.
+ stem: ацырухс.
  paradigm: Nct
  gloss: Ацирухс
  trans_ru: Ацирухс
@@ -105837,7 +105829,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Бабуца
- stem: Бабуца.
+ stem: бабуца.
  paradigm: Nv
  gloss: Бабуца
  trans_ru: Бабуца
@@ -105845,7 +105837,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Баринӕ
- stem: Баринӕ.
+ stem: баринӕ.
  paradigm: Nv
  gloss: Барина
  trans_ru: Барина
@@ -105853,7 +105845,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Борӕхан
- stem: Борӕхан.
+ stem: борӕхан.
  paradigm: Nct
  gloss: Борахан
  trans_ru: Борахан
@@ -105861,7 +105853,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Бубӕ
- stem: Бубӕ.
+ stem: бубӕ.
  paradigm: Nv
  gloss: Буба
  trans_ru: Буба
@@ -105869,7 +105861,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Буца
- stem: Буца.
+ stem: буца.
  paradigm: Nv
  gloss: Буца
  trans_ru: Буца
@@ -105877,7 +105869,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Венерӕ
- stem: Венерӕ.
+ stem: венерӕ.
  paradigm: Nv
  gloss: Венера
  trans_ru: Венера
@@ -105885,7 +105877,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Вера
- stem: Вера.//Верӕ.
+ stem: вера.//Верӕ.
  paradigm: Nv
  gloss: Вера
  trans_ru: Вера
@@ -105893,7 +105885,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Гафе
- stem: Гафе.
+ stem: гафе.
  paradigm: Nv
  gloss: Гафе
  trans_ru: Гафе
@@ -105901,7 +105893,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Гадианнӕ
- stem: Гадианнӕ.
+ stem: гадианнӕ.
  paradigm: Nv
  gloss: Гадианна
  trans_ru: Гадианна
@@ -105909,7 +105901,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Дади
- stem: Дади.
+ stem: дади.
  paradigm: Nv
  gloss: Дади
  trans_ru: Дади
@@ -105917,7 +105909,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Дарихан
- stem: Дарихан.
+ stem: дарихан.
  paradigm: Nct
  gloss: Дарихан
  trans_ru: Дарихан
@@ -105925,7 +105917,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Дати
- stem: Дати.
+ stem: дати.
  paradigm: Nv
  gloss: Дарья
  trans_ru: Дарья
@@ -105933,7 +105925,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Даухан
- stem: Даухан.
+ stem: даухан.
  paradigm: Nct
  gloss: Даухан
  trans_ru: Даухан
@@ -105941,7 +105933,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Дибӕ
- stem: Дибӕ.
+ stem: дибӕ.
  paradigm: Nv
  gloss: Диба
  trans_ru: Диба
@@ -105949,7 +105941,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Дибӕхан
- stem: Дибӕхан.
+ stem: дибӕхан.
  paradigm: Nct
  gloss: Дибахан
  trans_ru: Дибахан
@@ -105957,7 +105949,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Дигорхан
- stem: Дигорхан.
+ stem: дигорхан.
  paradigm: Nct
  gloss: Дигорхан
  trans_ru: Дигорхан
@@ -105965,7 +105957,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Динӕ
- stem: Динӕ.
+ stem: динӕ.
  paradigm: Nv
  gloss: Дина
  trans_ru: Дина
@@ -105973,7 +105965,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Дунетхан
- stem: Дунетхан.
+ stem: дунетхан.
  paradigm: Nct
  gloss: Дунетхан
  trans_ru: Дунетхан
@@ -105981,7 +105973,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Дуса
- stem: Дуса.
+ stem: дуса.
  paradigm: Nv
  gloss: Дуса
  trans_ru: Дуса
@@ -105989,7 +105981,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Дзӕнӕтхан
- stem: Дзӕнӕтхан.
+ stem: дзӕнӕтхан.
  paradigm: Nct
  gloss: Дзанатхан
  trans_ru: Дзанатхан
@@ -105997,7 +105989,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Дзги
- stem: Дзги.
+ stem: дзги.
  paradigm: Nv
  gloss: Дзги
  trans_ru: Дзги
@@ -106005,7 +105997,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Дзегдо
- stem: Дзегдо.
+ stem: дзегдо.
  paradigm: Nv
  gloss: Дзегдо
  trans_ru: Дзегдо
@@ -106013,7 +106005,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Дзерасса
- stem: Дзерасса.
+ stem: дзерасса.
  paradigm: Nv
  gloss: Дзерасса
  trans_ru: Дзерасса
@@ -106021,7 +106013,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Дзибӕ
- stem: Дзибӕ.
+ stem: дзибӕ.
  paradigm: Nv
  gloss: Дзиба
  trans_ru: Дзиба
@@ -106029,7 +106021,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Дзиппо
- stem: Дзиппо.
+ stem: дзиппо.
  paradigm: Nv
  gloss: Дзиппо
  trans_ru: Дзиппо
@@ -106037,7 +106029,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Дзирӕт
- stem: Дзирӕт.
+ stem: дзирӕт.
  paradigm: Nct
  gloss: Дзират
  trans_ru: Дзират
@@ -106045,7 +106037,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Дзыллӕ
- stem: Дзыллӕ.
+ stem: дзыллӕ.
  paradigm: Nv
  gloss: Дзылла
  trans_ru: Дзылла
@@ -106053,7 +106045,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Евӕ
- stem: Евӕ.
+ stem: евӕ.
  paradigm: Nv
  gloss: Ева
  trans_ru: Ева 
@@ -106061,7 +106053,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Езетӕ
- stem: Езетӕ.
+ stem: езетӕ.
  paradigm: Nv
  gloss: Езета
  trans_ru: Езета
@@ -106069,7 +106061,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Езетхан
- stem: Езетхан.
+ stem: езетхан.
  paradigm: Nct
  gloss: Езетхан
  trans_ru: Езетхан
@@ -106077,7 +106069,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Елда
- stem: Елда.
+ stem: елда.
  paradigm: Nv
  gloss: Елда
  trans_ru: Елда
@@ -106085,7 +106077,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Заирӕ
- stem: Заирӕ.
+ stem: заирӕ.
  paradigm: Nv
  gloss: Заира
  trans_ru: Заира
@@ -106093,7 +106085,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Залдуз
- stem: Залдуз.
+ stem: залдуз.
  paradigm: Nv
  gloss: Залдуз
  trans_ru: Залдуз
@@ -106101,7 +106093,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Залдузхан
- stem: Залдузхан.
+ stem: залдузхан.
  paradigm: Nct
  gloss: Залдузхан
  trans_ru: Залдузхан
@@ -106109,7 +106101,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Зали
- stem: Зали.
+ stem: зали.
  paradigm: Nv
  gloss: Зали
  trans_ru: Зали
@@ -106117,7 +106109,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Залихан
- stem: Залихан.
+ stem: залихан.
  paradigm: Nct
  gloss: Залихан
  trans_ru: Залихан
@@ -106125,7 +106117,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Замирӕ
- stem: Замирӕ.
+ stem: замирӕ.
  paradigm: Nv
  gloss: Замира
  trans_ru: Замира
@@ -106133,7 +106125,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Замирӕт
- stem: Замирӕт.
+ stem: замирӕт.
  paradigm: Nct
  gloss: Замират
  trans_ru: Замират
@@ -106141,7 +106133,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Заремӕ
- stem: Заремӕ.
+ stem: заремӕ.
  paradigm: Nv
  gloss: Зарема
  trans_ru: Зарема
@@ -106149,7 +106141,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Заретӕ
- stem: Заретӕ.
+ stem: заретӕ.
  paradigm: Nv
  gloss: Зарета
  trans_ru: Зарета
@@ -106157,7 +106149,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Зариффӕ
- stem: Зариффӕ.
+ stem: зариффӕ.
  paradigm: Nv
  gloss: Зариффа
  trans_ru: Зариффа
@@ -106165,7 +106157,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Зӕлинӕ
- stem: Зӕлинӕ.
+ stem: зӕлинӕ.
  paradigm: Nv
  gloss: Залина
  trans_ru: Залина
@@ -106173,7 +106165,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Зӕринӕ
- stem: Зӕринӕ.
+ stem: зӕринӕ.
  paradigm: Nv
  gloss: Зарина
  trans_ru: Зарина
@@ -106181,7 +106173,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Земфирӕ
- stem: Земфирӕ.
+ stem: земфирӕ.
  paradigm: Nv
  gloss: Земфира
  trans_ru: Земфира
@@ -106189,7 +106181,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Зинӕ
- stem: Зинӕ.
+ stem: зинӕ.
  paradigm: Nv
  gloss: Зина
  trans_ru: Зина
@@ -106197,7 +106189,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Зойӕ
- stem: Зойӕ.
+ stem: зойӕ.
  paradigm: Nv
  gloss: Зоя
  trans_ru: Зоя
@@ -106205,7 +106197,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Иветӕ
- stem: Иветӕ.
+ stem: иветӕ.
  paradigm: Nv
  gloss: Ивета
  trans_ru: Ивета
@@ -106213,7 +106205,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Изетӕ
- stem: Изетӕ.
+ stem: изетӕ.
  paradigm: Nv
  gloss: Изета
  trans_ru: Изета
@@ -106221,7 +106213,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Инессӕ
- stem: Инессӕ.
+ stem: инессӕ.
  paradigm: Nv
  gloss: Инесса
  trans_ru: Инесса
@@ -106229,7 +106221,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Иринӕ
- stem: Иринӕ.
+ stem: иринӕ.
  paradigm: Nv
  gloss: Ирина
  trans_ru: Ирина
@@ -106237,7 +106229,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Кафетӕ
- stem: Кафетӕ.
+ stem: кафетӕ.
  paradigm: Nv
  gloss: Кафета
  trans_ru: Кафета
@@ -106245,7 +106237,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Киабӕхан
- stem: Киабӕхан.
+ stem: киабӕхан.
  paradigm: Nct
  gloss: Кябахан
  trans_ru: Кябахан
@@ -106253,7 +106245,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Косер
- stem: Косер.
+ stem: косер.
  paradigm: Nct
  gloss: Косер
  trans_ru: Косер
@@ -106261,7 +106253,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Косерхан
- stem: Косерхан.
+ stem: косерхан.
  paradigm: Nv
  gloss: Косерхан
  trans_ru: Косерхан
@@ -106269,7 +106261,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Ксена
- stem: Ксена.
+ stem: ксена.
  paradigm: Nv
  gloss: Ксения
  trans_ru: Ксения
@@ -106277,7 +106269,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Леза
- stem: Леза.
+ stem: леза.
  paradigm: Nv
  gloss: Леза
  trans_ru: Леза
@@ -106285,7 +106277,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Леска
- stem: Леска.
+ stem: леска.
  paradigm: Nv
  gloss: Леска
  trans_ru: Леска
@@ -106293,7 +106285,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Лидӕ
- stem: Лидӕ.
+ stem: лидӕ.
  paradigm: Nv
  gloss: Лида
  trans_ru: Лида
@@ -106301,7 +106293,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Лизавет
- stem: Лизавет.
+ stem: лизавет.
  paradigm: Nct
  gloss: Елизавета
  trans_ru: Елизавета
@@ -106309,7 +106301,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Лизӕ
- stem: Лизӕ.
+ stem: лизӕ.
  paradigm: Nv
  gloss: Лиза
  trans_ru: Лиза
@@ -106317,7 +106309,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Любӕ
- stem: Любӕ.
+ stem: любӕ.
  paradigm: Nv
  gloss: Люба
  trans_ru: Люба
@@ -106325,7 +106317,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Людмилӕ
- stem: Людмилӕ.
+ stem: людмилӕ.
  paradigm: Nv
  gloss: Людмила
  trans_ru: Людмила
@@ -106333,7 +106325,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Майӕ
- stem: Майӕ.
+ stem: майӕ.
  paradigm: Nv
  gloss: Мая//Майя
  trans_ru: Мая//Майя
@@ -106341,7 +106333,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Манутйа
- stem: Манутйа.
+ stem: манутйа.
  paradigm: Nv
  gloss: Манутя
  trans_ru: Манутя
@@ -106349,7 +106341,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Маринӕ
- stem: Маринӕ.
+ stem: маринӕ.
  paradigm: Nv
  gloss: Марина
  trans_ru: Марина
@@ -106357,7 +106349,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Марйа
- stem: Марйа.
+ stem: марйа.
  paradigm: Nv
  gloss: Марья
  trans_ru: Марья
@@ -106365,7 +106357,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Маса
- stem: Маса.
+ stem: маса.
  paradigm: Nv
  gloss: Маша
  trans_ru: Маша
@@ -106373,7 +106365,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Масо
- stem: Масо.
+ stem: масо.
  paradigm: Nv
  gloss: Машо
  trans_ru: Машо
@@ -106381,7 +106373,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Мӕдинӕ
- stem: Мӕдинӕ.
+ stem: мӕдинӕ.
  paradigm: Nv
  gloss: Мадина
  trans_ru: Мадина
@@ -106389,7 +106381,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Мӕдинӕт
- stem: Мӕдинӕт.
+ stem: мӕдинӕт.
  paradigm: Nct
  gloss: Мадинат
  trans_ru: Мадинат
@@ -106397,7 +106389,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Мерет
- stem: Мерет.
+ stem: мерет.
  paradigm: Nct
  gloss: Мерет
  trans_ru: Мерет
@@ -106405,7 +106397,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Меретхан
- stem: Меретхан.
+ stem: меретхан.
  paradigm: Nct
  gloss: Меретхан
  trans_ru: Меретхан
@@ -106413,7 +106405,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Милуся
- stem: Милуся.
+ stem: милуся.
  paradigm: Nv
  gloss: Милюся
  trans_ru: Милюся
@@ -106421,7 +106413,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Мина
- stem: Мина.
+ stem: мина.
  paradigm: Nv
  gloss: Мина
  trans_ru: Мина
@@ -106429,7 +106421,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Минтӕ
- stem: Минтӕ.
+ stem: минтӕ.
  paradigm: Nv
  gloss: Минта
  trans_ru: Минта
@@ -106437,7 +106429,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Надездӕ
- stem: Надездӕ.
+ stem: надездӕ.
  paradigm: Nv
  gloss: Надежда
  trans_ru: Надежда
@@ -106445,7 +106437,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Надиа
- stem: Надиа.
+ stem: надиа.
  paradigm: Nv
  gloss: Надя
  trans_ru: Надя
@@ -106453,7 +106445,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Назирӕт
- stem: Назирӕт.
+ stem: назирӕт.
  paradigm: Nct
  gloss: Назирӕт
  trans_ru: Назират
@@ -106461,7 +106453,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Наидӕ
- stem: Наидӕ.
+ stem: наидӕ.
  paradigm: Nv
  gloss: Наида
  trans_ru: Наидӕ
@@ -106469,7 +106461,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Нафирӕт
- stem: Нафирӕт.
+ stem: нафирӕт.
  paradigm: Nct
  gloss: Нафират
  trans_ru: Нафират
@@ -106477,7 +106469,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Нену
- stem: Нену.
+ stem: нену.
  paradigm: Nv
  gloss: Нену
  trans_ru: Нену
@@ -106485,7 +106477,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Ненуца
- stem: Ненуца.
+ stem: ненуца.
  paradigm: Nv
  gloss: Ненуца
  trans_ru: Ненуца
@@ -106493,7 +106485,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Нина
- stem: Нина.//Нинӕ.//Нино.
+ stem: нина.//Нинӕ.//Нино.
  paradigm: Nv
  gloss: Нина
  trans_ru: Нина
@@ -106501,7 +106493,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Пари
- stem: Пари.
+ stem: пари.
  paradigm: Nv
  gloss: Пари
  trans_ru: Пари
@@ -106509,7 +106501,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Пӕсӕ
- stem: Пӕсӕ.
+ stem: пӕсӕ.
  paradigm: Nv
  gloss: Паша
  trans_ru: Паша
@@ -106517,7 +106509,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Пӕсӕхан
- stem: Пӕсӕхан.
+ stem: пӕсӕхан.
  paradigm: Nct
  gloss: Пашахан
  trans_ru: Пашахан
@@ -106525,7 +106517,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Пелаги
- stem: Пелаги.
+ stem: пелаги.
  paradigm: Nv
  gloss: Пелагея
  trans_ru: Пелагея
@@ -106533,7 +106525,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Поли
- stem: Поли.
+ stem: поли.
  paradigm: Nv
  gloss: Поли
  trans_ru: Поли
@@ -106541,7 +106533,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Разиат
- stem: Разиат.
+ stem: разиат.
  paradigm: Nct
  gloss: Разят
  trans_ru: Разят
@@ -106549,7 +106541,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Райсӕ
- stem: Райсӕ.
+ stem: райсӕ.
  paradigm: Nv
  gloss: Раиса
  trans_ru: Раиса
@@ -106557,7 +106549,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Райхан
- stem: Райхан.
+ stem: райхан.
  paradigm: Nct
  gloss: Райхан
  trans_ru: Райхан
@@ -106565,7 +106557,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Райханӕт
- stem: Райханӕт.
+ stem: райханӕт.
  paradigm: Nct
  gloss: Райханат
  trans_ru: Райханат
@@ -106573,7 +106565,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Рӕхимӕт
- stem: Рӕхимӕт.
+ stem: рӕхимӕт.
  paradigm: Nct
  gloss: Рахимат
  trans_ru: Рахимат
@@ -106581,7 +106573,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Риммӕ
- stem: Риммӕ.
+ stem: риммӕ.
  paradigm: Nv
  gloss: Римма
  trans_ru: Римма
@@ -106589,7 +106581,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Розӕ
- stem: Розӕ.
+ stem: розӕ.
  paradigm: Nv
  gloss: Роза
  trans_ru: Роза
@@ -106597,7 +106589,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Сатана
- stem: Сатана.
+ stem: сатана.
  paradigm: Nv
  gloss: Шатана
  trans_ru: Шатана
@@ -106605,7 +106597,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Сӕлимӕт
- stem: Сӕлимӕт.
+ stem: сӕлимӕт.
  paradigm: Nv
  gloss: Салимат
  trans_ru: Салимат
@@ -106613,7 +106605,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Сӕниат
- stem: Сӕниат.
+ stem: сӕниат.
  paradigm: Nct
  gloss: Саниат
  trans_ru: Саниат
@@ -106621,7 +106613,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Светлана
- stem: Светлана.
+ stem: светлана.
  paradigm: Nct
  gloss: Светлана
  trans_ru: Светлана
@@ -106629,7 +106621,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Серафин
- stem: Серафин.
+ stem: серафин.
  paradigm: Nct
  gloss: Серафима
  trans_ru: Серафима
@@ -106637,7 +106629,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Симӕ
- stem: Симӕ.
+ stem: симӕ.
  paradigm: Nv
  gloss: Сима
  trans_ru: Сима
@@ -106645,7 +106637,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Сона
- stem: Сона.
+ stem: сона.
  paradigm: Nv
  gloss: Соня
  trans_ru: Соня
@@ -106653,7 +106645,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Софиа
- stem: Софиа.
+ stem: софиа.
  paradigm: Nv
  gloss: Софья
  trans_ru: Софья
@@ -106661,7 +106653,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Таира
- stem: Таира.
+ stem: таира.
  paradigm: Nv
  gloss: Таира
  trans_ru: Таира
@@ -106669,7 +106661,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Таисӕ
- stem: Таисӕ.
+ stem: таисӕ.
  paradigm: Nv
  gloss: Таисия
  trans_ru: Таисия
@@ -106677,7 +106669,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Тамара
- stem: Тамара.
+ stem: тамара.
  paradigm: Nv
  gloss: Тамара
  trans_ru: Тамара
@@ -106685,7 +106677,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Тауырзӕт
- stem: Тауырзӕт.
+ stem: тауырзӕт.
  paradigm: Nct
  gloss: Таурзат
  trans_ru: Таурзат
@@ -106693,7 +106685,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Терезӕ
- stem: Терезӕ.
+ stem: терезӕ.
  paradigm: Nv
  gloss: Тереза
  trans_ru: Тереза
@@ -106701,7 +106693,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Уарзетӕ
- stem: Уарзетӕ.
+ stem: уарзетӕ.
  paradigm: Nv
  gloss: Орзета
  trans_ru: Орзета
@@ -106709,7 +106701,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Уацирӕт
- stem: Уацирӕт.
+ stem: уацирӕт.
  paradigm: Nct
  gloss: Уацират
  trans_ru: Уацират
@@ -106717,7 +106709,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Уацирӕт
- stem: Уацирӕт.
+ stem: уацирӕт.
  paradigm: Nct
  gloss: Уацират
  trans_ru: Уацират
@@ -106725,7 +106717,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Уӕлинка
- stem: Уӕлинка.
+ stem: уӕлинка.
  paradigm: Nv
  gloss: Оленька
  trans_ru: Оленька
@@ -106733,7 +106725,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Фаризӕт
- stem: Фаризӕт.
+ stem: фаризӕт.
  paradigm: Nct
  gloss: Фаризат
  trans_ru: Фаризат
@@ -106741,7 +106733,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Фарнӕ
- stem: Фарнӕ.
+ stem: фарнӕ.
  paradigm: Nv
  gloss: Фарна
  trans_ru: Фарна
@@ -106749,7 +106741,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Фатъимӕ
- stem: Фатъимӕ.
+ stem: фатъимӕ.
  paradigm: Nv
  gloss: Фатима
  trans_ru:Фатима 
@@ -106757,7 +106749,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Фатъимӕт
- stem: Фатъимӕт.
+ stem: фатъимӕт.
  paradigm: Nv
  gloss: Фатимат
  trans_ru:Фатимат 
@@ -106765,7 +106757,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Фирузӕ
- stem: Фирузӕ.
+ stem: фирузӕ.
  paradigm: Nv
  gloss: Фируза
  trans_ru: Фируза
@@ -106773,7 +106765,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Фузӕ
- stem: Фузӕ.
+ stem: фузӕ.
  paradigm: Nv
  gloss: Фуза
  trans_ru: Фуза
@@ -106781,7 +106773,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Хадизӕ
- stem: Хадизӕ.
+ stem: хадизӕ.
  paradigm: Nv
  gloss: Хадиза
  trans_ru: Хадиза
@@ -106789,7 +106781,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Хадизӕт
- stem: Хадизӕт.
+ stem: хадизӕт.
  paradigm: Nct
  gloss: Хадизат
  trans_ru: Хадизат
@@ -106797,7 +106789,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Хайырхъыз
- stem: Хайырхъыз.
+ stem: хайырхъыз.
  paradigm: Nct
  gloss: Хаиркиз
  trans_ru: Хаиркиз
@@ -106805,7 +106797,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Хангуассӕ
- stem: Хангуассӕ.
+ stem: хангуассӕ.
  paradigm: Nv
  gloss: Хангуасса
  trans_ru: Хангуасса
@@ -106813,7 +106805,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Хандзариффӕ
- stem: Хандзариффӕ.
+ stem: хандзариффӕ.
  paradigm: Nv
  gloss: Хандзариффа
  trans_ru: Хандзариффа
@@ -106821,7 +106813,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Ханиффӕ
- stem: Ханиффӕ.
+ stem: ханиффӕ.
  paradigm: Nv
  gloss: Ханиффа
  trans_ru: Ханиффа
@@ -106829,7 +106821,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Ханысиат
- stem: Ханысиат.
+ stem: ханысиат.
  paradigm: Nct
  gloss: Ханисят
  trans_ru: Ханисят
@@ -106837,7 +106829,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Хъаллӕ
- stem: Хъаллӕ.
+ stem: хъаллӕ.
  paradigm: Nv
  gloss: Калла
  trans_ru: Калла 
@@ -106845,7 +106837,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Хъызмыдӕ
- stem: Хъызмыдӕ.
+ stem: хъызмыдӕ.
  paradigm: Nv
  gloss: Кизмида
  trans_ru: Кизмида
@@ -106853,7 +106845,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Чабӕхан
- stem: Чабахан.
+ stem: чабахан.
  paradigm: Nct
  gloss: Чабахан
  trans_ru: Чабахан
@@ -106861,7 +106853,7 @@
  gramm: N,prop,anim,human,F
 -lexeme
  lex: Галка
- stem: Галка.
+ stem: галка.
  paradigm: Nv
  gloss: Галка
  trans_ru: Галка

@@ -39,7 +39,7 @@ def collect_lemmata():
 
 
 def collect_paradigms():
-    fIn = open('paradigms.txt', 'r', encoding='utf-8-sig')
+    fIn = open('oss_paradigms.txt', 'r', encoding='utf-8-sig')
     text = fIn.read()
     fIn.close()
     return text

@@ -11,6 +11,7 @@ paradigms.txt
 bad_analyses.txt
 derivations.txt
 lex_rules.txt
+clitics.txt
 add_lex/
 .Python
 env/

@@ -17,7 +17,6 @@ class OsseticAnalyzer(Analyzer):
         self.mode = mode
         if mode not in ('strict', 'nodiacritics'):
             return
-        self.glossing = False
         self.dirName = 'uniparser_ossetic.data_' + mode
         with as_file(files(self.dirName) / 'paradigms.txt') as self.paradigmFile,\
              as_file(files(self.dirName) / 'lexemes.txt') as self.lexFile,\
