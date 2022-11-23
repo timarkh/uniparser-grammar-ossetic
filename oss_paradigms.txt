@@ -69,177 +69,177 @@
  -flex: <0>.ай
   gramm: sg,voc
   gloss: VOC
- -deriv: N-gaj
- -deriv: N-dzyn
- -deriv: N-ad
- -deriv: N-dzinad
- -deriv: N-on
- -deriv: N-dӕr
- -deriv: N-cux
- -deriv: N-arӕx
- -deriv: N-yearadj
- -deriv: N-yearadj2
- -deriv: N-yearold
- -deriv: N-class
- -deriv: N-month
- -deriv: N-floor
- -deriv: N-dzhyn
- -deriv: N-chyn
- -deriv: N-vars
- -deriv: N-afon
- -deriv: N-don
- -deriv: N-qom
- -deriv: N-ag
- -deriv: N-gag
- -deriv: N-ӕg
- -deriv: N-xwyz
- -deriv: N-xwyzӕn
- -deriv: N-dzau
- -deriv: N-gӕs
- -deriv: N-garz
- -deriv: N-gur
- -deriv: N-wat
- -deriv: N-quag
- -deriv: N-gomau
- -deriv: N-gӕron
- -deriv: N-vӕndag
- -deriv: N-ӕmxasӕn
- -deriv: N-iu
- -deriv: N-dy
- -deriv: N-ӕrtӕ
- -deriv: N-cyppar
- -deriv: N-fondz
- -deriv: N-ӕxsӕz
- -deriv: N-avd
- -deriv: N-ast
- -deriv: N-farast
- -deriv: N-dӕs
- -deriv: N-ӕmbis
- -deriv: N-ӕm
- -deriv: N-dӕl
- -deriv: N-dargh
- -deriv: N-byn
- -deriv: N-ӕrvyl
- -deriv: N-ӕrdӕg
- -deriv: N-zyn
- -deriv: N-ӕd
- -deriv: N-fӕ
+ -deriv-link: N-gaj
+ -deriv-link: N-dzyn
+ -deriv-link: N-ad
+ -deriv-link: N-dzinad
+ -deriv-link: N-on
+ -deriv-link: N-dӕr
+ -deriv-link: N-cux
+ -deriv-link: N-arӕx
+ -deriv-link: N-yearadj
+ -deriv-link: N-yearadj2
+ -deriv-link: N-yearold
+ -deriv-link: N-class
+ -deriv-link: N-month
+ -deriv-link: N-floor
+ -deriv-link: N-dzhyn
+ -deriv-link: N-chyn
+ -deriv-link: N-vars
+ -deriv-link: N-afon
+ -deriv-link: N-don
+ -deriv-link: N-qom
+ -deriv-link: N-ag
+ -deriv-link: N-gag
+ -deriv-link: N-ӕg
+ -deriv-link: N-xwyz
+ -deriv-link: N-xwyzӕn
+ -deriv-link: N-dzau
+ -deriv-link: N-gӕs
+ -deriv-link: N-garz
+ -deriv-link: N-gur
+ -deriv-link: N-wat
+ -deriv-link: N-quag
+ -deriv-link: N-gomau
+ -deriv-link: N-gӕron
+ -deriv-link: N-vӕndag
+ -deriv-link: N-ӕmxasӕn
+ -deriv-link: N-iu
+ -deriv-link: N-dy
+ -deriv-link: N-ӕrtӕ
+ -deriv-link: N-cyppar
+ -deriv-link: N-fondz
+ -deriv-link: N-ӕxsӕz
+ -deriv-link: N-avd
+ -deriv-link: N-ast
+ -deriv-link: N-farast
+ -deriv-link: N-dӕs
+ -deriv-link: N-ӕmbis
+ -deriv-link: N-ӕm
+ -deriv-link: N-dӕl
+ -deriv-link: N-dargh
+ -deriv-link: N-byn
+ -deriv-link: N-ӕrvyl
+ -deriv-link: N-ӕrdӕg
+ -deriv-link: N-zyn
+ -deriv-link: N-ӕd
+ -deriv-link: N-fӕ
   recurs_class: 1
- -deriv: N-fӕ-cӕj
+ -deriv-link: N-fӕ-cӕj
   recurs_class: 1
- -deriv: N-fӕc
+ -deriv-link: N-fӕc
   recurs_class: 1
- -deriv: N-fӕj
+ -deriv-link: N-fӕj
   recurs_class: 1
- -deriv: N-fe
+ -deriv-link: N-fe
   recurs_class: 1
- -deriv: N-ba
+ -deriv-link: N-ba
   recurs_class: 1
- -deriv: N-ba-cӕj
+ -deriv-link: N-ba-cӕj
   recurs_class: 1
- -deriv: N-baj
+ -deriv-link: N-baj
   recurs_class: 1
- -deriv: N-bac
+ -deriv-link: N-bac
   recurs_class: 1
- -deriv: N-ӕrba
+ -deriv-link: N-ӕrba
   recurs_class: 1
- -deriv: N-ӕrba-cӕj
+ -deriv-link: N-ӕrba-cӕj
   recurs_class: 1
- -deriv: N-ӕrbaj
+ -deriv-link: N-ӕrbaj
   recurs_class: 1
- -deriv: N-ӕrbac
+ -deriv-link: N-ӕrbac
   recurs_class: 1
- -deriv: N-ӕr
+ -deriv-link: N-ӕr
   recurs_class: 1
- -deriv: N-ӕr-cӕj
+ -deriv-link: N-ӕr-cӕj
   recurs_class: 1
- -deriv: N-ӕry
+ -deriv-link: N-ӕry
   recurs_class: 1
- -deriv: N-ra
+ -deriv-link: N-ra
   recurs_class: 1
- -deriv: N-ra-cӕj
+ -deriv-link: N-ra-cӕj
   recurs_class: 1
- -deriv: N-raj
+ -deriv-link: N-raj
   recurs_class: 1
- -deriv: N-raс
+ -deriv-link: N-raс
   recurs_class: 1
- -deriv: N-a
+ -deriv-link: N-a
   recurs_class: 1
- -deriv: N-a-cӕj
+ -deriv-link: N-a-cӕj
   recurs_class: 1
- -deriv: N-aj
+ -deriv-link: N-aj
   recurs_class: 1
- -deriv: N-ac
+ -deriv-link: N-ac
   recurs_class: 1
- -deriv: N-s
+ -deriv-link: N-s
   recurs_class: 1
- -deriv: N-s-cӕj
+ -deriv-link: N-s-cӕj
   recurs_class: 1
- -deriv: N-ys
+ -deriv-link: N-ys
   recurs_class: 1
- -deriv: N-ys-cӕj
+ -deriv-link: N-ys-cӕj
   recurs_class: 1
- -deriv: N-sy
+ -deriv-link: N-sy
   recurs_class: 1
- -deriv: N-ysy
+ -deriv-link: N-ysy
   recurs_class: 1
- -deriv: N-ny
+ -deriv-link: N-ny
   recurs_class: 1
- -deriv: N-ny-cӕj
+ -deriv-link: N-ny-cӕj
   recurs_class: 1
- -deriv: N-nyj
+ -deriv-link: N-nyj
   recurs_class: 1
- -deriv: N-nyb
+ -deriv-link: N-nyb
   recurs_class: 1
- -deriv: N-nyv
+ -deriv-link: N-nyv
   recurs_class: 1
- -deriv: N-nyg
+ -deriv-link: N-nyg
   recurs_class: 1
- -deriv: N-nygh
+ -deriv-link: N-nygh
   recurs_class: 1
- -deriv: N-nyd
+ -deriv-link: N-nyd
   recurs_class: 1
- -deriv: N-nydz
+ -deriv-link: N-nydz
   recurs_class: 1
- -deriv: N-nyz
+ -deriv-link: N-nyz
   recurs_class: 1
- -deriv: N-nyk
+ -deriv-link: N-nyk
   recurs_class: 1
- -deriv: N-nyk!
+ -deriv-link: N-nyk!
   recurs_class: 1
- -deriv: N-nyl
+ -deriv-link: N-nyl
   recurs_class: 1
- -deriv: N-nym
+ -deriv-link: N-nym
   recurs_class: 1
- -deriv: N-nyn
+ -deriv-link: N-nyn
   recurs_class: 1
- -deriv: N-nyp
+ -deriv-link: N-nyp
   recurs_class: 1
- -deriv: N-nyp!
+ -deriv-link: N-nyp!
   recurs_class: 1
- -deriv: N-nyr
+ -deriv-link: N-nyr
   recurs_class: 1
- -deriv: N-nys
+ -deriv-link: N-nys
   recurs_class: 1
- -deriv: N-nyt
+ -deriv-link: N-nyt
   recurs_class: 1
- -deriv: N-nyt!
+ -deriv-link: N-nyt!
   recurs_class: 1
- -deriv: N-nyf
+ -deriv-link: N-nyf
   recurs_class: 1
- -deriv: N-nyx
+ -deriv-link: N-nyx
   recurs_class: 1
- -deriv: N-nyq
+ -deriv-link: N-nyq
   recurs_class: 1
- -deriv: N-nyc
+ -deriv-link: N-nyc
   recurs_class: 1
- -deriv: N-nyc!
+ -deriv-link: N-nyc!
   recurs_class: 1
- -deriv: N-nych
+ -deriv-link: N-nych
   recurs_class: 1
- -deriv: N-nych!
+ -deriv-link: N-nych!
   recurs_class: 1
- -deriv: N-nycc
+ -deriv-link: N-nycc
   recurs_class: 1
 -paradigm: Nctt
  -flex: <0>.
@@ -310,179 +310,179 @@
  -flex: <0>.ай
   gramm: sg,voc
   gloss: VOC
- -deriv: N-gaj
- -deriv: N-dzyn
- -deriv: N-ad
- -deriv: N-dzinad
- -deriv: N-on
- -deriv: N-dӕr
- -deriv: N-cux
- -deriv: N-arӕx
- -deriv: N-yearadj
- -deriv: N-yearadj2
- -deriv: N-yearold
- -deriv: N-class
- -deriv: N-month
- -deriv: N-floor
- -deriv: N-dzhyn
- -deriv: N-chyn
- -deriv: N-vars
- -deriv: N-afon
- -deriv: N-don
- -deriv: N-qom
- -deriv: N-ag
- -deriv: N-gag
- -deriv: N-ӕg
- -deriv: N-xwyz
- -deriv: N-xwyzӕn
- -deriv: N-dzau
- -deriv: N-gӕs
- -deriv: N-garz
- -deriv: N-gur
- -deriv: N-wat
- -deriv: N-quag
- -deriv: N-gomau
- -deriv: N-gӕron
- -deriv: N-vӕndag
- -deriv: N-ӕmxasӕn
- -deriv: N-iu
- -deriv: N-dy
- -deriv: N-ӕrtӕ
- -deriv: N-cyppar
- -deriv: N-fondz
- -deriv: N-ӕxsӕz
- -deriv: N-avd
- -deriv: N-ast
- -deriv: N-farast
- -deriv: N-dӕs
- -deriv: N-ӕmbis
- -deriv: N-ӕm
- -deriv: N-dӕl
- -deriv: N-dargh
- -deriv: N-byn
- -deriv: N-ӕrvyl
- -deriv: N-ӕrdӕg
- -deriv: N-zyn
- -deriv: N-ӕd
- -deriv: N-fӕ
+ -deriv-link: N-gaj
+ -deriv-link: N-dzyn
+ -deriv-link: N-ad
+ -deriv-link: N-dzinad
+ -deriv-link: N-on
+ -deriv-link: N-dӕr
+ -deriv-link: N-cux
+ -deriv-link: N-arӕx
+ -deriv-link: N-yearadj
+ -deriv-link: N-yearadj2
+ -deriv-link: N-yearold
+ -deriv-link: N-class
+ -deriv-link: N-month
+ -deriv-link: N-floor
+ -deriv-link: N-dzhyn
+ -deriv-link: N-chyn
+ -deriv-link: N-vars
+ -deriv-link: N-afon
+ -deriv-link: N-don
+ -deriv-link: N-qom
+ -deriv-link: N-ag
+ -deriv-link: N-gag
+ -deriv-link: N-ӕg
+ -deriv-link: N-xwyz
+ -deriv-link: N-xwyzӕn
+ -deriv-link: N-dzau
+ -deriv-link: N-gӕs
+ -deriv-link: N-garz
+ -deriv-link: N-gur
+ -deriv-link: N-wat
+ -deriv-link: N-quag
+ -deriv-link: N-gomau
+ -deriv-link: N-gӕron
+ -deriv-link: N-vӕndag
+ -deriv-link: N-ӕmxasӕn
+ -deriv-link: N-iu
+ -deriv-link: N-dy
+ -deriv-link: N-ӕrtӕ
+ -deriv-link: N-cyppar
+ -deriv-link: N-fondz
+ -deriv-link: N-ӕxsӕz
+ -deriv-link: N-avd
+ -deriv-link: N-ast
+ -deriv-link: N-farast
+ -deriv-link: N-dӕs
+ -deriv-link: N-ӕmbis
+ -deriv-link: N-ӕm
+ -deriv-link: N-dӕl
+ -deriv-link: N-dargh
+ -deriv-link: N-byn
+ -deriv-link: N-ӕrvyl
+ -deriv-link: N-ӕrdӕg
+ -deriv-link: N-zyn
+ -deriv-link: N-ӕd
+ -deriv-link: N-fӕ
   recurs_class: 1
- -deriv: N-fӕ-cӕj
+ -deriv-link: N-fӕ-cӕj
   recurs_class: 1
- -deriv: N-fӕc
+ -deriv-link: N-fӕc
   recurs_class: 1
- -deriv: N-fӕj
+ -deriv-link: N-fӕj
   recurs_class: 1
- -deriv: N-fe
+ -deriv-link: N-fe
   recurs_class: 1
- -deriv: N-ba
+ -deriv-link: N-ba
   recurs_class: 1
- -deriv: N-ba-cӕj
+ -deriv-link: N-ba-cӕj
   recurs_class: 1
- -deriv: N-baj
+ -deriv-link: N-baj
   recurs_class: 1
- -deriv: N-bac
+ -deriv-link: N-bac
   recurs_class: 1
- -deriv: N-ӕrba
+ -deriv-link: N-ӕrba
   recurs_class: 1
- -deriv: N-ӕrba-cӕj
+ -deriv-link: N-ӕrba-cӕj
   recurs_class: 1
- -deriv: N-ӕrbaj
+ -deriv-link: N-ӕrbaj
   recurs_class: 1
- -deriv: N-ӕrbac
+ -deriv-link: N-ӕrbac
   recurs_class: 1
- -deriv: N-ӕr
+ -deriv-link: N-ӕr
   recurs_class: 1
- -deriv: N-ӕr-cӕj
+ -deriv-link: N-ӕr-cӕj
   recurs_class: 1
- -deriv: N-ӕry
+ -deriv-link: N-ӕry
   recurs_class: 1
- -deriv: N-ra
+ -deriv-link: N-ra
   recurs_class: 1
- -deriv: N-ra-cӕj
+ -deriv-link: N-ra-cӕj
   recurs_class: 1
- -deriv: N-raj
+ -deriv-link: N-raj
   recurs_class: 1
- -deriv: N-raс
+ -deriv-link: N-raс
   recurs_class: 1
- -deriv: N-a
+ -deriv-link: N-a
   recurs_class: 1
- -deriv: N-a-cӕj
+ -deriv-link: N-a-cӕj
   recurs_class: 1
- -deriv: N-aj
+ -deriv-link: N-aj
   recurs_class: 1
- -deriv: N-ac
+ -deriv-link: N-ac
   recurs_class: 1
- -deriv: N-s
+ -deriv-link: N-s
   recurs_class: 1
- -deriv: N-s-cӕj
+ -deriv-link: N-s-cӕj
   recurs_class: 1
- -deriv: N-ys
+ -deriv-link: N-ys
   recurs_class: 1
- -deriv: N-ys-cӕj
+ -deriv-link: N-ys-cӕj
   recurs_class: 1
- -deriv: N-sy
+ -deriv-link: N-sy
   recurs_class: 1
- -deriv: N-ysy
+ -deriv-link: N-ysy
   recurs_class: 1
- -deriv: N-ny
+ -deriv-link: N-ny
   recurs_class: 1
- -deriv: N-ny-cӕj
+ -deriv-link: N-ny-cӕj
   recurs_class: 1
- -deriv: N-nyj
+ -deriv-link: N-nyj
   recurs_class: 1
- -deriv: N-nyb
+ -deriv-link: N-nyb
   recurs_class: 1
- -deriv: N-nyv
+ -deriv-link: N-nyv
   recurs_class: 1
- -deriv: N-nyg
+ -deriv-link: N-nyg
   recurs_class: 1
- -deriv: N-nygh
+ -deriv-link: N-nygh
   recurs_class: 1
- -deriv: N-nyd
+ -deriv-link: N-nyd
   recurs_class: 1
- -deriv: N-nydz
+ -deriv-link: N-nydz
   recurs_class: 1
- -deriv: N-nyz
+ -deriv-link: N-nyz
   recurs_class: 1
- -deriv: N-nyj
+ -deriv-link: N-nyj
   recurs_class: 1
- -deriv: N-nyk
+ -deriv-link: N-nyk
   recurs_class: 1
- -deriv: N-nyk!
+ -deriv-link: N-nyk!
   recurs_class: 1
- -deriv: N-nyl
+ -deriv-link: N-nyl
   recurs_class: 1
- -deriv: N-nym
+ -deriv-link: N-nym
   recurs_class: 1
- -deriv: N-nyn
+ -deriv-link: N-nyn
   recurs_class: 1
- -deriv: N-nyp
+ -deriv-link: N-nyp
   recurs_class: 1
- -deriv: N-nyp!
+ -deriv-link: N-nyp!
   recurs_class: 1
- -deriv: N-nyr
+ -deriv-link: N-nyr
   recurs_class: 1
- -deriv: N-nys
+ -deriv-link: N-nys
   recurs_class: 1
- -deriv: N-nyt
+ -deriv-link: N-nyt
   recurs_class: 1
- -deriv: N-nyt!
+ -deriv-link: N-nyt!
   recurs_class: 1
- -deriv: N-nyf
+ -deriv-link: N-nyf
   recurs_class: 1
- -deriv: N-nyx
+ -deriv-link: N-nyx
   recurs_class: 1
- -deriv: N-nyq
+ -deriv-link: N-nyq
   recurs_class: 1
- -deriv: N-nyc
+ -deriv-link: N-nyc
   recurs_class: 1
- -deriv: N-nyc!
+ -deriv-link: N-nyc!
   recurs_class: 1
- -deriv: N-nych
+ -deriv-link: N-nych
   recurs_class: 1
- -deriv: N-nych!
+ -deriv-link: N-nych!
   recurs_class: 1
- -deriv: N-nycc
+ -deriv-link: N-nycc
   recurs_class: 1
 -paradigm: Nv
  -flex: <0>.
@@ -553,179 +553,179 @@
  -flex: <2>.т|ырдыгӕй
   gramm: pl,rcs
   gloss: PL|RCS
- -deriv: N-gaj
- -deriv: N-dzyn
- -deriv: N-ad
- -deriv: N-dzinad
- -deriv: N-on
- -deriv: N-dӕr
- -deriv: N-cux
- -deriv: N-arӕx
- -deriv: N-yearadj
- -deriv: N-yearadj2
- -deriv: N-yearold
- -deriv: N-class
- -deriv: N-month
- -deriv: N-floor
- -deriv: N-dzhyn
- -deriv: N-chyn
- -deriv: N-vars
- -deriv: N-afon
- -deriv: N-don
- -deriv: N-qom
- -deriv: N-ag
- -deriv: N-gag
- -deriv: N-ӕg
- -deriv: N-xwyz
- -deriv: N-xwyzӕn
- -deriv: N-dzau
- -deriv: N-gӕs
- -deriv: N-garz
- -deriv: N-gur
- -deriv: N-wat
- -deriv: N-quag
- -deriv: N-gomau
- -deriv: N-gӕron
- -deriv: N-vӕndag
- -deriv: N-ӕmxasӕn
- -deriv: N-iu
- -deriv: N-dy
- -deriv: N-ӕrtӕ
- -deriv: N-cyppar
- -deriv: N-fondz
- -deriv: N-ӕxsӕz
- -deriv: N-avd
- -deriv: N-ast
- -deriv: N-farast
- -deriv: N-dӕs
- -deriv: N-ӕmbis
- -deriv: N-ӕm
- -deriv: N-dӕl
- -deriv: N-dargh
- -deriv: N-byn
- -deriv: N-ӕrvyl
- -deriv: N-ӕrdӕg
- -deriv: N-zyn
- -deriv: N-ӕd
- -deriv: N-fӕ
+ -deriv-link: N-gaj
+ -deriv-link: N-dzyn
+ -deriv-link: N-ad
+ -deriv-link: N-dzinad
+ -deriv-link: N-on
+ -deriv-link: N-dӕr
+ -deriv-link: N-cux
+ -deriv-link: N-arӕx
+ -deriv-link: N-yearadj
+ -deriv-link: N-yearadj2
+ -deriv-link: N-yearold
+ -deriv-link: N-class
+ -deriv-link: N-month
+ -deriv-link: N-floor
+ -deriv-link: N-dzhyn
+ -deriv-link: N-chyn
+ -deriv-link: N-vars
+ -deriv-link: N-afon
+ -deriv-link: N-don
+ -deriv-link: N-qom
+ -deriv-link: N-ag
+ -deriv-link: N-gag
+ -deriv-link: N-ӕg
+ -deriv-link: N-xwyz
+ -deriv-link: N-xwyzӕn
+ -deriv-link: N-dzau
+ -deriv-link: N-gӕs
+ -deriv-link: N-garz
+ -deriv-link: N-gur
+ -deriv-link: N-wat
+ -deriv-link: N-quag
+ -deriv-link: N-gomau
+ -deriv-link: N-gӕron
+ -deriv-link: N-vӕndag
+ -deriv-link: N-ӕmxasӕn
+ -deriv-link: N-iu
+ -deriv-link: N-dy
+ -deriv-link: N-ӕrtӕ
+ -deriv-link: N-cyppar
+ -deriv-link: N-fondz
+ -deriv-link: N-ӕxsӕz
+ -deriv-link: N-avd
+ -deriv-link: N-ast
+ -deriv-link: N-farast
+ -deriv-link: N-dӕs
+ -deriv-link: N-ӕmbis
+ -deriv-link: N-ӕm
+ -deriv-link: N-dӕl
+ -deriv-link: N-dargh
+ -deriv-link: N-byn
+ -deriv-link: N-ӕrvyl
+ -deriv-link: N-ӕrdӕg
+ -deriv-link: N-zyn
+ -deriv-link: N-ӕd
+ -deriv-link: N-fӕ
   recurs_class: 1
- -deriv: N-fӕ-cӕj
+ -deriv-link: N-fӕ-cӕj
   recurs_class: 1
- -deriv: N-fӕc
+ -deriv-link: N-fӕc
   recurs_class: 1
- -deriv: N-fӕj
+ -deriv-link: N-fӕj
   recurs_class: 1
- -deriv: N-fe
+ -deriv-link: N-fe
   recurs_class: 1
- -deriv: N-ba
+ -deriv-link: N-ba
   recurs_class: 1
- -deriv: N-ba-cӕj
+ -deriv-link: N-ba-cӕj
   recurs_class: 1
- -deriv: N-baj
+ -deriv-link: N-baj
   recurs_class: 1
- -deriv: N-bac
+ -deriv-link: N-bac
   recurs_class: 1
- -deriv: N-ӕrba
+ -deriv-link: N-ӕrba
   recurs_class: 1
- -deriv: N-ӕrba-cӕj
+ -deriv-link: N-ӕrba-cӕj
   recurs_class: 1
- -deriv: N-ӕrbaj
+ -deriv-link: N-ӕrbaj
   recurs_class: 1
- -deriv: N-ӕrbac
+ -deriv-link: N-ӕrbac
   recurs_class: 1
- -deriv: N-ӕr
+ -deriv-link: N-ӕr
   recurs_class: 1
- -deriv: N-ӕr-cӕj
+ -deriv-link: N-ӕr-cӕj
   recurs_class: 1
- -deriv: N-ӕry
+ -deriv-link: N-ӕry
   recurs_class: 1
- -deriv: N-ra
+ -deriv-link: N-ra
   recurs_class: 1
- -deriv: N-ra-cӕj
+ -deriv-link: N-ra-cӕj
   recurs_class: 1
- -deriv: N-raj
+ -deriv-link: N-raj
   recurs_class: 1
- -deriv: N-raс
+ -deriv-link: N-raс
   recurs_class: 1
- -deriv: N-a
+ -deriv-link: N-a
   recurs_class: 1
- -deriv: N-a-cӕj
+ -deriv-link: N-a-cӕj
   recurs_class: 1
- -deriv: N-aj
+ -deriv-link: N-aj
   recurs_class: 1
- -deriv: N-ac
+ -deriv-link: N-ac
   recurs_class: 1
- -deriv: N-s
+ -deriv-link: N-s
   recurs_class: 1
- -deriv: N-s-cӕj
+ -deriv-link: N-s-cӕj
   recurs_class: 1
- -deriv: N-ys
+ -deriv-link: N-ys
   recurs_class: 1
- -deriv: N-ys-cӕj
+ -deriv-link: N-ys-cӕj
   recurs_class: 1
- -deriv: N-sy
+ -deriv-link: N-sy
   recurs_class: 1
- -deriv: N-ysy
+ -deriv-link: N-ysy
   recurs_class: 1
- -deriv: N-ny
+ -deriv-link: N-ny
   recurs_class: 1
- -deriv: N-ny-cӕj
+ -deriv-link: N-ny-cӕj
   recurs_class: 1
- -deriv: N-nyj
+ -deriv-link: N-nyj
   recurs_class: 1
- -deriv: N-nyb
+ -deriv-link: N-nyb
   recurs_class: 1
- -deriv: N-nyv
+ -deriv-link: N-nyv
   recurs_class: 1
- -deriv: N-nyg
+ -deriv-link: N-nyg
   recurs_class: 1
- -deriv: N-nygh
+ -deriv-link: N-nygh
   recurs_class: 1
- -deriv: N-nyd
+ -deriv-link: N-nyd
   recurs_class: 1
- -deriv: N-nydz
+ -deriv-link: N-nydz
   recurs_class: 1
- -deriv: N-nyz
+ -deriv-link: N-nyz
   recurs_class: 1
- -deriv: N-nyj
+ -deriv-link: N-nyj
   recurs_class: 1
- -deriv: N-nyk
+ -deriv-link: N-nyk
   recurs_class: 1
- -deriv: N-nyk!
+ -deriv-link: N-nyk!
   recurs_class: 1
- -deriv: N-nyl
+ -deriv-link: N-nyl
   recurs_class: 1
- -deriv: N-nym
+ -deriv-link: N-nym
   recurs_class: 1
- -deriv: N-nyn
+ -deriv-link: N-nyn
   recurs_class: 1
- -deriv: N-nyp
+ -deriv-link: N-nyp
   recurs_class: 1
- -deriv: N-nyp!
+ -deriv-link: N-nyp!
   recurs_class: 1
- -deriv: N-nyr
+ -deriv-link: N-nyr
   recurs_class: 1
- -deriv: N-nys
+ -deriv-link: N-nys
   recurs_class: 1
- -deriv: N-nyt
+ -deriv-link: N-nyt
   recurs_class: 1
- -deriv: N-nyt!
+ -deriv-link: N-nyt!
   recurs_class: 1
- -deriv: N-nyf
+ -deriv-link: N-nyf
   recurs_class: 1
- -deriv: N-nyx
+ -deriv-link: N-nyx
   recurs_class: 1
- -deriv: N-nyq
+ -deriv-link: N-nyq
   recurs_class: 1
- -deriv: N-nyc
+ -deriv-link: N-nyc
   recurs_class: 1
- -deriv: N-nyc!
+ -deriv-link: N-nyc!
   recurs_class: 1
- -deriv: N-nych
+ -deriv-link: N-nych
   recurs_class: 1
- -deriv: N-nych!
+ -deriv-link: N-nych!
   recurs_class: 1
- -deriv: N-nycc
+ -deriv-link: N-nycc
   recurs_class: 1
 -paradigm: NCP
  -flex: <0>.
@@ -736,65 +736,65 @@
  -flex: <0>.ттӕ
   gramm: pl,nom
   gloss: PL
- -deriv: N-fӕ
- -deriv: N-fӕ-cӕj
- -deriv: N-fӕc
- -deriv: N-fӕj
- -deriv: N-fe
- -deriv: N-ba
- -deriv: N-ba-cӕj
- -deriv: N-baj
- -deriv: N-bac
- -deriv: N-ӕrba
- -deriv: N-ӕrba-cӕj
- -deriv: N-ӕrbaj
- -deriv: N-ӕrbac
- -deriv: N-ӕr
- -deriv: N-ӕr-cӕj
- -deriv: N-ӕry
- -deriv: N-ra
- -deriv: N-ra-cӕj
- -deriv: N-raj
- -deriv: N-raс
- -deriv: N-a
- -deriv: N-a-cӕj
- -deriv: N-aj
- -deriv: N-ac
- -deriv: N-s
- -deriv: N-s-cӕj
- -deriv: N-ys
- -deriv: N-ys-cӕj
- -deriv: N-sy
- -deriv: N-ysy
- -deriv: N-ny
- -deriv: N-ny-cӕj
- -deriv: N-nyj
- -deriv: N-nyb
- -deriv: N-nyv
- -deriv: N-nyg
- -deriv: N-nygh
- -deriv: N-nyd
- -deriv: N-nydz
- -deriv: N-nyz
- -deriv: N-nyj
- -deriv: N-nyk
- -deriv: N-nyk!
- -deriv: N-nyl
- -deriv: N-nym
- -deriv: N-nyn
- -deriv: N-nyp
- -deriv: N-nyp!
- -deriv: N-nyr
- -deriv: N-nys
- -deriv: N-nyt
- -deriv: N-nyt!
- -deriv: N-nyf
- -deriv: N-nyx
- -deriv: N-nyq
- -deriv: N-nyc
- -deriv: N-nyc!
- -deriv: N-nych
- -deriv: N-nych!
+ -deriv-link: N-fӕ
+ -deriv-link: N-fӕ-cӕj
+ -deriv-link: N-fӕc
+ -deriv-link: N-fӕj
+ -deriv-link: N-fe
+ -deriv-link: N-ba
+ -deriv-link: N-ba-cӕj
+ -deriv-link: N-baj
+ -deriv-link: N-bac
+ -deriv-link: N-ӕrba
+ -deriv-link: N-ӕrba-cӕj
+ -deriv-link: N-ӕrbaj
+ -deriv-link: N-ӕrbac
+ -deriv-link: N-ӕr
+ -deriv-link: N-ӕr-cӕj
+ -deriv-link: N-ӕry
+ -deriv-link: N-ra
+ -deriv-link: N-ra-cӕj
+ -deriv-link: N-raj
+ -deriv-link: N-raс
+ -deriv-link: N-a
+ -deriv-link: N-a-cӕj
+ -deriv-link: N-aj
+ -deriv-link: N-ac
+ -deriv-link: N-s
+ -deriv-link: N-s-cӕj
+ -deriv-link: N-ys
+ -deriv-link: N-ys-cӕj
+ -deriv-link: N-sy
+ -deriv-link: N-ysy
+ -deriv-link: N-ny
+ -deriv-link: N-ny-cӕj
+ -deriv-link: N-nyj
+ -deriv-link: N-nyb
+ -deriv-link: N-nyv
+ -deriv-link: N-nyg
+ -deriv-link: N-nygh
+ -deriv-link: N-nyd
+ -deriv-link: N-nydz
+ -deriv-link: N-nyz
+ -deriv-link: N-nyj
+ -deriv-link: N-nyk
+ -deriv-link: N-nyk!
+ -deriv-link: N-nyl
+ -deriv-link: N-nym
+ -deriv-link: N-nyn
+ -deriv-link: N-nyp
+ -deriv-link: N-nyp!
+ -deriv-link: N-nyr
+ -deriv-link: N-nys
+ -deriv-link: N-nyt
+ -deriv-link: N-nyt!
+ -deriv-link: N-nyf
+ -deriv-link: N-nyx
+ -deriv-link: N-nyq
+ -deriv-link: N-nyc
+ -deriv-link: N-nyc!
+ -deriv-link: N-nych
+ -deriv-link: N-nych!
 -paradigm: NUMct
  -flex: <0>.
   gramm: sg,nom
@@ -864,12 +864,12 @@
  -flex: <0>.ай
   gramm: sg,voc
   gloss: VOC
- -deriv: NUM-ord1
- -deriv: NUM-ord2
- -deriv: NUM-ord3
- -deriv: NUM-hundred
- -deriv: NUM-twenty1
- -deriv: NUM-twenty2
+ -deriv-link: NUM-ord1
+ -deriv-link: NUM-ord2
+ -deriv-link: NUM-ord3
+ -deriv-link: NUM-hundred
+ -deriv-link: NUM-twenty1
+ -deriv-link: NUM-twenty2
 -paradigm: NUMctt
  -flex: <0>.
   gramm: sg,nom
@@ -939,12 +939,12 @@
  -flex: <0>.ай
   gramm: sg,voc
   gloss: VOC
- -deriv: NUM-ord1
- -deriv: NUM-ord2
- -deriv: NUM-ord3
- -deriv: NUM-hundred
- -deriv: NUM-twenty1
- -deriv: NUM-twenty2
+ -deriv-link: NUM-ord1
+ -deriv-link: NUM-ord2
+ -deriv-link: NUM-ord3
+ -deriv-link: NUM-hundred
+ -deriv-link: NUM-twenty1
+ -deriv-link: NUM-twenty2
 -paradigm: NUMv
  -flex: <0>.
   gramm: sg,nom
@@ -1014,12 +1014,12 @@
  -flex: <2>.т|ырдыгӕй
   gramm: pl,rcs
   gloss: PL|RCS
- -deriv: NUM-ord1
- -deriv: NUM-ord2
- -deriv: NUM-ord3
- -deriv: NUM-hundred
- -deriv: NUM-twenty1
- -deriv: NUM-twenty2
+ -deriv-link: NUM-ord1
+ -deriv-link: NUM-ord2
+ -deriv-link: NUM-ord3
+ -deriv-link: NUM-hundred
+ -deriv-link: NUM-twenty1
+ -deriv-link: NUM-twenty2
 -paradigm: Vtr
  -flex: <0>.ын
   gramm: prs,1,sg
@@ -1168,137 +1168,139 @@
   gramm: impers,imp
   gloss: IMPERS.IMP
  deriv-link: V-ptcp
- -deriv: V-ӕg
+ -deriv-link: V-ӕg
   recurs_class: 1
- -deriv: V-ag
+ -deriv-link: V-ag
   recurs_class: 1
- -deriv: V-gӕ
- -deriv: V-inf
+ -deriv-link: V-gӕ
+ -deriv-link: V-inf
   recurs_class: 1
- -deriv: V-inag
+ -deriv-link: V-inag
   recurs_class: 1
- -deriv: V-nmlz
+ -deriv-link: V-nmlz
   recurs_class: 1
- -deriv: V-ӕggag
+ -deriv-link: V-ӕggag
   recurs_class: 1
- -deriv: V-fӕ
+ -deriv-link: V-fӕ
   recurs_class: 1
- -deriv: V-fӕ-cӕj
+ -deriv-link: V-fӕ-cӕj
   recurs_class: 1
- -deriv: V-fӕc
+ -deriv-link: V-fӕc
   recurs_class: 1
- -deriv: V-fӕj
+ -deriv-link: V-fӕj
   recurs_class: 1
- -deriv: V-fe
+ -deriv-link: V-fe
   recurs_class: 1
- -deriv: V-ba
+ -deriv-link: V-ba
   recurs_class: 1
- -deriv: V-ba-cӕj
+ -deriv-link: V-ba-cӕj
   recurs_class: 1
- -deriv: V-baj
+ -deriv-link: V-baj
   recurs_class: 1
- -deriv: V-baс
+ -deriv-link: V-baс
   recurs_class: 1
- -deriv: V-ӕrba
+ -deriv-link: V-ӕrba
   recurs_class: 1
- -deriv: V-ӕrba-cӕj
+ -deriv-link: V-ӕrba-cӕj
   recurs_class: 1
- -deriv: V-ӕrbaj
+ -deriv-link: V-ӕrbaj
   recurs_class: 1
- -deriv: V-ӕrbac
+ -deriv-link: V-ӕrbac
   recurs_class: 1
- -deriv: V-ӕr
+ -deriv-link: V-ӕr
   recurs_class: 1
- -deriv: V-ӕr-cӕj
+ -deriv-link: V-ӕr-cӕj
   recurs_class: 1
- -deriv: V-ӕry
+ -deriv-link: V-ӕry
   recurs_class: 1
- -deriv: V-ra
+ -deriv-link: V-ra
   recurs_class: 1
- -deriv: V-ra-cӕj
+ -deriv-link: V-ra-cӕj
   recurs_class: 1
- -deriv: V-raj
+ -deriv-link: V-raj
   recurs_class: 1
- -deriv: V-raс
+ -deriv-link: V-raс
   recurs_class: 1
- -deriv: V-a
+ -deriv-link: V-a
   recurs_class: 1
- -deriv: V-a-cӕj
+ -deriv-link: V-a-cӕj
   recurs_class: 1
- -deriv: V-aj
+ -deriv-link: V-aj
   recurs_class: 1
- -deriv: V-aс
+ -deriv-link: V-aс
   recurs_class: 1
- -deriv: V-s
+ -deriv-link: V-s
   recurs_class: 1
- -deriv: V-s-cӕj
+ -deriv-link: V-s-cӕj
   recurs_class: 1
- -deriv: V-ys
+ -deriv-link: V-ys
   recurs_class: 1
- -deriv: V-ys-cӕj
+ -deriv-link: V-ys-cӕj
   recurs_class: 1
- -deriv: V-sy
+ -deriv-link: V-sy
   recurs_class: 1
- -deriv: V-ysy
+ -deriv-link: V-ysy
   recurs_class: 1
- -deriv: V-ny
+ -deriv-link: V-ny
   recurs_class: 1
- -deriv: V-ny-cӕj
+ -deriv-link: V-nyw
   recurs_class: 1
- -deriv: V-nyj
+ -deriv-link: V-ny-cӕj
   recurs_class: 1
- -deriv: V-nyb
+ -deriv-link: V-nyj
   recurs_class: 1
- -deriv: V-nyv
+ -deriv-link: V-nyb
   recurs_class: 1
- -deriv: V-nyg
+ -deriv-link: V-nyv
   recurs_class: 1
- -deriv: V-nygh
+ -deriv-link: V-nyg
   recurs_class: 1
- -deriv: V-nyd
+ -deriv-link: V-nygh
   recurs_class: 1
- -deriv: V-nydz
+ -deriv-link: V-nyd
   recurs_class: 1
- -deriv: V-nyz
+ -deriv-link: V-nydz
   recurs_class: 1
- -deriv: V-nyj
- -deriv: V-nyk
+ -deriv-link: V-nyz
   recurs_class: 1
- -deriv: V-nyk!
+ -deriv-link: V-nyj
+ -deriv-link: V-nyk
   recurs_class: 1
- -deriv: V-nyl
+ -deriv-link: V-nyk!
   recurs_class: 1
- -deriv: V-nym
+ -deriv-link: V-nyl
   recurs_class: 1
- -deriv: V-nyn
+ -deriv-link: V-nym
   recurs_class: 1
- -deriv: V-nyp
+ -deriv-link: V-nyn
   recurs_class: 1
- -deriv: V-nyp!
+ -deriv-link: V-nyp
   recurs_class: 1
- -deriv: V-nyr
+ -deriv-link: V-nyp!
   recurs_class: 1
- -deriv: V-nys
+ -deriv-link: V-nyr
   recurs_class: 1
- -deriv: V-nyt
+ -deriv-link: V-nys
   recurs_class: 1
- -deriv: V-nyt!
+ -deriv-link: V-nyt
   recurs_class: 1
- -deriv: V-nyf
+ -deriv-link: V-nyt!
   recurs_class: 1
- -deriv: V-nyx
+ -deriv-link: V-nyf
   recurs_class: 1
- -deriv: V-nyq
+ -deriv-link: V-nyx
   recurs_class: 1
- -deriv: V-nyc
+ -deriv-link: V-nyq
   recurs_class: 1
- -deriv: V-nyc!
+ -deriv-link: V-nyc
   recurs_class: 1
- -deriv: V-nych
+ -deriv-link: V-nyc!
   recurs_class: 1
- -deriv: V-nych!
+ -deriv-link: V-nych
   recurs_class: 1
- -deriv: V-nycc
+ -deriv-link: V-nych!
+  recurs_class: 1
+ -deriv-link: V-nycc
   recurs_class: 1
 -paradigm: Vintr
  -flex: <0>.ын
@@ -1458,139 +1460,141 @@
  -flex: <2>.ӕуӕд
   gramm: impers,imp
   gloss: IMPERS.IMP
- -deriv: V-ptcp
+ -deriv-link: V-ptcp
   recurs_class: 1
- -deriv: V-ӕg
+ -deriv-link: V-ӕg
   recurs_class: 1
- -deriv: V-ag
+ -deriv-link: V-ag
   recurs_class: 1
- -deriv: V-gӕ
- -deriv: V-inf
+ -deriv-link: V-gӕ
+ -deriv-link: V-inf
   recurs_class: 1
- -deriv: V-inag
- -deriv: V-nmlz
+ -deriv-link: V-inag
+ -deriv-link: V-nmlz
   recurs_class: 1
- -deriv: V-ӕggag
+ -deriv-link: V-ӕggag
   recurs_class: 1
- -deriv: V-fӕ
+ -deriv-link: V-fӕ
   recurs_class: 1
- -deriv: V-fӕ-cӕj
+ -deriv-link: V-fӕ-cӕj
   recurs_class: 1
- -deriv: V-fӕc
+ -deriv-link: V-fӕc
   recurs_class: 1
- -deriv: V-fӕj
+ -deriv-link: V-fӕj
   recurs_class: 1
- -deriv: V-fe
+ -deriv-link: V-fe
   recurs_class: 1
- -deriv: V-ba
+ -deriv-link: V-ba
   recurs_class: 1
- -deriv: V-ba-cӕj
+ -deriv-link: V-ba-cӕj
   recurs_class: 1
- -deriv: V-baj
+ -deriv-link: V-baj
   recurs_class: 1
- -deriv: V-baс
+ -deriv-link: V-baс
   recurs_class: 1
- -deriv: V-ӕrba
+ -deriv-link: V-ӕrba
   recurs_class: 1
- -deriv: V-ӕrba-cӕj
+ -deriv-link: V-ӕrba-cӕj
   recurs_class: 1
- -deriv: V-ӕrbaj
+ -deriv-link: V-ӕrbaj
   recurs_class: 1
- -deriv: V-ӕrbac
+ -deriv-link: V-ӕrbac
   recurs_class: 1
- -deriv: V-ӕr
+ -deriv-link: V-ӕr
   recurs_class: 1
- -deriv: V-ӕr-cӕj
+ -deriv-link: V-ӕr-cӕj
   recurs_class: 1
- -deriv: V-ӕry
+ -deriv-link: V-ӕry
   recurs_class: 1
- -deriv: V-ra
+ -deriv-link: V-ra
   recurs_class: 1
- -deriv: V-ra-cӕj
+ -deriv-link: V-ra-cӕj
   recurs_class: 1
- -deriv: V-raj
+ -deriv-link: V-raj
   recurs_class: 1
- -deriv: V-raс
+ -deriv-link: V-raс
   recurs_class: 1
- -deriv: V-a
+ -deriv-link: V-a
   recurs_class: 1
- -deriv: V-a-cӕj
+ -deriv-link: V-a-cӕj
   recurs_class: 1
- -deriv: V-aj
+ -deriv-link: V-aj
   recurs_class: 1
- -deriv: V-aс
+ -deriv-link: V-aс
   recurs_class: 1
- -deriv: V-s
+ -deriv-link: V-s
   recurs_class: 1
- -deriv: V-s-cӕj
+ -deriv-link: V-s-cӕj
   recurs_class: 1
- -deriv: V-ys
+ -deriv-link: V-ys
   recurs_class: 1
- -deriv: V-ys-cӕj
+ -deriv-link: V-ys-cӕj
   recurs_class: 1
- -deriv: V-sy
+ -deriv-link: V-sy
   recurs_class: 1
- -deriv: V-ysy
+ -deriv-link: V-ysy
   recurs_class: 1
- -deriv: V-ny
+ -deriv-link: V-ny
   recurs_class: 1
- -deriv: V-ny-cӕj
+ -deriv-link: V-nyw
   recurs_class: 1
- -deriv: V-nyj
+ -deriv-link: V-ny-cӕj
   recurs_class: 1
- -deriv: V-nyb
+ -deriv-link: V-nyj
   recurs_class: 1
- -deriv: V-nyv
+ -deriv-link: V-nyb
   recurs_class: 1
- -deriv: V-nyg
+ -deriv-link: V-nyv
   recurs_class: 1
- -deriv: V-nygh
+ -deriv-link: V-nyg
   recurs_class: 1
- -deriv: V-nyd
+ -deriv-link: V-nygh
   recurs_class: 1
- -deriv: V-nydz
+ -deriv-link: V-nyd
   recurs_class: 1
- -deriv: V-nyz
+ -deriv-link: V-nydz
   recurs_class: 1
- -deriv: V-nyj
+ -deriv-link: V-nyz
   recurs_class: 1
- -deriv: V-nyk
+ -deriv-link: V-nyj
   recurs_class: 1
- -deriv: V-nyk!
+ -deriv-link: V-nyk
   recurs_class: 1
- -deriv: V-nyl
+ -deriv-link: V-nyk!
   recurs_class: 1
- -deriv: V-nym
+ -deriv-link: V-nyl
   recurs_class: 1
- -deriv: V-nyn
+ -deriv-link: V-nym
   recurs_class: 1
- -deriv: V-nyp
+ -deriv-link: V-nyn
   recurs_class: 1
- -deriv: V-nyp!
+ -deriv-link: V-nyp
   recurs_class: 1
- -deriv: V-nyr
+ -deriv-link: V-nyp!
   recurs_class: 1
- -deriv: V-nys
+ -deriv-link: V-nyr
   recurs_class: 1
- -deriv: V-nyt
+ -deriv-link: V-nys
   recurs_class: 1
- -deriv: V-nyt!
+ -deriv-link: V-nyt
   recurs_class: 1
- -deriv: V-nyf
+ -deriv-link: V-nyt!
   recurs_class: 1
- -deriv: V-nyx
+ -deriv-link: V-nyf
   recurs_class: 1
- -deriv: V-nyq
+ -deriv-link: V-nyx
   recurs_class: 1
- -deriv: V-nyc
+ -deriv-link: V-nyq
   recurs_class: 1
- -deriv: V-nyc!
+ -deriv-link: V-nyc
   recurs_class: 1
- -deriv: V-nych
+ -deriv-link: V-nyc!
   recurs_class: 1
- -deriv: V-nych!
+ -deriv-link: V-nych
   recurs_class: 1
- -deriv: V-nycc
+ -deriv-link: V-nych!
+  recurs_class: 1
+ -deriv-link: V-nycc
   recurs_class: 1
 -paradigm: IMPERS
  -flex: .ӕуы

@@ -3,6 +3,7 @@
  stem: ныу[.].
  regex-stem: у.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-nyt
@@ -10,6 +11,7 @@
  stem: ныт[.].
  regex-stem: т.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-nyv
@@ -17,6 +19,7 @@
  stem: ныв[.].
  regex-stem: в.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-on
@@ -24,12 +27,14 @@
  stem: <0>[.]он.|<0>[.]он.|<0>[.]ӕ.
  paradigm: Nctt
  gramm: ADJ
+ keep_lex_data: brackets
 
 -deriv-type: V-nyp
  lex: <0>нып[.]ын
  stem: нып[.].
  regex-stem: п[^ъ].*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-nys
@@ -37,6 +42,7 @@
  stem: ныс[.].
  regex-stem: с.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-nyr
@@ -44,6 +50,7 @@
  stem: ныр[.].
  regex-stem: р.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-gaj
@@ -51,6 +58,7 @@
  stem: <0>[.]гай.|<0>[.]гай.|<0>[.]гӕй.
  paradigm: Nctt
  gramm: ADV,distr
+ keep_lex_data: brackets
  gloss: DISTR
 
 -deriv-type: V-nyx
@@ -58,6 +66,7 @@
  stem: ных[.].
  regex-stem: х[^ъ].*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-nyz
@@ -65,6 +74,7 @@
  stem: ныз[.].
  regex-stem: з.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-nyd
@@ -72,6 +82,7 @@
  stem: ныд[.].
  regex-stem: д[^з].*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-nyg
@@ -79,6 +90,7 @@
  stem: ныг[.].
  regex-stem: г[^ъ].*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nygh
@@ -87,6 +99,7 @@
  regex-stem: гъ.*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-ӕrba-cӕj
@@ -94,6 +107,7 @@
  stem: ӕрбацӕй[.].//рбацӕй[.].
  paradigm: NCP
  gramm: +pv,pv-ӕrba,pv-cӕj
+ keep_lex_data: brackets
  gloss: PV:IPFV
 
 -deriv-type: V-nyb
@@ -101,6 +115,7 @@
  stem: ныб[.].
  regex-stem: б.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-nym
@@ -108,6 +123,7 @@
  stem: ным[.].
  regex-stem: м.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-nyl
@@ -115,6 +131,7 @@
  stem: ныл[.].
  regex-stem: л.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-ӕr-cӕj
@@ -122,6 +139,7 @@
  stem: ӕрцӕй[.].//рцӕй[.].
  paradigm: NCP
  gramm: +pv,pv-ӕr,pv-cӕj
+ keep_lex_data: brackets
  gloss: PV:IPFV
 
 -deriv-type: V-nyk
@@ -129,18 +147,21 @@
  stem: нык[.].
  regex-stem: к[^ъ].*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-nyj
  lex: <0>ный[.]ын
  stem: ный[.].
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-fӕ
  lex: <0>фӕ[.]ын
  stem: фӕ[.].
  gramm: +pv,pv-fӕ
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyx
@@ -149,6 +170,7 @@
  regex-stem: х[^ъ].*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyz
@@ -157,6 +179,7 @@
  regex-stem: з.*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyt
@@ -165,6 +188,7 @@
  regex-stem: т[^ъ].*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-bac
@@ -172,6 +196,7 @@
  stem: бац[.].
  paradigm: NCP
  gramm: +pv,pv-ba
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyv
@@ -180,6 +205,7 @@
  regex-stem: в.*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyq
@@ -188,6 +214,7 @@
  regex-stem: хъ.*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyp
@@ -196,6 +223,7 @@
  paradigm: NCP
  regex-stem: п[^ъ].*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nys
@@ -204,6 +232,7 @@
  regex-stem: с.*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyr
@@ -212,6 +241,7 @@
  regex-stem: р.*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nym
@@ -220,6 +250,7 @@
  regex-stem: м.*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyl
@@ -228,6 +259,7 @@
  regex-stem: л.*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyn
@@ -236,6 +268,7 @@
  paradigm: NCP
  regex-stem: н.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyk
@@ -244,6 +277,7 @@
  regex-stem: к[^ъ].*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyj
@@ -251,6 +285,7 @@
  stem: ный[.].
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyd
@@ -259,6 +294,7 @@
  regex-stem: д[^з].*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyg
@@ -267,6 +303,7 @@
  regex-stem: г[^ъ].*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyf
@@ -275,6 +312,7 @@
  regex-stem: ф.*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyc
@@ -283,6 +321,7 @@
  regex-stem: ц[^ъ].*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyb
@@ -291,18 +330,21 @@
  regex-stem: б.*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-baс
  lex: <0>бац[.]ын
  stem: бац[.].
  gramm: +pv,pv-ba
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-ӕrba-cӕj
  lex: <0>ӕрбацӕй[.]ын
  stem: ӕрбацӕй[.].//рбацӕй[.].
  gramm: +pv,pv-ӕrba,pv-cӕj
+ keep_lex_data: brackets
  gloss: PV:IPFV
 
 -deriv-type: N-raj
@@ -310,12 +352,14 @@
  stem: рай[.].
  paradigm: NCP
  gramm: +pv,pv-ra
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-ra-cӕj
  lex: <0>рацӕй[.]ын
  stem: рацӕй[.].
  gramm: +pv,pv-ra,pv-cӕj
+ keep_lex_data: brackets
  gloss: PV:IPFV
 
 -deriv-type: V-fӕj
@@ -323,6 +367,7 @@
  stem: фӕй[.].
  regex-stem: [еиӕаоуы].*
  gramm: +pv,pv-fӕ
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyp!
@@ -331,6 +376,7 @@
  regex-stem: пъ.*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-ra-cӕj
@@ -338,29 +384,34 @@
  stem: рацӕй[.].
  paradigm: NCP
  gramm: +pv,pv-ra,pv-cӕj
+ keep_lex_data: brackets
  gloss: PV:IPFV
 
 -deriv-type: V-inf
  stem: <0>[.]ын.|<0>[.]ын.|<0>[.]ын.
  paradigm: Nct
  gramm: +inf
+ keep_lex_data: brackets
 
 -deriv-type: N-dӕr
  stem: <0>[.]дӕр.|<0>[.]дӕр.|<0>[.]дӕр.
  paradigm: Nctt
  gramm: +compar
+ keep_lex_data: brackets
 
 -deriv-type: V-baj
  lex: <0>бай[.]ын
  stem: бай[.].
  regex-stem: [еиаӕоуы].*
  gramm: +pv,pv-ba
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-ysy
  lex: <0>ысы[.]ын
  stem: ысы[.].
  gramm: +pv,pv-s
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-nyf
@@ -368,6 +419,7 @@
  stem: ныф[.].
  regex-stem: ф.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-raс
@@ -376,6 +428,7 @@
  regex-stem: [еиаӕоуы].*
  paradigm: NCP
  gramm: +pv,pv-ra
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-fӕ
@@ -383,6 +436,7 @@
  stem: фӕ[.].
  paradigm: NCP
  gramm: +pv,pv-fӕ
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-nygh
@@ -390,6 +444,7 @@
  stem: ныгъ[.].
  regex-stem: гъ.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-nyc
@@ -397,18 +452,21 @@
  stem: ныц[.].
  regex-stem: ц[^ъ].*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-ӕrbaj
  lex: <0>ӕрбай[.]ын
  stem: ӕрбай[.].//рбай[.].
  gramm: +pv,pv-ӕrba
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-ny-cӕj
  lex: <0>ныццӕй[.]ын
  stem: ныццӕй[.].
  gramm: +pv,pv-ny,pv-cӕj
+ keep_lex_data: brackets
  gloss: PV:IPFV
 
 -deriv-type: N-ӕrba
@@ -416,29 +474,34 @@
  stem: ӕрба[.].//рба[.].
  paradigm: NCP
  gramm: +pv,pv-ӕrba
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-inag
  stem: <0>[.]инаг.|<0>[.]инадж.|<0>[.]инӕг.
  paradigm: Nct
  gramm: +ptcp.inag
+ keep_lex_data: brackets
 
 -deriv-type: V-nych
  lex: <0>ныч[.]ын
  stem: ныч[.].
  regex-stem: ч[^ъ].*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-gӕ
  stem: <0>[.]гӕ.|<0>[.]гӕ.|<0>[.]гӕ.
  paradigm: Nv
  gramm: +ptcp.gӕ
+ keep_lex_data: brackets
 
 -deriv-type: V-fe
  lex: <0>фе[.]ын
  stem: фе[.].
  gramm: +pv,pv-fӕ
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-nyn
@@ -446,18 +509,21 @@
  stem: нын[.].
  regex-stem: н.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-ba-cӕj
  lex: <0>бацӕй[.]ын
  stem: бацӕй[.].
  gramm: +pv,pv-ba,pv-cӕj
+ keep_lex_data: brackets
  gloss: PV:IPFV
 
 -deriv-type: V-a
  lex: <0>а[.]ын
  stem: а[.].
  gramm: +pv,pv-a
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-aj
@@ -466,6 +532,7 @@
  regex-stem: [еиаӕоуы].*
  paradigm: NCP
  gramm: +pv,pv-a
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-ys
@@ -473,6 +540,7 @@
  stem: ыс[.].
  paradigm: NCP
  gramm: +pv,pv-s
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-ac
@@ -481,6 +549,7 @@
  regex-stem: [еиаӕоуы].*
  paradigm: NCP
  gramm: +pv,pv-a
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-ad
@@ -488,11 +557,13 @@
  stem: <0>[.]ад.|<0>[.]ад.|<0>[.]ӕд.
  paradigm: Nct
  gramm: N,abstr
+ keep_lex_data: brackets
 
 -deriv-type: V-s
  lex: <0>с[.]ын
  stem: с[.].
  gramm: +pv,pv-s
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-fӕ-cӕj
@@ -500,6 +571,7 @@
  stem: фӕцӕй[.]
  paradigm: NCP
  gramm: +pv,pv-fӕ,pv-cӕj
+ keep_lex_data: brackets
  gloss: PV|IPFV
 
 -deriv-type: N-ny
@@ -507,6 +579,7 @@
  stem: ны[.].
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-baj
@@ -514,18 +587,21 @@
  stem: бай[.].
  paradigm: NCP
  gramm: +pv,pv-ba
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-ny
  lex: <0>ны[.]ын
  stem: ны[.].
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-fӕ-cӕj
  lex: <0>фӕцӕй[.]ын
  stem: фӕцӕй[.].
  gramm: +pv,pv-fӕ,pv-cӕj
+ keep_lex_data: brackets
  gloss: PV:IPFV
 
 -deriv-type: V-nyc!
@@ -533,12 +609,14 @@
  stem: ныцъ[.].
  regex-stem: цъ.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-ӕry
  lex: <0>ӕры[.]ын
  stem: ӕры[.].//ры[.].
  gramm: +pv,pv-ӕr
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-nyp!
@@ -546,12 +624,14 @@
  stem: ныпъ[.].
  regex-stem: пъ.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-ӕr-cӕj
  lex: <0>ӕрцӕй[.]ын
  stem: ӕрцӕй[.].//рцӕй[.].
  gramm: +pv,pv-ӕr,pv-cӕj
+ keep_lex_data: brackets
  gloss: PV:IPFV
 
 -deriv-type: N-fe
@@ -559,6 +639,7 @@
  stem: фе[.].
  paradigm: NCP
  gramm: +pv,pv-fӕ
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-nyq
@@ -566,42 +647,49 @@
  stem: ныхъ[.].
  regex-stem: хъ.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-ptcp
  stem: <2>[.].|<2>[.].|<2>[.].//<2>ы[.].//<2>ты[.].
  paradigm: Nct
  gramm: +ptcp.pst
+ keep_lex_data: brackets
 
 -deriv-type: N-ra
  lex: <0>ра[.]
  stem: ра[.].
  paradigm: NCP
  gramm: +pv,pv-ra
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-s-cӕj
  lex: <0>сцӕй[.]ын
  stem: сцӕй[.].
  gramm: +pv,pv-s,pv-cӕj
+ keep_lex_data: brackets
  gloss: PV:IPFV
 
 -deriv-type: V-ӕrba
  lex: <0>ӕрба[.]ын
  stem: ӕрба[.].//рба[.].
  gramm: +pv,pv-ӕrba
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-ys-cӕj
  lex: <0>ысцӕй[.]ын
  stem: ысцӕй[.].
  gramm: +pv,pv-s,pv-cӕj
+ keep_lex_data: brackets
  gloss: PV:IPFV
 
 -deriv-type: V-nmlz
  stem: <0>[.]ӕн.|<0>[.]ӕн.|<0>[.]ӕн.
  paradigm: Nct
  gramm: +nmlz
+ keep_lex_data: brackets
 
 -deriv-type: N-nych
  lex: <0>ныч[.]
@@ -609,18 +697,21 @@
  regex-stem: ч[^ъ].*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-ӕg
  stem: <0>[.]ӕг.|<0>[.]ӕдж.|<0>[.]джы.
  paradigm: Nct
  gramm: +ptcp.ӕg
+ keep_lex_data: brackets
 
 -deriv-type: V-nyt!
  lex: <0>нытъ[.]ын
  stem: нытъ[.].
  regex-stem: тъ.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-nyk!
@@ -628,30 +719,35 @@
  stem: ныкъ[.].
  regex-stem: къ.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-ӕr
  lex: <0>ӕр[.]ын
  stem: ӕр[.].//р[.].
  gramm: +pv,pv-ӕr
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-ӕrc
  lex: <0>ӕрц[.]ын
  stem: ӕрц[.].//рц[.].
  gramm: +pv,pv-ӕr
+ keep_lex_data: brackets
  gloss: PV
  
 -deriv-type: V-ӕggag
  stem: <0>[.]ӕггаг.|<0>[.]ӕггадж.|<0>[.]ӕггӕг.
  paradigm: Nct
  gramm: +purp
+ keep_lex_data: brackets
 
 -deriv-type: V-nydz
  lex: <0>ныдз[.]ын
  stem: ныдз[.].
  regex-stem: дз.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-aс
@@ -659,6 +755,7 @@
  stem: ац[.].
  regex-stem: [еиаӕоуы].*
  gramm: +pv,pv-a
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-sy
@@ -666,6 +763,7 @@
  stem: сы[.].
  paradigm: NCP
  gramm: +pv,pv-s
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-ba-cӕj
@@ -673,6 +771,7 @@
  stem: бацӕй[.].
  paradigm: NCP
  gramm: +pv,pv-ba,pv-cӕj
+ keep_lex_data: brackets
  gloss: PV|IPFV
 
 -deriv-type: N-fӕj
@@ -680,6 +779,7 @@
  stem: фӕй[.].
  paradigm: NCP
  gramm: +pv,pv-fӕ
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-ӕrbac
@@ -687,6 +787,7 @@
  stem: ӕрбац[.].//рбац[.].
  regex-stem: [еиаӕоуы].*
  gramm: +pv,pv-ӕrba
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyc!
@@ -695,6 +796,7 @@
  regex-stem: цъ.*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-s-cӕj
@@ -702,6 +804,7 @@
  stem: сцӕй[.].
  paradigm: NCP
  gramm: +pv,pv-s,pv-cӕj
+ keep_lex_data: brackets
  gloss: PV:IPFV
 
 -deriv-type: N-fӕc
@@ -709,6 +812,7 @@
  stem: фӕц[.].
  paradigm: NCP
  gramm: +pv,pv-fӕ
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-arӕx
@@ -716,24 +820,28 @@
  stem: <0>[.]арӕх.|<0>[.]арӕх.|<0>[.]арӕх.
  paradigm: Nct
  gramm: ADJ,mult
+ keep_lex_data: brackets
  gloss: MULT
 
 -deriv-type: V-ag
  stem: <0>[.]аг.|<0>[.]адж.|<0>[.]ӕг.
  paradigm: Nct
  gramm: +ptcp.ag
+ keep_lex_data: brackets
 
 -deriv-type: V-aj
  lex: <0>ай[.]ын
  stem: ай[.].
  regex-stem: [еиаӕоуы].*
  gramm: +pv,pv-a
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-ys
  lex: <0>ыс[.]ын
  stem: ыс[.].
  gramm: +pv,pv-s
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-ӕr
@@ -741,6 +849,7 @@
  stem: ӕр[.].//р[.].
  paradigm: NCP
  gramm: +pv,pv-ӕr
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-cux
@@ -748,6 +857,7 @@
  stem: <0>[.]цух.|<0>[.]цух.|<0>[.]цух.
  paradigm: Nct
  gramm: ADJ,car
+ keep_lex_data: brackets
  gloss: CAR
 
 -deriv-type: N-ӕry
@@ -755,6 +865,7 @@
  stem: ӕры[.].//ры[.].
  paradigm: NCP
  gramm: +pv,pv-ӕr
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyk!
@@ -763,6 +874,7 @@
  regex-stem: къ.*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-raс
@@ -770,12 +882,14 @@
  stem: рац[.].
  regex-stem: [еиаӕоуы].*
  gramm: +pv,pv-ra
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-ra
  lex: <0>ра[.]ын
  stem: ра[.].
  gramm: +pv,pv-ra
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-ysy
@@ -783,6 +897,7 @@
  stem: ысы[.].
  paradigm: NCP
  gramm: +pv,pv-s
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nyt!
@@ -791,6 +906,7 @@
  regex-stem: тъ.*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-dzinad
@@ -798,11 +914,13 @@
  stem: <0>[.]дзинад.|<0>[.]дзинад.|<0>[.]дзинӕд.
  paradigm: Nct
  gramm: N,abstr
+ keep_lex_data: brackets
 
 -deriv-type: V-ba
  lex: <0>ба[.]ын
  stem: ба[.].
  gramm: +pv,pv-ba
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nych!
@@ -811,6 +929,7 @@
  regex-stem: чъ.*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-raj
@@ -818,6 +937,7 @@
  stem: рай[.].
  regex-stem: [еиаӕоуы].*
  gramm: +pv,pv-ra
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-ba
@@ -825,12 +945,14 @@
  stem: ба[.].
  paradigm: NCP
  gramm: +pv,pv-ba
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-sy
  lex: сы[.]ын
  stem: сы[.].
  gramm: +pv,pv-s
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-nydz
@@ -839,6 +961,7 @@
  regex-stem: дз.*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-a-cӕj
@@ -846,6 +969,7 @@
  stem: ацӕй[.].
  paradigm: NCP
  gramm: +pv,pv-a,pv-cӕj
+ keep_lex_data: brackets
  gloss: PV:IPFV
 
 -deriv-type: N-ny-cӕj
@@ -853,6 +977,7 @@
  stem: ныццӕй[.].
  paradigm: NCP
  gramm: +pv,pv-ny,pv-cӕj
+ keep_lex_data: brackets
  gloss: PV:IPFV
 
 -deriv-type: V-nych!
@@ -860,6 +985,7 @@
  stem: нычъ[.].
  regex-stem: чъ.*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-s
@@ -867,6 +993,7 @@
  stem: с[.].
  paradigm: NCP
  gramm: +pv,pv-s
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-ys-cӕj
@@ -874,12 +1001,14 @@
  stem: ысцӕй[.].
  paradigm: NCP
  gramm: +pv,pv-s,pv-cӕj
+ keep_lex_data: brackets
  gloss: PV:IPFV
 
 -deriv-type: V-a-cӕj
  lex: <0>ацӕй[.]ын
  stem: ацӕй[.].
  gramm: +pv,pv-a,pv-cӕj
+ keep_lex_data: brackets
  gloss: PV:IPFV
 
 -deriv-type: N-dzyn
@@ -887,6 +1016,7 @@
  stem: <0>[.]джын.|<0>[.]джын.|<0>[.]джын.
  paradigm: Nct
  gramm: ADJ
+ keep_lex_data: brackets
  gloss: ADJ
 
 -deriv-type: V-fӕc
@@ -894,6 +1024,7 @@
  stem: фӕц[.].
  regex-stem: [еиаӕоуы].*
  gramm: +pv,pv-fӕ
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-ӕrbaj
@@ -902,6 +1033,7 @@
  regex-stem: [еиаӕоуы].*
  paradigm: NCP
  gramm: +pv,pv-ӕrba
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-a
@@ -909,6 +1041,7 @@
  stem: а[.].
  paradigm: NCP
  gramm: +pv,pv-a
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-ӕrbac
@@ -917,24 +1050,28 @@
  regex-stem: [еиаӕоуы].*
  paradigm: NCP
  gramm: +pv,pv-ӕrba
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: N-ag
  stem: [.]аг.|[.]адж.|[.]ӕг.
  paradigm: Nct
  gramm: +ag
+ keep_lex_data: brackets
 
 -deriv-type: NUM-ord1
  lex: [.]ӕм
  stem: [.]ӕм.
  paradigm: Nct
  gramm: +ord
+ keep_lex_data: brackets
 
 -deriv-type: NUM-ord2
  lex: [.]ӕймаг
  stem: <0>[.]ӕймаг|<1>[.]ӕймадж.|<2>[.]ӕймӕг.
  paradigm: Nct
  gramm: +ord
+ keep_lex_data: brackets
 
 -deriv-type: N-nycc
  lex: <0>ныцц[.]
@@ -942,6 +1079,7 @@
  regex-stem: [еиаӕоуы].*
  paradigm: NCP
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 -deriv-type: V-nycc
@@ -949,6 +1087,7 @@
  stem: <0>ныцц[.].|<1>ныцц[.].|<2>ныцц[.].
  regex-stem: [еиаӕоуы].*
  gramm: +pv,pv-ny
+ keep_lex_data: brackets
  gloss: PV
 
 
@@ -958,6 +1097,7 @@
  stem: <0>[.]ыккаг|<0>[.]ыккадж.|<0>[.]ыккӕг.
  paradigm: Nct
  gramm: +ord
+ keep_lex_data: brackets
  gloss: ORD
 
 -deriv-type: N-yearadj
@@ -965,6 +1105,7 @@
  stem: <0>[.]азон.|<0>[.]азон.|<0>[.]азӕ.
  paradigm: Nctt
  gramm: ADJ
+ keep_lex_data: brackets
  gloss: YEAR:ADJ
 
 -deriv-type: N-yearadj2
@@ -972,6 +1113,7 @@
  stem: <0>[.]азыккон.|<0>[.]азыккон.|<0>[.]азыккӕ.
  paradigm: Nctt
  gramm: ADJ
+ keep_lex_data: brackets
  gloss: YEAR
 
 -deriv-type: N-yearold
@@ -979,6 +1121,7 @@
  stem: [.]аздзыд.
  paradigm: Nct
  gramm: ADJ
+ keep_lex_data: brackets
  gloss: YEAR.OLD
 
 -deriv-type: NUM-hundred
@@ -986,6 +1129,7 @@
  stem: [.]сӕдӕ.
  paradigm: Nv
  gramm:
+ keep_lex_data: brackets
  gloss: hundred
 
 -deriv-type: NUM-twenty1
@@ -993,6 +1137,7 @@
  stem: [.]ссӕдз.
  paradigm: Nct
  gramm:
+ keep_lex_data: brackets
  gloss: twenty
 
 -deriv-type: NUM-twenty2
@@ -1000,6 +1145,7 @@
  stem: [.]ыссӕдз.
  paradigm: Nct
  gramm:
+ keep_lex_data: brackets
  gloss: twenty
 
 -deriv-type: N-class
@@ -1007,6 +1153,7 @@
  stem: <0>[.]къласон.|<0>[.]къласон.|<0>[.]къласӕ.
  paradigm: Nctt
  gramm: ADJ
+ keep_lex_data: brackets
  gloss: class:ADJ
 
 -deriv-type: N-month
@@ -1014,6 +1161,7 @@
  stem: <0>[.]мӕйон.|<0>[.]мӕйон.|<0>[.]мӕйӕ.
  paradigm: Nctt
  gramm: ADJ
+ keep_lex_data: brackets
  gloss: month:ADJ
 
 -deriv-type: N-floor
@@ -1021,6 +1169,7 @@
  stem: [.]ӕддӕгуӕлӕ.
  paradigm: Nv
  gramm: ADJ
+ keep_lex_data: brackets
  gloss: floor
 
 -deriv-type: N-dzhyn
@@ -1028,6 +1177,7 @@
  stem: [.]джын.
  paradigm: Nct
  gramm: ADJ
+ keep_lex_data: brackets
  gloss: ADJ
 
 -deriv-type: N-chyn
@@ -1035,6 +1185,7 @@
  stem: [.]чын.
  paradigm: Nct
  gramm: ADJ
+ keep_lex_data: brackets
  gloss: ADJ
 
 -deriv-type: N-vars
@@ -1042,6 +1193,7 @@
  stem: <0>[.]варс.|<0>[.]варс.|<0>[.]вӕрс.
  paradigm: Nct
  gramm: ADJ
+ keep_lex_data: brackets
  gloss: ADJ
 
 -deriv-type: N-afon
@@ -1049,6 +1201,7 @@
  stem: [.]афон.
  paradigm: Nct
  gramm: ADJ
+ keep_lex_data: brackets
  gloss: ADJ
 
 -deriv-type: N-don
@@ -1056,12 +1209,14 @@
  stem: <0>[.]дон.|<0>[.]дон.|<0>[.]дӕ.
  paradigm: Nctt
  gramm: ADJ
+ keep_lex_data: brackets
  gloss: ADJ
 
 -deriv-type: N-qom
  stem: [.]хъом.
  paradigm: Nct
  gramm: +pot
+ keep_lex_data: brackets
  gloss: POT
 
 -deriv-type: N-ag
@@ -1069,6 +1224,7 @@
  stem: <0>[.]аг.|<0>[.]адж.|<0>[.]ӕг.
  paradigm: Nct
  gramm: N
+ keep_lex_data: brackets
  gloss: SUFF
 
 -deriv-type: N-gag
@@ -1076,6 +1232,7 @@
  stem: <0>[.]гаг.|<0>[.]гадж.|<0>[.]гӕг.
  paradigm: Nct
  gramm: N
+ keep_lex_data: brackets
  gloss: SUFF
 
 -deriv-type: N-ӕg
@@ -1083,6 +1240,7 @@
  stem: <0>[.]ӕг.|<0>[.]ӕдж.|<0>[.]ӕг.
  paradigm: Nct
  gramm: N
+ keep_lex_data: brackets
  gloss: SUFF
 
 -deriv-type: N-xwyz
@@ -1090,6 +1248,7 @@
  stem: [.]хуыз.
  paradigm: Nct
  gramm: ADJ
+ keep_lex_data: brackets
  gloss: like
 
 -deriv-type: N-xwyzӕn
@@ -1097,6 +1256,7 @@
  stem: [.]хуызӕн.
  paradigm: Nct
  gramm: ADJ
+ keep_lex_data: brackets
  gloss: like
 
 -deriv-type: N-dzau
@@ -1104,6 +1264,7 @@
  stem: [.]дзау.
  paradigm: Nct
  gramm: N
+ keep_lex_data: brackets
  gloss: go
 
 -deriv-type: N-gӕs
@@ -1111,6 +1272,7 @@
  stem: [.]гӕс.
  paradigm: Nct
  gramm: N
+ keep_lex_data: brackets
  gloss: ACTOR
 
 -deriv-type: N-garz
@@ -1118,6 +1280,7 @@
  stem: <0>[.]гарз.|<0>[.]гарз.|<0>[.]гӕрз.
  paradigm: Nct
  gramm: N
+ keep_lex_data: brackets
  gloss: tool
 
 -deriv-type: N-gur
@@ -1125,6 +1288,7 @@
  stem: [.]гур.
  paradigm: Nct
  gramm: N
+ keep_lex_data: brackets
  gloss: ask
 
 -deriv-type: N-wat
@@ -1132,6 +1296,7 @@
  stem: <0>[.]уат.|<0>[.]уат.|<0>[.]уӕт.
  paradigm: Nct
  gramm: N,inanim,nonhuman
+ keep_lex_data: brackets
  gloss: place
 
 -deriv-type: N-quag
@@ -1139,6 +1304,7 @@
  stem: <0>[.]хъуаг.|<0>[.]хъуадж.|<0>[.]хъуӕг.
  paradigm: Nct
  gramm: ADJ
+ keep_lex_data: brackets
  gloss: need
 
 -deriv-type: N-gomau
@@ -1146,6 +1312,7 @@
  stem: <0>[.]гомау.|<0>[.]гомау.|<0>[.]гомӕу.
  paradigm: Nctt
  gramm: ADJ
+ keep_lex_data: brackets
  gloss: DIM
 
 -deriv-type: N-gӕron
@@ -1153,6 +1320,7 @@
  stem: [.]гӕрон.
  paradigm: Nct
  gramm: ADV
+ keep_lex_data: brackets
  gloss: near
 
 -deriv-type: N-vӕndag
@@ -1160,6 +1328,7 @@
  stem: <0>[.]вӕндаг.|<0>[.]вӕндадж.|<0>[.]вӕндӕг.
  paradigm: Nct
  gramm: N,inanim,nonhuman
+ keep_lex_data: brackets
  gloss: road
 
 -deriv-type: N-ӕmxasӕn
@@ -1167,6 +1336,7 @@
  stem: [.]ӕмхасӕн.
  paradigm: Nct
  gramm: N,inanim,nonhuman
+ keep_lex_data: brackets
  gloss: a_bit
 
 -deriv-type: N-iu
