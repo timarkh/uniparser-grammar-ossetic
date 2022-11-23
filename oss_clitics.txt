@@ -1,0 +1,1075 @@
+-clitic
+ lex: гъе
+ type: pro
+ separ_text:
+ separ_gloss: =
+ gramm: PTCL,emph
+ gloss: Intens
+ trans_ru: вот
+ trans_en: emphatic particle
+-clitic
+ lex: уал
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: PTCL
+ gloss: больше
+ trans_ru: больше
+ trans_en: more
+-clitic
+ lex: ӕнӕ
+ type: pro
+ separ_text:
+ separ_gloss: =
+ gramm: PREP
+ gloss: без
+ trans_ru: без
+ trans_en: without
+-clitic
+ lex: ӕн
+ type: pro
+ separ_text:
+ separ_gloss: =
+ regex: а
+ gramm: PREP
+ gloss: без
+ trans_ru: без
+ trans_en: without
+-clitic
+ lex: ӕд
+ type: pro
+ separ_text:
+ separ_gloss: =
+ gramm: PREP
+ gloss: с
+ trans_ru: с
+ trans_en: with
+-clitic
+ lex: иу
+ type: en
+ separ_text: -
+ separ_gloss: =
+ gramm: PTCL,iter
+ gloss: ITER
+
+-clitic
+ lex: кӕнын
+ stem: гӕнгӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.gӕ,sg,nom
+ gloss: делать:PCVB
+-clitic
+ lex: кӕнын
+ stem: гӕнгӕйы
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.gӕ,sg,gen
+ gloss: делать:PCVB:GEN
+-clitic
+ lex: кӕнын
+ stem: гӕнгӕйӕн
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.gӕ,sg,dat
+ gloss: делать:PCVB:DAT
+-clitic
+ lex: кӕнын
+ stem: гӕнгӕмӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.gӕ,sg,all
+ gloss: делать:PCVB:ALL
+-clitic
+ lex: кӕнын
+ stem: гӕнгӕйӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.gӕ,sg,abl
+ gloss: делать:PCVB:ABL
+-clitic
+ lex: кӕнын
+ stem: гӕнгӕйы
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.gӕ,sg,in
+ gloss: делать:PCVB:IN
+-clitic
+ lex: кӕнын
+ stem: гӕнгӕйыл
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.gӕ,sg,super
+ gloss: делать:PCVB:SUPER
+-clitic
+ lex: кӕнын
+ stem: гӕнгӕйау
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.gӕ,sg,equ
+ gloss: делать:PCVB:EQU
+-clitic
+ lex: кӕнын
+ stem: гӕнгӕйимӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.gӕ,sg,comit
+ gloss: делать:PCVB:COMIT
+
+-clitic
+ lex: кӕнын
+ stem: гӕнгӕтӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.gӕ,pl,nom
+ gloss: делать:PCVB:PL
+-clitic
+ lex: кӕнын
+ stem: гӕнгӕты
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.gӕ,pl,gen
+ gloss: делать:PCVB:PL:GEN
+-clitic
+ lex: кӕнын
+ stem: гӕнгӕтӕн
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.gӕ,pl,dat
+ gloss: делать:PCVB:PL:DAT
+-clitic
+ lex: кӕнын
+ stem: гӕнгӕтӕм
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.gӕ,pl,all
+ gloss: делать:PCVB:PL:ALL
+-clitic
+ lex: кӕнын
+ stem: гӕнгӕтӕй
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.gӕ,pl,abl
+ gloss: делать:PCVB:PL:ABL
+-clitic
+ lex: кӕнын
+ stem: гӕнгӕты
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.gӕ,pl,in
+ gloss: делать:PCVB:PL:IN
+-clitic
+ lex: кӕнын
+ stem: гӕнгӕтыл
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.gӕ,pl,super
+ gloss: делать:PCVB:PL:SUPER
+-clitic
+ lex: кӕнын
+ stem: гӕнгӕтау
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.gӕ,pl,equ
+ gloss: делать:PCVB:PL:EQU
+-clitic
+ lex: кӕнын
+ stem: гӕнгӕтимӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.gӕ,pl,comit
+ gloss: делать:PCVB:PL:COMIT
+
+-clitic
+ lex: кӕнын
+ stem: гӕнын
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,inf,sg,nom
+ gloss: делать:INF
+-clitic
+ lex: кӕнын
+ stem: гӕныны
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,inf,sg,gen
+ gloss: делать:INF:GEN
+-clitic
+ lex: кӕнын
+ stem: гӕнынӕн
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,inf,sg,dat
+ gloss: делать:INF:DAT
+-clitic
+ lex: кӕнын
+ stem: гӕнынмӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,inf,sg,all
+ gloss: делать:INF:ALL
+-clitic
+ lex: кӕнын
+ stem: гӕнынӕй
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,inf,sg,abl
+ gloss: делать:INF:ABL
+-clitic
+ lex: кӕнын
+ stem: гӕныны
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,inf,sg,in
+ gloss: делать:INF:IN
+-clitic
+ lex: кӕнын
+ stem: гӕныныл
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,inf,sg,super
+ gloss: делать:INF:SUPER
+-clitic
+ lex: кӕнын
+ stem: гӕнынау
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,inf,sg,equ
+ gloss: делать:INF:EQU
+-clitic
+ lex: кӕнын
+ stem: гӕнынимӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,inf,sg,comit
+ gloss: делать:INF:COMIT
+
+-clitic
+ lex: кӕнын
+ stem: гӕнынтӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,inf,pl,nom
+ gloss: делать:INF:PL
+-clitic
+ lex: кӕнын
+ stem: гӕнынты
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,inf,pl,gen
+ gloss: делать:INF:PL:GEN
+-clitic
+ lex: кӕнын
+ stem: гӕнынтӕн
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,inf,pl,dat
+ gloss: делать:INF:PL:DAT
+-clitic
+ lex: кӕнын
+ stem: гӕнынтӕм
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,inf,pl,all
+ gloss: делать:INF:PL:ALL
+-clitic
+ lex: кӕнын
+ stem: гӕнынтӕй
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,inf,pl,abl
+ gloss: делать:INF:PL:ABL
+-clitic
+ lex: кӕнын
+ stem: гӕнынты
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,inf,pl,in
+ gloss: делать:INF:PL:IN
+-clitic
+ lex: кӕнын
+ stem: гӕнынтыл
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,inf,pl,super
+ gloss: делать:INF:PL:SUPER
+-clitic
+ lex: кӕнын
+ stem: гӕнынтау
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,inf,pl,equ
+ gloss: делать:INF:PL:EQU
+-clitic
+ lex: кӕнын
+ stem: гӕнынтимӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,inf,pl,comit
+ gloss: делать:INF:PL:COMIT
+
+-clitic
+ lex: кӕнын
+ stem: гӕнӕн
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,nmlz,sg,nom
+ gloss: делать:NMLZ
+-clitic
+ lex: кӕнын
+ stem: гӕнӕны
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,nmlz,sg,gen
+ gloss: делать:NMLZ:GEN
+-clitic
+ lex: кӕнын
+ stem: гӕнӕнӕн
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,nmlz,sg,dat
+ gloss: делать:NMLZ:DAT
+-clitic
+ lex: кӕнын
+ stem: гӕнӕнмӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,nmlz,sg,all
+ gloss: делать:NMLZ:ALL
+-clitic
+ lex: кӕнын
+ stem: гӕнӕнӕй
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,nmlz,sg,abl
+ gloss: делать:NMLZ:ABL
+-clitic
+ lex: кӕнын
+ stem: гӕнӕны
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,nmlz,sg,in
+ gloss: делать:NMLZ:IN
+-clitic
+ lex: кӕнын
+ stem: гӕнӕныл
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,nmlz,sg,super
+ gloss: делать:NMLZ:SUPER
+-clitic
+ lex: кӕнын
+ stem: гӕнӕнау
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,nmlz,sg,equ
+ gloss: делать:NMLZ:EQU
+-clitic
+ lex: кӕнын
+ stem: гӕнӕнимӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,nmlz,sg,comit
+ gloss: делать:NMLZ:COMIT
+
+-clitic
+ lex: кӕнын
+ stem: гӕнӕнтӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,nmlz,pl,nom
+ gloss: делать:NMLZ:PL
+-clitic
+ lex: кӕнын
+ stem: гӕнӕнты
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,nmlz,pl,gen
+ gloss: делать:NMLZ:PL:GEN
+-clitic
+ lex: кӕнын
+ stem: гӕнӕнтӕн
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,nmlz,pl,dat
+ gloss: делать:NMLZ:PL:DAT
+-clitic
+ lex: кӕнын
+ stem: гӕнӕнтӕм
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,nmlz,pl,all
+ gloss: делать:NMLZ:PL:ALL
+-clitic
+ lex: кӕнын
+ stem: гӕнӕнтӕй
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,nmlz,pl,abl
+ gloss: делать:NMLZ:PL:ABL
+-clitic
+ lex: кӕнын
+ stem: гӕнӕнты
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,nmlz,pl,in
+ gloss: делать:NMLZ:PL:IN
+-clitic
+ lex: кӕнын
+ stem: гӕнӕнтыл
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,nmlz,pl,super
+ gloss: делать:NMLZ:PL:SUPER
+-clitic
+ lex: кӕнын
+ stem: гӕнӕнтау
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,nmlz,pl,equ
+ gloss: делать:NMLZ:PL:EQU
+-clitic
+ lex: кӕнын
+ stem: гӕнӕнтимӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,nmlz,pl,comit
+ gloss: делать:NMLZ:PL:COMIT
+
+-clitic
+ lex: кӕнын
+ stem: гӕнӕг
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ӕg,sg,nom
+ gloss: делать:PTCP
+-clitic
+ lex: кӕнын
+ stem: гӕнӕджы
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ӕg,sg,gen
+ gloss: делать:PTCP:GEN
+-clitic
+ lex: кӕнын
+ stem: гӕнӕгӕн
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ӕg,sg,dat
+ gloss: делать:PTCP:DAT
+-clitic
+ lex: кӕнын
+ stem: гӕнӕгмӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ӕg,sg,all
+ gloss: делать:PTCP:ALL
+-clitic
+ lex: кӕнын
+ stem: гӕнӕгӕй
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ӕg,sg,abl
+ gloss: делать:PTCP:ABL
+-clitic
+ lex: кӕнын
+ stem: гӕнӕджы
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ӕg,sg,in
+ gloss: делать:PTCP:IN
+-clitic
+ lex: кӕнын
+ stem: гӕнӕгыл
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ӕg,sg,super
+ gloss: делать:PTCP:SUPER
+-clitic
+ lex: кӕнын
+ stem: гӕнӕгау
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ӕg,sg,equ
+ gloss: делать:PTCP:EQU
+-clitic
+ lex: кӕнын
+ stem: гӕнӕгимӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ӕg,sg,comit
+ gloss: делать:PTCP:COMIT
+
+-clitic
+ lex: кӕнын
+ stem: гӕнджытӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ӕg,pl,nom
+ gloss: делать:PTCP:PL
+-clitic
+ lex: кӕнын
+ stem: гӕнджыты
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ӕg,pl,gen
+ gloss: делать:PTCP:PL:GEN
+-clitic
+ lex: кӕнын
+ stem: гӕнджытӕн
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ӕg,pl,dat
+ gloss: делать:PTCP:PL:DAT
+-clitic
+ lex: кӕнын
+ stem: гӕнджытӕм
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ӕg,pl,all
+ gloss: делать:PTCP:PL:ALL
+-clitic
+ lex: кӕнын
+ stem: гӕнджытӕй
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ӕg,pl,abl
+ gloss: делать:PTCP:PL:ABL
+-clitic
+ lex: кӕнын
+ stem: гӕнджыты
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ӕg,pl,in
+ gloss: делать:PTCP:PL:IN
+-clitic
+ lex: кӕнын
+ stem: гӕнджытыл
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ӕg,pl,super
+ gloss: делать:PTCP:PL:SUPER
+-clitic
+ lex: кӕнын
+ stem: гӕнджытау
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ӕg,pl,equ
+ gloss: делать:PTCP:PL:EQU
+-clitic
+ lex: кӕнын
+ stem: гӕнджытимӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ӕg,pl,comit
+ gloss: делать:PTCP:PL:COMIT
+
+-clitic
+ lex: кӕнын
+ stem: гонд
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp,pst,sg,nom
+ gloss: делать.PTCP
+-clitic
+ lex: кӕнын
+ stem: гонды
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp,pst,sg,gen
+ gloss: делать.PTCP:GEN
+-clitic
+ lex: кӕнын
+ stem: гондӕн
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp,pst,sg,dat
+ gloss: делать.PTCP:DAT
+-clitic
+ lex: кӕнын
+ stem: гондмӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp,pst,sg,all
+ gloss: делать.PTCP:ALL
+-clitic
+ lex: кӕнын
+ stem: гондӕй
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp,pst,sg,abl
+ gloss: делать.PTCP:ABL
+-clitic
+ lex: кӕнын
+ stem: гонды
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp,pst,sg,in
+ gloss: делать.PTCP:IN
+-clitic
+ lex: кӕнын
+ stem: гондыл
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp,pst,sg,super
+ gloss: делать.PTCP:SUPER
+-clitic
+ lex: кӕнын
+ stem: гондау
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp,pst,sg,equ
+ gloss: делать.PTCP:EQU
+-clitic
+ lex: кӕнын
+ stem: гондимӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp,pst,sg,comit
+ gloss: делать.PTCP:COMIT
+
+-clitic
+ lex: кӕнын
+ stem: гӕндтӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp,pst,pl,nom
+ gloss: делать.PTCP:PL
+-clitic
+ lex: кӕнын
+ stem: гӕндты
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp,pst,pl,gen
+ gloss: делать.PTCP:PL:GEN
+-clitic
+ lex: кӕнын
+ stem: гӕндтӕн
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp,pst,pl,dat
+ gloss: делать.PTCP:PL:DAT
+-clitic
+ lex: кӕнын
+ stem: гӕндтӕм
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp,pst,pl,all
+ gloss: делать.PTCP:PL:ALL
+-clitic
+ lex: кӕнын
+ stem: гӕндтӕй
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp,pst,pl,abl
+ gloss: делать.PTCP:PL:ABL
+-clitic
+ lex: кӕнын
+ stem: гӕндты
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp,pst,pl,in
+ gloss: делать.PTCP:PL:IN
+-clitic
+ lex: кӕнын
+ stem: гӕндтыл
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp,pst,pl,super
+ gloss: делать.PTCP:PL:SUPER
+-clitic
+ lex: кӕнын
+ stem: гӕндтау
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp,pst,pl,equ
+ gloss: делать.PTCP:PL:EQU
+-clitic
+ lex: кӕнын
+ stem: гӕндтимӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp,pst,pl,comit
+ gloss: делать.PTCP:PL:COMIT
+
+-clitic
+ lex: кӕнын
+ stem: гӕнаг
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ag,sg,nom
+ gloss: делать:PTCP
+-clitic
+ lex: кӕнын
+ stem: гӕнаджы
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ag,sg,gen
+ gloss: делать:PTCP:GEN
+-clitic
+ lex: кӕнын
+ stem: гӕнагӕн
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ag,sg,dat
+ gloss: делать:PTCP:DAT
+-clitic
+ lex: кӕнын
+ stem: гӕнагмӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ag,sg,all
+ gloss: делать:PTCP:ALL
+-clitic
+ lex: кӕнын
+ stem: гӕнагӕй
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ag,sg,abl
+ gloss: делать:PTCP:ABL
+-clitic
+ lex: кӕнын
+ stem: гӕнаджы
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ag,sg,in
+ gloss: делать:PTCP:IN
+-clitic
+ lex: кӕнын
+ stem: гӕнагыл
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ag,sg,super
+ gloss: делать:PTCP:SUPER
+-clitic
+ lex: кӕнын
+ stem: гӕнагау
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ag,sg,equ
+ gloss: делать:PTCP:EQU
+-clitic
+ lex: кӕнын
+ stem: гӕнагимӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ag,sg,comit
+ gloss: делать:PTCP:COMIT
+
+-clitic
+ lex: кӕнын
+ stem: гӕнӕгтӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ag,pl,nom
+ gloss: делать:PTCP:PL
+-clitic
+ lex: кӕнын
+ stem: гӕнӕгты
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ag,pl,gen
+ gloss: делать:PTCP:PL:GEN
+-clitic
+ lex: кӕнын
+ stem: гӕнӕгтӕн
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ag,pl,dat
+ gloss: делать:PTCP:PL:DAT
+-clitic
+ lex: кӕнын
+ stem: гӕнӕгтӕм
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ag,pl,all
+ gloss: делать:PTCP:PL:ALL
+-clitic
+ lex: кӕнын
+ stem: гӕнӕгтӕй
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ag,pl,abl
+ gloss: делать:PTCP:PL:ABL
+-clitic
+ lex: кӕнын
+ stem: гӕнӕгты
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ag,pl,in
+ gloss: делать:PTCP:PL:IN
+-clitic
+ lex: кӕнын
+ stem: гӕнӕгтыл
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ag,pl,super
+ gloss: делать:PTCP:PL:SUPER
+-clitic
+ lex: кӕнын
+ stem: гӕнӕгтау
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ag,pl,equ
+ gloss: делать:PTCP:PL:EQU
+-clitic
+ lex: кӕнын
+ stem: гӕнӕгтимӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.ag,pl,comit
+ gloss: делать:PTCP:PL:COMIT
+
+-clitic
+ lex: кӕнын
+ stem: гӕнинаг
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.inag,sg,nom
+ gloss: делать:PTCP
+-clitic
+ lex: кӕнын
+ stem: гӕнинаджы
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.inag,sg,gen
+ gloss: делать:PTCP:GEN
+-clitic
+ lex: кӕнын
+ stem: гӕнинагӕн
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.inag,sg,dat
+ gloss: делать:PTCP:DAT
+-clitic
+ lex: кӕнын
+ stem: гӕнинагмӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.inag,sg,all
+ gloss: делать:PTCP:ALL
+-clitic
+ lex: кӕнын
+ stem: гӕнинагӕй
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.inag,sg,abl
+ gloss: делать:PTCP:ABL
+-clitic
+ lex: кӕнын
+ stem: гӕнинаджы
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.inag,sg,in
+ gloss: делать:PTCP:IN
+-clitic
+ lex: кӕнын
+ stem: гӕнинагыл
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.inag,sg,super
+ gloss: делать:PTCP:SUPER
+-clitic
+ lex: кӕнын
+ stem: гӕнинагау
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.inag,sg,equ
+ gloss: делать:PTCP:EQU
+-clitic
+ lex: кӕнын
+ stem: гӕнинагимӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.inag,sg,comit
+ gloss: делать:PTCP:COMIT
+
+-clitic
+ lex: кӕнын
+ stem: гӕнинӕгтӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.inag,pl,nom
+ gloss: делать:PTCP:PL
+-clitic
+ lex: кӕнын
+ stem: гӕнинӕгты
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.inag,pl,gen
+ gloss: делать:PTCP:PL:GEN
+-clitic
+ lex: кӕнын
+ stem: гӕнинӕгтӕн
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.inag,pl,dat
+ gloss: делать:PTCP:PL:DAT
+-clitic
+ lex: кӕнын
+ stem: гӕнинӕгтӕм
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.inag,pl,all
+ gloss: делать:PTCP:PL:ALL
+-clitic
+ lex: кӕнын
+ stem: гӕнинӕгтӕй
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.inag,pl,abl
+ gloss: делать:PTCP:PL:ABL
+-clitic
+ lex: кӕнын
+ stem: гӕнинӕгты
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.inag,pl,in
+ gloss: делать:PTCP:PL:IN
+-clitic
+ lex: кӕнын
+ stem: гӕнинӕгтыл
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.inag,pl,super
+ gloss: делать:PTCP:PL:SUPER
+-clitic
+ lex: кӕнын
+ stem: гӕнинӕгтау
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.inag,pl,equ
+ gloss: делать:PTCP:PL:EQU
+-clitic
+ lex: кӕнын
+ stem: гӕнинӕгтимӕ
+ type: en
+ separ_text:
+ separ_gloss: =
+ gramm: V,tr,ptcp.inag,pl,comit
+ gloss: делать:PTCP:PL:COMIT

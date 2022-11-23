@@ -1,0 +1,1265 @@
+-deriv-type: V-nyw
+ lex: <0>ныу[.]ын 
+ stem: ныу[.].
+ regex-stem: у.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-nyt
+ lex: <0>ныт[.]ын 
+ stem: ныт[.].
+ regex-stem: т.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-nyv
+ lex: <0>ныв[.]ын
+ stem: ныв[.].
+ regex-stem: в.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-on
+ lex: <0>[.]он
+ stem: <0>[.]он.|<0>[.]он.|<0>[.]ӕ.
+ paradigm: Nctt
+ gramm: ADJ
+
+-deriv-type: V-nyp
+ lex: <0>нып[.]ын
+ stem: нып[.].
+ regex-stem: п[^ъ].*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-nys
+ lex: <0>ныс[.]ын
+ stem: ныс[.].
+ regex-stem: с.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-nyr
+ lex: <0>ныр[.]ын
+ stem: ныр[.].
+ regex-stem: р.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-gaj
+ lex: <0>[.]
+ stem: <0>[.]гай.|<0>[.]гай.|<0>[.]гӕй.
+ paradigm: Nctt
+ gramm: ADV,distr
+ gloss: DISTR
+
+-deriv-type: V-nyx
+ lex: <0>ных[.]ын
+ stem: ных[.].
+ regex-stem: х[^ъ].*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-nyz
+ lex: <0>ныз[.]ын
+ stem: ныз[.].
+ regex-stem: з.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-nyd
+ lex: <0>ныд[.]ын 
+ stem: ныд[.].
+ regex-stem: д[^з].*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-nyg
+ lex: <0>ныг[.]ын 
+ stem: ныг[.].
+ regex-stem: г[^ъ].*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-nygh
+ lex: <0>ныгъ[.]
+ stem: ныгъ[.].
+ regex-stem: гъ.*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-ӕrba-cӕj
+ lex: <0>ӕрбацӕй[.]
+ stem: ӕрбацӕй[.].//рбацӕй[.].
+ paradigm: NCP
+ gramm: +pv,pv-ӕrba,pv-cӕj
+ gloss: PV:IPFV
+
+-deriv-type: V-nyb
+ lex: <0>ныб[.]ын
+ stem: ныб[.].
+ regex-stem: б.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-nym
+ lex: <0>ным[.]ын
+ stem: ным[.].
+ regex-stem: м.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-nyl
+ lex: <0>ныл[.]ын
+ stem: ныл[.].
+ regex-stem: л.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-ӕr-cӕj
+ lex: <0>ӕрцӕй[.].
+ stem: ӕрцӕй[.].//рцӕй[.].
+ paradigm: NCP
+ gramm: +pv,pv-ӕr,pv-cӕj
+ gloss: PV:IPFV
+
+-deriv-type: V-nyk
+ lex: <0>нык[.]ын
+ stem: нык[.].
+ regex-stem: к[^ъ].*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-nyj
+ lex: <0>ный[.]ын
+ stem: ный[.].
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-fӕ
+ lex: <0>фӕ[.]ын
+ stem: фӕ[.].
+ gramm: +pv,pv-fӕ
+ gloss: PV
+
+-deriv-type: N-nyx
+ lex: <0>ных[.]
+ stem: ных[.].
+ regex-stem: х[^ъ].*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-nyz
+ lex: <0>ныз[.]
+ stem: ныз[.].
+ regex-stem: з.*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-nyt
+ lex: <0>ныт[.]
+ stem: ныт[.].
+ regex-stem: т[^ъ].*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-bac
+ lex: <0>бац[.]
+ stem: бац[.].
+ paradigm: NCP
+ gramm: +pv,pv-ba
+ gloss: PV
+
+-deriv-type: N-nyv
+ lex: <0>ныв[.]
+ stem: ныв[.].
+ regex-stem: в.*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-nyq
+ lex: <0>ныхъ[.]
+ stem: ныхъ[.].
+ regex-stem: хъ.*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-nyp
+ lex: <0>нып[.].
+ stem: нып[.].
+ paradigm: NCP
+ regex-stem: п[^ъ].*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-nys
+ lex: <0>ныс[.]
+ stem: ныс[.].
+ regex-stem: с.*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-nyr
+ lex: <0>ныр[.]
+ stem: ныр[.].
+ regex-stem: р.*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-nym
+ lex: <0>ным[.]
+ stem: ным[.].
+ regex-stem: м.*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-nyl
+ lex: <0>ныл[.]
+ stem: ныл[.].
+ regex-stem: л.*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-nyn
+ lex: <0>нын[.]
+ stem: нын[.].
+ paradigm: NCP
+ regex-stem: н.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-nyk
+ lex: <0>нык[.]
+ stem: нык[.].
+ regex-stem: к[^ъ].*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-nyj
+ lex: <0>ный[.]
+ stem: ный[.].
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-nyd
+ lex: <0>ныд[.]
+ stem: ныд[.].
+ regex-stem: д[^з].*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-nyg
+ lex: <0>ныг[.]
+ stem: ныг[.].
+ regex-stem: г[^ъ].*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-nyf
+ lex: <0>ныф[.]
+ stem: ныф[.].
+ regex-stem: ф.*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-nyc
+ lex: <0>ныц[.]
+ stem: ныц[.].
+ regex-stem: ц[^ъ].*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-nyb
+ lex: <0>ныб[.]
+ stem: ныб[.].
+ regex-stem: б.*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-baс
+ lex: <0>бац[.]ын
+ stem: бац[.].
+ gramm: +pv,pv-ba
+ gloss: PV
+
+-deriv-type: V-ӕrba-cӕj
+ lex: <0>ӕрбацӕй[.]ын
+ stem: ӕрбацӕй[.].//рбацӕй[.].
+ gramm: +pv,pv-ӕrba,pv-cӕj
+ gloss: PV:IPFV
+
+-deriv-type: N-raj
+ lex: <0>рай[.]
+ stem: рай[.].
+ paradigm: NCP
+ gramm: +pv,pv-ra
+ gloss: PV
+
+-deriv-type: V-ra-cӕj
+ lex: <0>рацӕй[.]ын
+ stem: рацӕй[.].
+ gramm: +pv,pv-ra,pv-cӕj
+ gloss: PV:IPFV
+
+-deriv-type: V-fӕj
+ lex: <0>фӕй[.]ын
+ stem: фӕй[.].
+ regex-stem: [еиӕаоуы].*
+ gramm: +pv,pv-fӕ
+ gloss: PV
+
+-deriv-type: N-nyp!
+ lex: <0>ныпъ[.]
+ stem: ныпъ[.].
+ regex-stem: пъ.*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-ra-cӕj
+ lex: <0>рацӕй[.]
+ stem: рацӕй[.].
+ paradigm: NCP
+ gramm: +pv,pv-ra,pv-cӕj
+ gloss: PV:IPFV
+
+-deriv-type: V-inf
+ stem: <0>[.]ын.|<0>[.]ын.|<0>[.]ын.
+ paradigm: Nct
+ gramm: +inf
+
+-deriv-type: N-dӕr
+ stem: <0>[.]дӕр.|<0>[.]дӕр.|<0>[.]дӕр.
+ paradigm: Nctt
+ gramm: +compar
+
+-deriv-type: V-baj
+ lex: <0>бай[.]ын
+ stem: бай[.].
+ regex-stem: [еиаӕоуы].*
+ gramm: +pv,pv-ba
+ gloss: PV
+
+-deriv-type: V-ysy
+ lex: <0>ысы[.]ын
+ stem: ысы[.].
+ gramm: +pv,pv-s
+ gloss: PV
+
+-deriv-type: V-nyf
+ lex: <0>ныф[.]ын
+ stem: ныф[.].
+ regex-stem: ф.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-raс
+ lex: <0>рац[.]
+ stem: рац[.].
+ regex-stem: [еиаӕоуы].*
+ paradigm: NCP
+ gramm: +pv,pv-ra
+ gloss: PV
+
+-deriv-type: N-fӕ
+ lex: <0>фӕ[.]
+ stem: фӕ[.].
+ paradigm: NCP
+ gramm: +pv,pv-fӕ
+ gloss: PV
+
+-deriv-type: V-nygh
+ lex: <0>ныгъ[.]ын
+ stem: ныгъ[.].
+ regex-stem: гъ.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-nyc
+ lex: <0>ныц[.]ын
+ stem: ныц[.].
+ regex-stem: ц[^ъ].*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-ӕrbaj
+ lex: <0>ӕрбай[.]ын
+ stem: ӕрбай[.].//рбай[.].
+ gramm: +pv,pv-ӕrba
+ gloss: PV
+
+-deriv-type: V-ny-cӕj
+ lex: <0>ныццӕй[.]ын
+ stem: ныццӕй[.].
+ gramm: +pv,pv-ny,pv-cӕj
+ gloss: PV:IPFV
+
+-deriv-type: N-ӕrba
+ lex: <0>ӕрба[.]
+ stem: ӕрба[.].//рба[.].
+ paradigm: NCP
+ gramm: +pv,pv-ӕrba
+ gloss: PV
+
+-deriv-type: V-inag
+ stem: <0>[.]инаг.|<0>[.]инадж.|<0>[.]инӕг.
+ paradigm: Nct
+ gramm: +ptcp.inag
+
+-deriv-type: V-nych
+ lex: <0>ныч[.]ын
+ stem: ныч[.].
+ regex-stem: ч[^ъ].*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-gӕ
+ stem: <0>[.]гӕ.|<0>[.]гӕ.|<0>[.]гӕ.
+ paradigm: Nv
+ gramm: +ptcp.gӕ
+
+-deriv-type: V-fe
+ lex: <0>фе[.]ын
+ stem: фе[.].
+ gramm: +pv,pv-fӕ
+ gloss: PV
+
+-deriv-type: V-nyn
+ lex: <0>нын[.]ын
+ stem: нын[.].
+ regex-stem: н.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-ba-cӕj
+ lex: <0>бацӕй[.]ын
+ stem: бацӕй[.].
+ gramm: +pv,pv-ba,pv-cӕj
+ gloss: PV:IPFV
+
+-deriv-type: V-a
+ lex: <0>а[.]ын
+ stem: а[.].
+ gramm: +pv,pv-a
+ gloss: PV
+
+-deriv-type: N-aj
+ lex: <0>ай[.]
+ stem: ай[.].
+ regex-stem: [еиаӕоуы].*
+ paradigm: NCP
+ gramm: +pv,pv-a
+ gloss: PV
+
+-deriv-type: N-ys
+ lex: <0>ыс[.]
+ stem: ыс[.].
+ paradigm: NCP
+ gramm: +pv,pv-s
+ gloss: PV
+
+-deriv-type: N-ac
+ lex: <0>ац[.]
+ stem: ац[.].
+ regex-stem: [еиаӕоуы].*
+ paradigm: NCP
+ gramm: +pv,pv-a
+ gloss: PV
+
+-deriv-type: N-ad
+ lex: <0>[.]ад
+ stem: <0>[.]ад.|<0>[.]ад.|<0>[.]ӕд.
+ paradigm: Nct
+ gramm: N,abstr
+
+-deriv-type: V-s
+ lex: <0>с[.]ын
+ stem: с[.].
+ gramm: +pv,pv-s
+ gloss: PV
+
+-deriv-type: N-fӕ-cӕj
+ lex: <0>фӕцӕй[.]
+ stem: фӕцӕй[.]
+ paradigm: NCP
+ gramm: +pv,pv-fӕ,pv-cӕj
+ gloss: PV|IPFV
+
+-deriv-type: N-ny
+ lex: <0>ны[.]
+ stem: ны[.].
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-baj
+ lex: <0>бай[.]ын
+ stem: бай[.].
+ paradigm: NCP
+ gramm: +pv,pv-ba
+ gloss: PV
+
+-deriv-type: V-ny
+ lex: <0>ны[.]ын
+ stem: ны[.].
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-fӕ-cӕj
+ lex: <0>фӕцӕй[.]ын
+ stem: фӕцӕй[.].
+ gramm: +pv,pv-fӕ,pv-cӕj
+ gloss: PV:IPFV
+
+-deriv-type: V-nyc!
+ lex: <0>ныцъ[.]ын
+ stem: ныцъ[.].
+ regex-stem: цъ.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-ӕry
+ lex: <0>ӕры[.]ын
+ stem: ӕры[.].//ры[.].
+ gramm: +pv,pv-ӕr
+ gloss: PV
+
+-deriv-type: V-nyp!
+ lex: <0>ныпъ[.]ын
+ stem: ныпъ[.].
+ regex-stem: пъ.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-ӕr-cӕj
+ lex: <0>ӕрцӕй[.]ын
+ stem: ӕрцӕй[.].//рцӕй[.].
+ gramm: +pv,pv-ӕr,pv-cӕj
+ gloss: PV:IPFV
+
+-deriv-type: N-fe
+ lex: <0>фе[.]
+ stem: фе[.].
+ paradigm: NCP
+ gramm: +pv,pv-fӕ
+ gloss: PV
+
+-deriv-type: V-nyq
+ lex: <0>ныхъ[.]ын
+ stem: ныхъ[.].
+ regex-stem: хъ.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-ptcp
+ stem: <2>[.].|<2>[.].|<2>[.].//<2>ы[.].//<2>ты[.].
+ paradigm: Nct
+ gramm: +ptcp.pst
+
+-deriv-type: N-ra
+ lex: <0>ра[.]
+ stem: ра[.].
+ paradigm: NCP
+ gramm: +pv,pv-ra
+ gloss: PV
+
+-deriv-type: V-s-cӕj
+ lex: <0>сцӕй[.]ын
+ stem: сцӕй[.].
+ gramm: +pv,pv-s,pv-cӕj
+ gloss: PV:IPFV
+
+-deriv-type: V-ӕrba
+ lex: <0>ӕрба[.]ын
+ stem: ӕрба[.].//рба[.].
+ gramm: +pv,pv-ӕrba
+ gloss: PV
+
+-deriv-type: V-ys-cӕj
+ lex: <0>ысцӕй[.]ын
+ stem: ысцӕй[.].
+ gramm: +pv,pv-s,pv-cӕj
+ gloss: PV:IPFV
+
+-deriv-type: V-nmlz
+ stem: <0>[.]ӕн.|<0>[.]ӕн.|<0>[.]ӕн.
+ paradigm: Nct
+ gramm: +nmlz
+
+-deriv-type: N-nych
+ lex: <0>ныч[.]
+ stem: ныч[.].
+ regex-stem: ч[^ъ].*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-ӕg
+ stem: <0>[.]ӕг.|<0>[.]ӕдж.|<0>[.]джы.
+ paradigm: Nct
+ gramm: +ptcp.ӕg
+
+-deriv-type: V-nyt!
+ lex: <0>нытъ[.]ын
+ stem: нытъ[.].
+ regex-stem: тъ.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-nyk!
+ lex: <0>ныкъ[.]ын
+ stem: ныкъ[.].
+ regex-stem: къ.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-ӕr
+ lex: <0>ӕр[.]ын
+ stem: ӕр[.].//р[.].
+ gramm: +pv,pv-ӕr
+ gloss: PV
+
+-deriv-type: V-ӕrc
+ lex: <0>ӕрц[.]ын
+ stem: ӕрц[.].//рц[.].
+ gramm: +pv,pv-ӕr
+ gloss: PV
+ 
+-deriv-type: V-ӕggag
+ stem: <0>[.]ӕггаг.|<0>[.]ӕггадж.|<0>[.]ӕггӕг.
+ paradigm: Nct
+ gramm: +purp
+
+-deriv-type: V-nydz
+ lex: <0>ныдз[.]ын
+ stem: ныдз[.].
+ regex-stem: дз.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-aс
+ lex: <0>ац[.]ын
+ stem: ац[.].
+ regex-stem: [еиаӕоуы].*
+ gramm: +pv,pv-a
+ gloss: PV
+
+-deriv-type: N-sy
+ lex: <0>сы[.]
+ stem: сы[.].
+ paradigm: NCP
+ gramm: +pv,pv-s
+ gloss: PV
+
+-deriv-type: N-ba-cӕj
+ lex: <0>бацӕй[.]
+ stem: бацӕй[.].
+ paradigm: NCP
+ gramm: +pv,pv-ba,pv-cӕj
+ gloss: PV|IPFV
+
+-deriv-type: N-fӕj
+ lex: <0>фӕй[.]
+ stem: фӕй[.].
+ paradigm: NCP
+ gramm: +pv,pv-fӕ
+ gloss: PV
+
+-deriv-type: V-ӕrbac
+ lex: <0>ӕрбац[.]ын
+ stem: ӕрбац[.].//рбац[.].
+ regex-stem: [еиаӕоуы].*
+ gramm: +pv,pv-ӕrba
+ gloss: PV
+
+-deriv-type: N-nyc!
+ lex: <0>ныцъ[.]
+ stem: ныцъ[.].
+ regex-stem: цъ.*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-s-cӕj
+ lex: <0>сцӕй[.]
+ stem: сцӕй[.].
+ paradigm: NCP
+ gramm: +pv,pv-s,pv-cӕj
+ gloss: PV:IPFV
+
+-deriv-type: N-fӕc
+ lex: <0>фӕц[.]
+ stem: фӕц[.].
+ paradigm: NCP
+ gramm: +pv,pv-fӕ
+ gloss: PV
+
+-deriv-type: N-arӕx
+ lex: [.]арӕх
+ stem: <0>[.]арӕх.|<0>[.]арӕх.|<0>[.]арӕх.
+ paradigm: Nct
+ gramm: ADJ,mult
+ gloss: MULT
+
+-deriv-type: V-ag
+ stem: <0>[.]аг.|<0>[.]адж.|<0>[.]ӕг.
+ paradigm: Nct
+ gramm: +ptcp.ag
+
+-deriv-type: V-aj
+ lex: <0>ай[.]ын
+ stem: ай[.].
+ regex-stem: [еиаӕоуы].*
+ gramm: +pv,pv-a
+ gloss: PV
+
+-deriv-type: V-ys
+ lex: <0>ыс[.]ын
+ stem: ыс[.].
+ gramm: +pv,pv-s
+ gloss: PV
+
+-deriv-type: N-ӕr
+ lex: <0>ӕр[.]
+ stem: ӕр[.].//р[.].
+ paradigm: NCP
+ gramm: +pv,pv-ӕr
+ gloss: PV
+
+-deriv-type: N-cux
+ lex: [.]цух
+ stem: <0>[.]цух.|<0>[.]цух.|<0>[.]цух.
+ paradigm: Nct
+ gramm: ADJ,car
+ gloss: CAR
+
+-deriv-type: N-ӕry
+ lex: <0>ӕры[.]
+ stem: ӕры[.].//ры[.].
+ paradigm: NCP
+ gramm: +pv,pv-ӕr
+ gloss: PV
+
+-deriv-type: N-nyk!
+ lex: <0>ныкъ[.]
+ stem: ныкъ[.].
+ regex-stem: къ.*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-raс
+ lex: <0>рац[.]ын
+ stem: рац[.].
+ regex-stem: [еиаӕоуы].*
+ gramm: +pv,pv-ra
+ gloss: PV
+
+-deriv-type: V-ra
+ lex: <0>ра[.]ын
+ stem: ра[.].
+ gramm: +pv,pv-ra
+ gloss: PV
+
+-deriv-type: N-ysy
+ lex: <0>ысы[.]
+ stem: ысы[.].
+ paradigm: NCP
+ gramm: +pv,pv-s
+ gloss: PV
+
+-deriv-type: N-nyt!
+ lex: <0>нытъ[.]
+ stem: нытъ[.].
+ regex-stem: тъ.*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-dzinad
+ lex: [.]дзинад
+ stem: <0>[.]дзинад.|<0>[.]дзинад.|<0>[.]дзинӕд.
+ paradigm: Nct
+ gramm: N,abstr
+
+-deriv-type: V-ba
+ lex: <0>ба[.]ын
+ stem: ба[.].
+ gramm: +pv,pv-ba
+ gloss: PV
+
+-deriv-type: N-nych!
+ lex: <0>нычъ[.]
+ stem: нычъ[.].
+ regex-stem: чъ.*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-raj
+ lex: <0>рай[.]ын
+ stem: рай[.].
+ regex-stem: [еиаӕоуы].*
+ gramm: +pv,pv-ra
+ gloss: PV
+
+-deriv-type: N-ba
+ lex: ба[.]
+ stem: ба[.].
+ paradigm: NCP
+ gramm: +pv,pv-ba
+ gloss: PV
+
+-deriv-type: V-sy
+ lex: сы[.]ын
+ stem: сы[.].
+ gramm: +pv,pv-s
+ gloss: PV
+
+-deriv-type: N-nydz
+ lex: <0>ныдз[.]
+ stem: ныдз[.].
+ regex-stem: дз.*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-a-cӕj
+ lex: <0>ацӕй[.]
+ stem: ацӕй[.].
+ paradigm: NCP
+ gramm: +pv,pv-a,pv-cӕj
+ gloss: PV:IPFV
+
+-deriv-type: N-ny-cӕj
+ lex: <0>ныццӕй[.]
+ stem: ныццӕй[.].
+ paradigm: NCP
+ gramm: +pv,pv-ny,pv-cӕj
+ gloss: PV:IPFV
+
+-deriv-type: V-nych!
+ lex: <0>нычъ[.]ын.
+ stem: нычъ[.].
+ regex-stem: чъ.*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: N-s
+ lex: <0>с[.]
+ stem: с[.].
+ paradigm: NCP
+ gramm: +pv,pv-s
+ gloss: PV
+
+-deriv-type: N-ys-cӕj
+ lex: <0>ысцӕй[.]
+ stem: ысцӕй[.].
+ paradigm: NCP
+ gramm: +pv,pv-s,pv-cӕj
+ gloss: PV:IPFV
+
+-deriv-type: V-a-cӕj
+ lex: <0>ацӕй[.]ын
+ stem: ацӕй[.].
+ gramm: +pv,pv-a,pv-cӕj
+ gloss: PV:IPFV
+
+-deriv-type: N-dzyn
+ lex: [.]джын
+ stem: <0>[.]джын.|<0>[.]джын.|<0>[.]джын.
+ paradigm: Nct
+ gramm: ADJ
+ gloss: ADJ
+
+-deriv-type: V-fӕc
+ lex: <0>фӕц[.]ын
+ stem: фӕц[.].
+ regex-stem: [еиаӕоуы].*
+ gramm: +pv,pv-fӕ
+ gloss: PV
+
+-deriv-type: N-ӕrbaj
+ lex: <0>ӕрбай[.]
+ stem: ӕрбай[.].//рбай[.].
+ regex-stem: [еиаӕоуы].*
+ paradigm: NCP
+ gramm: +pv,pv-ӕrba
+ gloss: PV
+
+-deriv-type: N-a
+ lex: <0>а[.]
+ stem: а[.].
+ paradigm: NCP
+ gramm: +pv,pv-a
+ gloss: PV
+
+-deriv-type: N-ӕrbac
+ lex: <0>ӕрбац[.]
+ stem: ӕрбац[.].//рбац[.].
+ regex-stem: [еиаӕоуы].*
+ paradigm: NCP
+ gramm: +pv,pv-ӕrba
+ gloss: PV
+
+-deriv-type: N-ag
+ stem: [.]аг.|[.]адж.|[.]ӕг.
+ paradigm: Nct
+ gramm: +ag
+
+-deriv-type: NUM-ord1
+ lex: [.]ӕм
+ stem: [.]ӕм.
+ paradigm: Nct
+ gramm: +ord
+
+-deriv-type: NUM-ord2
+ lex: [.]ӕймаг
+ stem: <0>[.]ӕймаг|<1>[.]ӕймадж.|<2>[.]ӕймӕг.
+ paradigm: Nct
+ gramm: +ord
+
+-deriv-type: N-nycc
+ lex: <0>ныцц[.]
+ stem: <0>ныцц[.].|<1>ныцц[.].|<2>ныцц[.].
+ regex-stem: [еиаӕоуы].*
+ paradigm: NCP
+ gramm: +pv,pv-ny
+ gloss: PV
+
+-deriv-type: V-nycc
+ lex: <0>ныцц[.]ын
+ stem: <0>ныцц[.].|<1>ныцц[.].|<2>ныцц[.].
+ regex-stem: [еиаӕоуы].*
+ gramm: +pv,pv-ny
+ gloss: PV
+
+
+
+-deriv-type: NUM-ord3
+ lex: [.]ыккаг
+ stem: <0>[.]ыккаг|<0>[.]ыккадж.|<0>[.]ыккӕг.
+ paradigm: Nct
+ gramm: +ord
+ gloss: ORD
+
+-deriv-type: N-yearadj
+ lex: [.]азон
+ stem: <0>[.]азон.|<0>[.]азон.|<0>[.]азӕ.
+ paradigm: Nctt
+ gramm: ADJ
+ gloss: YEAR:ADJ
+
+-deriv-type: N-yearadj2
+ lex: [.]азыккон
+ stem: <0>[.]азыккон.|<0>[.]азыккон.|<0>[.]азыккӕ.
+ paradigm: Nctt
+ gramm: ADJ
+ gloss: YEAR
+
+-deriv-type: N-yearold
+ lex: [.]аздзыд
+ stem: [.]аздзыд.
+ paradigm: Nct
+ gramm: ADJ
+ gloss: YEAR.OLD
+
+-deriv-type: NUM-hundred
+ lex: [.]сӕдӕ
+ stem: [.]сӕдӕ.
+ paradigm: Nv
+ gramm:
+ gloss: hundred
+
+-deriv-type: NUM-twenty1
+ lex: [.]ссӕдз
+ stem: [.]ссӕдз.
+ paradigm: Nct
+ gramm:
+ gloss: twenty
+
+-deriv-type: NUM-twenty2
+ lex: [.]ыссӕдз
+ stem: [.]ыссӕдз.
+ paradigm: Nct
+ gramm:
+ gloss: twenty
+
+-deriv-type: N-class
+ lex: [.]къласон
+ stem: <0>[.]къласон.|<0>[.]къласон.|<0>[.]къласӕ.
+ paradigm: Nctt
+ gramm: ADJ
+ gloss: class:ADJ
+
+-deriv-type: N-month
+ lex: [.]мӕйон
+ stem: <0>[.]мӕйон.|<0>[.]мӕйон.|<0>[.]мӕйӕ.
+ paradigm: Nctt
+ gramm: ADJ
+ gloss: month:ADJ
+
+-deriv-type: N-floor
+ lex: [.]ӕддӕгуӕлӕ
+ stem: [.]ӕддӕгуӕлӕ.
+ paradigm: Nv
+ gramm: ADJ
+ gloss: floor
+
+-deriv-type: N-dzhyn
+ lex: [.]джын
+ stem: [.]джын.
+ paradigm: Nct
+ gramm: ADJ
+ gloss: ADJ
+
+-deriv-type: N-chyn
+ lex: [.]чын
+ stem: [.]чын.
+ paradigm: Nct
+ gramm: ADJ
+ gloss: ADJ
+
+-deriv-type: N-vars
+ lex: [.]варс
+ stem: <0>[.]варс.|<0>[.]варс.|<0>[.]вӕрс.
+ paradigm: Nct
+ gramm: ADJ
+ gloss: ADJ
+
+-deriv-type: N-afon
+ lex: [.]афон
+ stem: [.]афон.
+ paradigm: Nct
+ gramm: ADJ
+ gloss: ADJ
+
+-deriv-type: N-don
+ lex: [.]дон
+ stem: <0>[.]дон.|<0>[.]дон.|<0>[.]дӕ.
+ paradigm: Nctt
+ gramm: ADJ
+ gloss: ADJ
+
+-deriv-type: N-qom
+ stem: [.]хъом.
+ paradigm: Nct
+ gramm: +pot
+ gloss: POT
+
+-deriv-type: N-ag
+ lex: [.]аг
+ stem: <0>[.]аг.|<0>[.]адж.|<0>[.]ӕг.
+ paradigm: Nct
+ gramm: N
+ gloss: SUFF
+
+-deriv-type: N-gag
+ lex: [.]гаг
+ stem: <0>[.]гаг.|<0>[.]гадж.|<0>[.]гӕг.
+ paradigm: Nct
+ gramm: N
+ gloss: SUFF
+
+-deriv-type: N-ӕg
+ lex: [.]ӕг
+ stem: <0>[.]ӕг.|<0>[.]ӕдж.|<0>[.]ӕг.
+ paradigm: Nct
+ gramm: N
+ gloss: SUFF
+
+-deriv-type: N-xwyz
+ lex: [.]хуыз
+ stem: [.]хуыз.
+ paradigm: Nct
+ gramm: ADJ
+ gloss: like
+
+-deriv-type: N-xwyzӕn
+ lex: [.]хуызӕн
+ stem: [.]хуызӕн.
+ paradigm: Nct
+ gramm: ADJ
+ gloss: like
+
+-deriv-type: N-dzau
+ lex: [.]дзау
+ stem: [.]дзау.
+ paradigm: Nct
+ gramm: N
+ gloss: go
+
+-deriv-type: N-gӕs
+ lex: [.]гӕс
+ stem: [.]гӕс.
+ paradigm: Nct
+ gramm: N
+ gloss: ACTOR
+
+-deriv-type: N-garz
+ lex: [.]гарз
+ stem: <0>[.]гарз.|<0>[.]гарз.|<0>[.]гӕрз.
+ paradigm: Nct
+ gramm: N
+ gloss: tool
+
+-deriv-type: N-gur
+ lex: [.]гур
+ stem: [.]гур.
+ paradigm: Nct
+ gramm: N
+ gloss: ask
+
+-deriv-type: N-wat
+ lex: [.]уат
+ stem: <0>[.]уат.|<0>[.]уат.|<0>[.]уӕт.
+ paradigm: Nct
+ gramm: N,inanim,nonhuman
+ gloss: place
+
+-deriv-type: N-quag
+ lex: [.]хъуаг
+ stem: <0>[.]хъуаг.|<0>[.]хъуадж.|<0>[.]хъуӕг.
+ paradigm: Nct
+ gramm: ADJ
+ gloss: need
+
+-deriv-type: N-gomau
+ lex: [.]гомау
+ stem: <0>[.]гомау.|<0>[.]гомау.|<0>[.]гомӕу.
+ paradigm: Nctt
+ gramm: ADJ
+ gloss: DIM
+
+-deriv-type: N-gӕron
+ lex: [.]гӕрон
+ stem: [.]гӕрон.
+ paradigm: Nct
+ gramm: ADV
+ gloss: near
+
+-deriv-type: N-vӕndag
+ lex: [.]вӕндаг
+ stem: <0>[.]вӕндаг.|<0>[.]вӕндадж.|<0>[.]вӕндӕг.
+ paradigm: Nct
+ gramm: N,inanim,nonhuman
+ gloss: road
+
+-deriv-type: N-ӕmxasӕn
+ lex: [.]ӕмхасӕн
+ stem: [.]ӕмхасӕн.
+ paradigm: Nct
+ gramm: N,inanim,nonhuman
+ gloss: a_bit
+
+-deriv-type: N-iu
+ lex: <0>иу[.]
+ stem: иу[.].
+ gloss: one
+
+-deriv-type: N-dy
+ lex: <0>ды[.]
+ stem: ды[.].
+ gloss: two
+
+-deriv-type: N-ӕrtӕ
+ lex: <0>ӕртӕ[.]
+ stem: ӕртӕ[.].
+ gloss: three
+
+-deriv-type: N-cyppar
+ lex: <0>цыппар[.]
+ stem: цыппар[.].
+ gloss: four
+
+-deriv-type: N-fondz
+ lex: <0>фондз[.]
+ stem: фондз[.].
+ gloss: five
+
+-deriv-type: N-ӕxsӕz
+ lex: <0>ӕхсӕз[.]
+ stem: ӕхсӕз[.].
+ gloss: six
+
+-deriv-type: N-avd
+ lex: <0>авд[.]
+ stem: авд[.].
+ gloss: seven
+
+-deriv-type: N-ast
+ lex: <0>аст[.]
+ stem: аст[.].
+ gloss: eight
+
+-deriv-type: N-farast
+ lex: <0>фараст[.]
+ stem: фараст[.].
+ gloss: nine
+
+-deriv-type: N-dӕs
+ lex: <0>дӕс[.]
+ stem: дӕс[.].
+ gloss: nine
+
+-deriv-type: N-ӕmbis
+ lex: <0>ӕмбис[.]
+ stem: ӕмбис[.].
+ gloss: half
+
+-deriv-type: N-ӕm
+ lex: <0>ӕм[.]
+ stem: ӕм[.].
+ gloss: same
+
+-deriv-type: N-dӕl
+ lex: <0>дӕл[.]
+ stem: дӕл[.].
+ gloss: under
+
+-deriv-type: N-dargh
+ lex: <0>даргъ[.]
+ stem: даргъ[.].
+ gloss: same
+
+-deriv-type: N-byn
+ lex: <0>бын[.]
+ stem: бын[.].
+ gloss: PREF
+
+-deriv-type: N-ӕrvyl
+ lex: <0>ӕрвыл[.]
+ stem: ӕрвыл[.].
+ gloss: every
+
+-deriv-type: N-ӕrdӕg
+ lex: <0>ӕрдӕг[.]
+ stem: ӕрдӕг[.].
+ gloss: half
+
+-deriv-type: N-zyn
+ lex: <0>зын[.]
+ stem: зын[.].
+ gloss: difficult
+
+-deriv-type: N-ӕd
+ lex: <0>ӕд[.]
+ stem: ӕд[.].
+ gloss: with
