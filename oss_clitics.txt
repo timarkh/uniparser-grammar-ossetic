@@ -50,110 +50,110 @@
  lex: кӕнын
  stem: гӕнгӕ
  type: en
- gramm: V,tr,ptcp.gӕ,sg,nom
+ gramm: V,tr,ptcp.gae,sg,nom
  gloss: делать:PCVB
 -clitic
  lex: кӕнын
  stem: гӕнгӕйы
  type: en
- gramm: V,tr,ptcp.gӕ,sg,gen
+ gramm: V,tr,ptcp.gae,sg,gen
  gloss: делать:PCVB:GEN
 -clitic
  lex: кӕнын
  stem: гӕнгӕйӕн
  type: en
- gramm: V,tr,ptcp.gӕ,sg,dat
+ gramm: V,tr,ptcp.gae,sg,dat
  gloss: делать:PCVB:DAT
 -clitic
  lex: кӕнын
  stem: гӕнгӕмӕ
  type: en
- gramm: V,tr,ptcp.gӕ,sg,all
+ gramm: V,tr,ptcp.gae,sg,all
  gloss: делать:PCVB:ALL
 -clitic
  lex: кӕнын
  stem: гӕнгӕйӕ
  type: en
- gramm: V,tr,ptcp.gӕ,sg,abl
+ gramm: V,tr,ptcp.gae,sg,abl
  gloss: делать:PCVB:ABL
 -clitic
  lex: кӕнын
  stem: гӕнгӕйы
  type: en
- gramm: V,tr,ptcp.gӕ,sg,in
+ gramm: V,tr,ptcp.gae,sg,in
  gloss: делать:PCVB:IN
 -clitic
  lex: кӕнын
  stem: гӕнгӕйыл
  type: en
- gramm: V,tr,ptcp.gӕ,sg,super
+ gramm: V,tr,ptcp.gae,sg,super
  gloss: делать:PCVB:SUPER
 -clitic
  lex: кӕнын
  stem: гӕнгӕйау
  type: en
- gramm: V,tr,ptcp.gӕ,sg,equ
+ gramm: V,tr,ptcp.gae,sg,equ
  gloss: делать:PCVB:EQU
 -clitic
  lex: кӕнын
  stem: гӕнгӕйимӕ
  type: en
- gramm: V,tr,ptcp.gӕ,sg,comit
+ gramm: V,tr,ptcp.gae,sg,comit
  gloss: делать:PCVB:COMIT
 
 -clitic
  lex: кӕнын
  stem: гӕнгӕтӕ
  type: en
- gramm: V,tr,ptcp.gӕ,pl,nom
+ gramm: V,tr,ptcp.gae,pl,nom
  gloss: делать:PCVB:PL
 -clitic
  lex: кӕнын
  stem: гӕнгӕты
  type: en
- gramm: V,tr,ptcp.gӕ,pl,gen
+ gramm: V,tr,ptcp.gae,pl,gen
  gloss: делать:PCVB:PL:GEN
 -clitic
  lex: кӕнын
  stem: гӕнгӕтӕн
  type: en
- gramm: V,tr,ptcp.gӕ,pl,dat
+ gramm: V,tr,ptcp.gae,pl,dat
  gloss: делать:PCVB:PL:DAT
 -clitic
  lex: кӕнын
  stem: гӕнгӕтӕм
  type: en
- gramm: V,tr,ptcp.gӕ,pl,all
+ gramm: V,tr,ptcp.gae,pl,all
  gloss: делать:PCVB:PL:ALL
 -clitic
  lex: кӕнын
  stem: гӕнгӕтӕй
  type: en
- gramm: V,tr,ptcp.gӕ,pl,abl
+ gramm: V,tr,ptcp.gae,pl,abl
  gloss: делать:PCVB:PL:ABL
 -clitic
  lex: кӕнын
  stem: гӕнгӕты
  type: en
- gramm: V,tr,ptcp.gӕ,pl,in
+ gramm: V,tr,ptcp.gae,pl,in
  gloss: делать:PCVB:PL:IN
 -clitic
  lex: кӕнын
  stem: гӕнгӕтыл
  type: en
- gramm: V,tr,ptcp.gӕ,pl,super
+ gramm: V,tr,ptcp.gae,pl,super
  gloss: делать:PCVB:PL:SUPER
 -clitic
  lex: кӕнын
  stem: гӕнгӕтау
  type: en
- gramm: V,tr,ptcp.gӕ,pl,equ
+ gramm: V,tr,ptcp.gae,pl,equ
  gloss: делать:PCVB:PL:EQU
 -clitic
  lex: кӕнын
  stem: гӕнгӕтимӕ
  type: en
- gramm: V,tr,ptcp.gӕ,pl,comit
+ gramm: V,tr,ptcp.gae,pl,comit
  gloss: делать:PCVB:PL:COMIT
 
 -clitic
@@ -380,110 +380,110 @@
  lex: кӕнын
  stem: гӕнӕг
  type: en
- gramm: V,tr,ptcp.ӕg,sg,nom
+ gramm: V,tr,ptcp.aeg,sg,nom
  gloss: делать:PTCP
 -clitic
  lex: кӕнын
  stem: гӕнӕджы
  type: en
- gramm: V,tr,ptcp.ӕg,sg,gen
+ gramm: V,tr,ptcp.aeg,sg,gen
  gloss: делать:PTCP:GEN
 -clitic
  lex: кӕнын
  stem: гӕнӕгӕн
  type: en
- gramm: V,tr,ptcp.ӕg,sg,dat
+ gramm: V,tr,ptcp.aeg,sg,dat
  gloss: делать:PTCP:DAT
 -clitic
  lex: кӕнын
  stem: гӕнӕгмӕ
  type: en
- gramm: V,tr,ptcp.ӕg,sg,all
+ gramm: V,tr,ptcp.aeg,sg,all
  gloss: делать:PTCP:ALL
 -clitic
  lex: кӕнын
  stem: гӕнӕгӕй
  type: en
- gramm: V,tr,ptcp.ӕg,sg,abl
+ gramm: V,tr,ptcp.aeg,sg,abl
  gloss: делать:PTCP:ABL
 -clitic
  lex: кӕнын
  stem: гӕнӕджы
  type: en
- gramm: V,tr,ptcp.ӕg,sg,in
+ gramm: V,tr,ptcp.aeg,sg,in
  gloss: делать:PTCP:IN
 -clitic
  lex: кӕнын
  stem: гӕнӕгыл
  type: en
- gramm: V,tr,ptcp.ӕg,sg,super
+ gramm: V,tr,ptcp.aeg,sg,super
  gloss: делать:PTCP:SUPER
 -clitic
  lex: кӕнын
  stem: гӕнӕгау
  type: en
- gramm: V,tr,ptcp.ӕg,sg,equ
+ gramm: V,tr,ptcp.aeg,sg,equ
  gloss: делать:PTCP:EQU
 -clitic
  lex: кӕнын
  stem: гӕнӕгимӕ
  type: en
- gramm: V,tr,ptcp.ӕg,sg,comit
+ gramm: V,tr,ptcp.aeg,sg,comit
  gloss: делать:PTCP:COMIT
 
 -clitic
  lex: кӕнын
  stem: гӕнджытӕ
  type: en
- gramm: V,tr,ptcp.ӕg,pl,nom
+ gramm: V,tr,ptcp.aeg,pl,nom
  gloss: делать:PTCP:PL
 -clitic
  lex: кӕнын
  stem: гӕнджыты
  type: en
- gramm: V,tr,ptcp.ӕg,pl,gen
+ gramm: V,tr,ptcp.aeg,pl,gen
  gloss: делать:PTCP:PL:GEN
 -clitic
  lex: кӕнын
  stem: гӕнджытӕн
  type: en
- gramm: V,tr,ptcp.ӕg,pl,dat
+ gramm: V,tr,ptcp.aeg,pl,dat
  gloss: делать:PTCP:PL:DAT
 -clitic
  lex: кӕнын
  stem: гӕнджытӕм
  type: en
- gramm: V,tr,ptcp.ӕg,pl,all
+ gramm: V,tr,ptcp.aeg,pl,all
  gloss: делать:PTCP:PL:ALL
 -clitic
  lex: кӕнын
  stem: гӕнджытӕй
  type: en
- gramm: V,tr,ptcp.ӕg,pl,abl
+ gramm: V,tr,ptcp.aeg,pl,abl
  gloss: делать:PTCP:PL:ABL
 -clitic
  lex: кӕнын
  stem: гӕнджыты
  type: en
- gramm: V,tr,ptcp.ӕg,pl,in
+ gramm: V,tr,ptcp.aeg,pl,in
  gloss: делать:PTCP:PL:IN
 -clitic
  lex: кӕнын
  stem: гӕнджытыл
  type: en
- gramm: V,tr,ptcp.ӕg,pl,super
+ gramm: V,tr,ptcp.aeg,pl,super
  gloss: делать:PTCP:PL:SUPER
 -clitic
  lex: кӕнын
  stem: гӕнджытау
  type: en
- gramm: V,tr,ptcp.ӕg,pl,equ
+ gramm: V,tr,ptcp.aeg,pl,equ
  gloss: делать:PTCP:PL:EQU
 -clitic
  lex: кӕнын
  stem: гӕнджытимӕ
  type: en
- gramm: V,tr,ptcp.ӕg,pl,comit
+ gramm: V,tr,ptcp.aeg,pl,comit
  gloss: делать:PTCP:PL:COMIT
 
 -clitic
