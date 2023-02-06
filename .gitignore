@@ -2,13 +2,14 @@
 **.idea/**
 __pycache__/
 uniparser-morph/errors.log
+uniparser_ossetic/data_strict/bad_analyses.txt
+uniparser_ossetic/data_nodiacritics/bad_analyses.txt
 errors.log
 analyzed.txt
 unanalyzed.txt
 import_test.py
 lexemes.txt
 paradigms.txt
-bad_analyses.txt
 derivations.txt
 lex_rules.txt
 clitics.txt
