@@ -7,7 +7,7 @@
   gramm: sg,gen
   gloss: GEN
  -flex: <0>.ӕн
-  gramm: sg.dat
+  gramm: sg,dat
   gloss: DAT
  -flex: <0>.мӕ
   gramm: sg,all
@@ -248,7 +248,7 @@
   gramm: sg,gen
   gloss: GEN
  -flex: <0>.ӕн
-  gramm: sg.dat
+  gramm: sg,dat
   gloss: DAT
  -flex: <0>.мӕ
   gramm: sg,all
@@ -491,7 +491,7 @@
   gramm: sg,gen
   gloss: GEN
  -flex: <0>.йӕн
-  gramm: sg.dat
+  gramm: sg,dat
   gloss: DAT
  -flex: <0>.мӕ
   gramm: sg,all
@@ -802,7 +802,7 @@
   gramm: sg,gen
   gloss: GEN
  -flex: <0>.ӕн
-  gramm: sg.dat
+  gramm: sg,dat
   gloss: DAT
  -flex: <0>.мӕ
   gramm: sg,all
@@ -877,7 +877,7 @@
   gramm: sg,gen
   gloss: GEN
  -flex: <0>.ӕн
-  gramm: sg.dat
+  gramm: sg,dat
   gloss: DAT
  -flex: <0>.мӕ
   gramm: sg,all
@@ -952,7 +952,7 @@
   gramm: sg,gen
   gloss: GEN
  -flex: <0>.йӕн
-  gramm: sg.dat
+  gramm: sg,dat
   gloss: DAT
  -flex: <0>.мӕ
   gramm: sg,all

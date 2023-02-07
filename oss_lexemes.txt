@@ -357,7 +357,7 @@
  paradigm: Nct
  trans_ru: быстрое приближение
  trans_en: fast approach
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: авг
  stem: авг.|авдж.|авг.
@@ -399,7 +399,7 @@
  paradigm: NUMct
  trans_ru: семь
  trans_en: seven
- gramm: NUM, card
+ gramm: NUM,card
 -lexeme
  lex: авдаздзыд
  stem: авдаздзыд.|авдаздзыд.|авдаздзыд.
@@ -658,7 +658,7 @@
  paradigm: Nct
  trans_ru: обезображивание
  trans_en: disfigurement
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: авналӕнтӕ
  stem: авналӕн.//ӕвналӕн.//вналӕн.
@@ -938,7 +938,7 @@
  paradigm: Nct
  trans_ru: шум, галдеж
  trans_en: noise, hubbub
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: агайын
  stem: агай.|агайдт.|агайд.
@@ -1211,7 +1211,7 @@
  paradigm: Nct
  trans_ru: взваливание на спину, несение на спине
  trans_en:
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: агуйан
  stem: агуйан.|агуйан.|агуйан.
@@ -1337,7 +1337,7 @@
  paradigm: Nv
  trans_ru: натравливание, подстрекательство
  trans_en: instigation
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: агъуындын
  stem: агъуынд.|агъуыст.|агъуыст.
@@ -1407,7 +1407,7 @@
  paradigm: Nct
  trans_ru: прыгание, выпрыгивание, спрыгивание
  trans_en: jumping
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: агӕппӕввонг
  stem: агӕппӕввонг.|агӕппӕввондж.|агӕппӕввонг.
@@ -1463,7 +1463,7 @@
  paradigm: Nct
  trans_ru: несение на спине, на руках, катание
  trans_en:
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: Адайыхох
  stem: адайыхох.|адайыхох.|адайыхӕх.
@@ -1484,7 +1484,7 @@
  paradigm: Nv
  trans_ru: слух, молва
  trans_en: rumour
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: адвокат
  stem: адвокат.|адвокат.|адвокат.
@@ -1561,7 +1561,7 @@
  paradigm: Nv
  trans_ru: ломание
  trans_en: break
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: административон
  stem: административон.
@@ -1638,7 +1638,7 @@
  paradigm: Nv
  trans_ru: хорошее, красивое
  trans_en: good, beautiful
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: адъютант
  stem: адъютант.|адъютант.|адъютант.
@@ -1666,7 +1666,7 @@
  paradigm: Nct
  trans_ru: швыряние, бросание
  trans_en: throw, hurl
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: адыли
  stem: адыли.|адыли.|адыли.
@@ -1680,7 +1680,7 @@
  paradigm: Nv
  trans_ru: удрать, улизнуть; унести, утащить
  trans_en: run away; take away
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: адӕвзарӕг
  stem: адӕвзарӕг.|адӕвзарӕдж.|адӕвзарджы.
@@ -1736,7 +1736,7 @@
  paradigm: Nct
  trans_ru: закапывание, похороны
  trans_en: bury
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: адӕм
  stem: адӕм.|адӕм.|адӕм.
@@ -1904,7 +1904,7 @@
  paradigm: Nv
  trans_ru: намеревающийся вернуться
  trans_en: one who is going to come back
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: азербайджайнаг
  stem: азербайджайнаг.|азербайджайнадж.|азербайджайнӕг.
@@ -2177,7 +2177,7 @@
  paradigm: Nct
  trans_ru: зеркальный блекс
  trans_en: mirror's glitter
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: айк
  stem: айк.|айч.|ӕйчы.
@@ -2289,7 +2289,7 @@
  paradigm: Nv
  trans_ru: мешкание
  trans_en: delay
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: айтӕккӕ
  stem: айтӕккӕ.
@@ -2338,7 +2338,7 @@
  paradigm: Nct
  trans_ru: сватовство, помолвка
  trans_en: marriage proposal, engagement
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: акварель
  stem: акварель.//акварел.|акварель.//акварел.|акварель.//акварел.
@@ -2429,7 +2429,7 @@
  paradigm: Nv
  trans_ru: стрижка наголо
  trans_en: crop close
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: акр
  stem: акр.|акр.|акр.
@@ -2562,7 +2562,7 @@
  paradigm: Nv
  trans_ru: удаление; убирание
  trans_en: deletion; taking away, removing
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: акцент
  stem: акцент.|акцент.|акцент.
@@ -2618,14 +2618,14 @@
  paradigm: Nct
  trans_ru: свист
  trans_en: whistling
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: акъӕмс
  stem: акъӕмс.
  paradigm: Nct
  trans_ru: откусывание; глотание
  trans_en: bite; swallow
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ала
  stem: ала.
@@ -2758,7 +2758,7 @@
  paradigm: Nv
  trans_ru: разлив
  trans_en: flood, bottling
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: алжираг
  stem: алжираг.|алжирадж.|алжирӕг.
@@ -3185,7 +3185,7 @@
  paradigm: Nct
  trans_ru: промокнуть
  trans_en: wet, get wet
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: амагӕрдӕг
  stem: амагӕрдӕг.|амагӕрдӕдж.|амагӕрдӕг.//амагӕрдджы.
@@ -3304,7 +3304,7 @@
  paradigm: Nct
  trans_ru: травля, подстрекательство
  trans_en: harassment, instigation
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: аммен
  stem: аммен.|аммен.|аммен.
@@ -3591,7 +3591,7 @@
  paradigm: Nv
  trans_ru: безвкусный
  trans_en: without taste
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: анализ
  stem: анализ.|анализ.|анализ.
@@ -4102,7 +4102,7 @@
  paradigm: Nct
  trans_ru: сочинение
  trans_en: composing
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: аныгуыла
  stem: аныгуыла.
@@ -4333,7 +4333,7 @@
  paradigm: Nct
  trans_ru: крик
  trans_en: cry
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: арандзал
  stem: арандзал.|арандзал.|арандзал.
@@ -4368,7 +4368,7 @@
  paradigm: Nct
  trans_ru: пьянство
  trans_en: hard drinking
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: арахъуадзӕг
  stem: арахъуадзӕг.|арахъуадзӕдж.|арахъуадзджы.
@@ -4886,7 +4886,7 @@
  paradigm: Nct
  trans_ru: барахтание;вставание на дыбы
  trans_en: flounder; prance
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: армаццагӕй
  stem: армаццагӕй.|армаццагӕй.|армаццагӕй.
@@ -5103,7 +5103,7 @@
  paradigm: Nct
  trans_ru: умирание со смеху
  trans_en:
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: артӕфтауӕг
  stem: артӕфтауӕг.|артӕфтауӕдж.|артӕфтауджы.
@@ -5544,7 +5544,7 @@
  paradigm: Nct
  trans_ru: гибель
  trans_en: death, destruction
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: асбест
  stem: асбест.|асбест.|асбест.
@@ -5628,7 +5628,7 @@
  paradigm: Nct
  trans_ru: неаккуратное подметание; вбалтывание
  trans_en:
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: аскет
  stem: аскет.|аскет.|аскет.
@@ -5768,7 +5768,7 @@
  paradigm: Nct
  trans_ru: восемь
  trans_en: eight
- gramm: Num,card
+ gramm: NUM,card
 -lexeme
  lex: асткъахыг
  stem: асткъахыг.|асткъахыдж.|асткъахыг.
@@ -5838,7 +5838,7 @@
  paradigm: NUMct
  trans_ru: сто шестьдесят (в двадцатеричном счете)
  trans_en: one hundred and sixty
- gramm: NUM, card
+ gramm: NUM,card
 -lexeme
  lex: астӕр
  stem: астӕр.|астӕр.|астӕр.
@@ -6167,14 +6167,14 @@
  paradigm: Nv
  trans_ru: забывание
  trans_en: forgetting
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: атъӕпп-ахӕц
  stem: атъӕпп-ахӕц.
  paradigm: Nct
  trans_ru: промедление
  trans_en: delay, linger
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: атынӕг
  stem: атынӕг.|атынӕдж.|атынӕг.
@@ -6195,7 +6195,7 @@
  paradigm: Nct
  trans_ru: отскакивание, отпрыгивание
  trans_en: springing, jumping
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: атӕхуды
  stem: атӕхуды.
@@ -6419,7 +6419,7 @@
  paradigm: Nct
  trans_ru: уход; похищение
  trans_en: going away; kidnapping
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: афгайнаг
  stem: афгайнаг.|афгайнадж.|афгайнӕг.
@@ -6517,7 +6517,7 @@
  paradigm: Nv
  trans_ru: погибель
  trans_en: death
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: афтек
  stem: афтек.|афтек.|афтек.
@@ -6601,7 +6601,14 @@
  paradigm: ZERO
  trans_ru: так, таким образом; итак; а между тем, когда как
  trans_en: so; thus; nevertheless
- gramm: ADV-CONJ
+ gramm: ADV
+-lexeme
+ lex: афтӕмӕй
+ stem: афтӕмӕй.
+ paradigm: ZERO
+ trans_ru: так, таким образом; итак; а между тем, когда как
+ trans_en: so; thus; nevertheless
+ gramm: CONJ
 -lexeme
  lex: афтӕмӕйты
  stem: афтӕмӕйты.
@@ -6727,7 +6734,7 @@
  paradigm: Nct
  trans_ru: разбиение, разрезание на куски, ракалывание
  trans_en: partitioning
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: афӕсвӕддзинад
  stem: афӕсвӕддзинад.|афӕсвӕддзинад.|афӕсвӕддзинад.
@@ -6818,7 +6825,7 @@
  paradigm: Nv
  trans_ru: возиться, рыться, копошиться
  trans_en:
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ахо
  stem: ахо.
@@ -6867,7 +6874,7 @@
  paradigm: Nct
  trans_ru: опрелый; воспаленный
  trans_en: intertriginous; inflamed
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ахорын
  stem: ахор.|ахуырст.|ахуырст.
@@ -6944,14 +6951,14 @@
  paradigm: Nv
  trans_ru: прогулка
  trans_en: walk
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ахуха
  stem: ахуха.
  paradigm: Nv
  trans_ru: засушенный
  trans_en: dried-up
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ахуыйӕн
  stem: ахуыйӕн.|ахуыйӕн.|ахуыйӕн.
@@ -6965,7 +6972,7 @@
  paradigm: Nct
  trans_ru: глоток
  trans_en: swallow
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ахуыр
  stem: ахуыр.|ахуыр.|ахуыр.
@@ -7140,7 +7147,7 @@
  paradigm: Nct
  trans_ru: убийство; похищение
  trans_en: killing, shooting; kidnapping
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ахъуыдыйаг
  stem: ахъуыдыйаг.|ахъуыдыйадж.|ахъуыдыйаг.
@@ -7154,21 +7161,21 @@
  paradigm: Nct
  trans_ru: злость, раздражение; ссора
  trans_en: annoyance; quarrel
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ахъуыррытт
  stem: ахъуыррытт.
  paradigm: Nct
  trans_ru: глоток
  trans_en: swallow
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ахъуытты
  stem: ахъуытты.
  paradigm: Nv
  trans_ru: удаление, выдворение
  trans_en: sending away, exclusion
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ахъӕубӕстаг
  stem: ахъӕубӕстаг.|ахъӕубӕстадж.|ахъӕубӕстӕг.
@@ -7203,7 +7210,7 @@
  paradigm: Nv
  trans_ru: резание
  trans_en: cut, cutting
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ахӕлиу
  stem: ахӕлиу.|ахӕлиу.|ахӕлиу.
@@ -7294,7 +7301,7 @@
  paradigm: Nct
  trans_ru: попытка
  trans_en: attempt
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ацафон
  stem: ацафон.|ацафон.|ацафон.
@@ -7322,7 +7329,7 @@
  paradigm: Nct
  trans_ru: неспешная ходьба; угон, увод
  trans_en: walking slowly; driving away, stealing
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ацудас
  stem: ацудас.|ацудас.|ацудас.
@@ -7343,14 +7350,14 @@
  paradigm: Nct
  trans_ru: схватывание; поимка
  trans_en: picking; capture
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ацы
  stem: ацы.
  paradigm: Nv
  trans_ru: этот
  trans_en: this
- gramm: PRON,dem,Nom
+ gramm: PRON,dem
 -lexeme
  lex: ацыд
  stem: ацыд.|ацыд.|ацыдты.
@@ -7392,7 +7399,7 @@
  paradigm: Nv
  trans_ru: спотыкание; качание
  trans_en: stumbling; swing
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ацӕргӕ
  stem: ацӕргӕ.
@@ -7427,7 +7434,7 @@
  paradigm: Nct
  trans_ru: кража
  trans_en: stealing
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ашуг
  stem: ашуг.|ашудж.|ашуг.
@@ -7812,7 +7819,7 @@
  paradigm: Nct
  trans_ru: триста сорок (в двадцатеричном счёте)
  trans_en: three hundred and forty
- gramm: Num,card
+ gramm: NUM,card
 -lexeme
  lex: ӕвджид
  stem: ӕвджид.//вджид.|ӕвджид.//вджид.|ӕвджид.//вджид.
@@ -8526,7 +8533,7 @@
  paradigm: Nct
  trans_ru: живой, здоровый
  trans_en: living, healthy
- gramm: N,anim,hum,inanim,nonhum
+ gramm: N,anim,human,inanim,nonhum
 -lexeme
  lex: ӕгас
  stem: ӕгас.//гас.| ӕгас.//гас.|ӕгӕс.//гӕс.
@@ -8814,7 +8821,7 @@
  paradigm: Nct
  trans_ru: бездомный
  trans_en: homeless
- gramm: N,anim,hum,nonhum
+ gramm: N,anim,human,nonhum
 -lexeme
  lex: ӕдзар
  stem: ӕдзар.
@@ -8961,7 +8968,7 @@
  paradigm: Nct
  trans_ru: мертвый; безмолвный
  trans_en: dead; silent
- gramm: N,anim,hum,nonhum
+ gramm: N,anim,human,nonhum
 -lexeme
  lex: ӕдзӕм
  stem: ӕдзӕм.//дзӕм.
@@ -9500,7 +9507,7 @@
  paradigm: Nctt
  trans_ru: алдар, барин, помещик; пчелиная матка
  trans_en: aldar, barin, landowner; queen bee
- gramm: N,anim,hum,nonhum
+ gramm: N,anim,human,nonhum
 -lexeme
  lex: ӕлдариуӕг
  stem: ӕлдариуӕг.//лдариуӕг.|ӕлдариуӕдж.//лдариуӕдж.|ӕлдариуӕг.//лдариуӕг.
@@ -9913,7 +9920,7 @@
  paradigm: Nct
  trans_ru: сидящий рядом
  trans_en: the one who sits next to smb
- gramm: N,anim,hum,nonhum
+ gramm: N,anim,human,nonhum
 -lexeme
  lex: ӕмбазыг
  stem: ӕмбазыг.//мбазыг.|ӕмбазыдж.//мбазыдж.|ӕмбазыг.//мбазыг.
@@ -10221,7 +10228,7 @@
  paradigm: Nv
  trans_ru: крик, рыдание
  trans_en: cry
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕмбуар
  stem: ӕмбуар.//мбуар.
@@ -10809,7 +10816,7 @@
  paradigm: Nv
  trans_ru: одного вида; родственники
  trans_en: from one species; relatives
- gramm: N,anim,hum,nonhum
+ gramm: N,anim,human,nonhum
 -lexeme
  lex: ӕмдзаг
  stem: ӕмдзаг.//мдзаг.|ӕмдзадж.//мдзадж.|ӕмдзаг.//мдзаг.
@@ -10858,7 +10865,7 @@
  paradigm: Nct
  trans_ru: поручающие свой скот одному пастуху; из одного стада, группы, отряда
  trans_en:
- gramm: N,anim,hum,nonhum
+ gramm: N,anim,human,nonhum
 -lexeme
  lex: ӕмдзугӕнӕг
  stem: ӕмдзугӕнӕг.//мдзугӕнӕг.|ӕмдзугӕнӕдж.//мдзугӕнӕдж.|ӕмдзугӕнджы.//мдзугӕнджы.
@@ -11012,14 +11019,14 @@
  paradigm: Nct
  trans_ru: современник; ровесник
  trans_en: contemporary; person of the same age
- gramm: N,anim,hum,inanim,inhum
+ gramm: N,anim,human,inanim,nonhuman
 -lexeme
  lex: ӕмдуг
  stem: ӕмдуггаг.//мдуггаг.|ӕмдуггадж.//мдуггадж.|ӕмдуггӕг.//мдуггӕг.
  paradigm: Nct
  trans_ru: современник; ровесник
  trans_en: contemporary; person of the same age
- gramm: N,anim,hum,inanim,inhum
+ gramm: N,anim,human,inanim,nonhuman
 -lexeme
  lex: ӕмдымбыл
  stem: ӕмдымбыл.//мдымбыл.
@@ -11068,7 +11075,7 @@
  paradigm: Nct
  trans_ru: ровесник, сверстник
  trans_en: peer, person of the same age
- gramm: N,anim,hum
+ gramm: N,anim,human
 -lexeme
  lex: ӕмдӕнӕг
  stem: ӕмдӕнӕг.//мдӕнӕг.|ӕмдӕнӕдж.//мдӕнӕдж.|ӕмдӕнӕг.//мдӕнӕг.
@@ -11103,14 +11110,14 @@
  paradigm: Nct
  trans_ru: сподвижник
  trans_en: associate
- gramm: N,anim,hum
+ gramm: N,anim,human
 -lexeme
  lex: ӕмзонд
  stem: ӕмзонд.//мзонд.
  paradigm: Nct
  trans_ru: единомышленник; единомыслие
  trans_en: person holding the same views; confederate; identity of views
- gramm: N,inanim,nonhum,anim,hum
+ gramm: N,inanim,nonhum,anim,human
 -lexeme
  lex: ӕмзӕл
  stem: ӕмзӕл.//мзӕл.
@@ -11131,7 +11138,7 @@
  paradigm: Nct
  trans_ru: имеющий близнецов
  trans_en: person having twins
- gramm: N,anim,hum
+ gramm: N,anim,human
 -lexeme
  lex: ӕмзӕнӕг
  stem: ӕмзӕнӕг.//мзӕнӕг.|ӕмзӕнӕдж.//мзӕнӕдж.|ӕмзӕнӕг.//мзӕнӕг.
@@ -11145,7 +11152,7 @@
  paradigm: Nct
  trans_ru: сочувствующий; единомышленник
  trans_en: sympathetic; person holding the same views; confederate
- gramm: N,anim,hum
+ gramm: N,anim,human
 -lexeme
  lex: ӕмзӕрдион
  stem: ӕмзӕрдион.//мзӕрдион.
@@ -11159,7 +11166,7 @@
  paradigm: Nv
  trans_ru: единодушный, солидарный
  trans_en: unanimous, solidary
- gramm: N,anim,hum
+ gramm: N,anim,human
 -lexeme
  lex: ӕмзӕрдӕ
  stem: ӕмзӕрдӕ.//мзӕрдӕ.
@@ -11173,7 +11180,7 @@
  paradigm: Nct
  trans_ru: земляк, соотечественник
  trans_en: fellow countryman, compatriot
- gramm: N,anim,hum
+ gramm: N,anim,human
 -lexeme
  lex: ӕмзӕххон
  stem: ӕмзӕххон.//мзӕххон.
@@ -11229,7 +11236,7 @@
  paradigm: Nct
  trans_ru: ровесник, сверстник
  trans_en: peer, person of the same age
- gramm: N,anim,hum
+ gramm: N,anim,human
 -lexeme
  lex: ӕмкарӕн
  stem: ӕмкарӕн.//мкарӕн.
@@ -11250,7 +11257,7 @@
  paradigm: Nctt
  trans_ru: супруг, супруга
  trans_en: spouse
- gramm: N,anim,hum
+ gramm: N,anim,human
 -lexeme
  lex: ӕмкъул
  stem: ӕмкъул.//мкъул.
@@ -11383,7 +11390,7 @@
  paradigm: Nct
  trans_ru: галдеж
  trans_en: hubbub
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕмрӕгъ
  stem: ӕмрӕгъ.//мрӕгъ.
@@ -12902,7 +12909,7 @@
  paradigm: Nct
  trans_ru: ожидание, надежда
  trans_en: waiting, expectation, hoping
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕнхъӕлмӕгӕсӕг
  stem: ӕнхъӕлмӕгӕсӕг.//нхъӕлмӕгӕсӕг.|ӕнхъӕлмӕгӕсӕдж.//нхъӕлмӕгӕсӕдж.|ӕнхъӕлмӕгӕсджы.//нхъӕлмӕгӕсджы.
@@ -14904,14 +14911,14 @@
  paradigm: Nct
  trans_ru: притаскивание
  trans_en: bringing, dragging
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрбадзыгъуыр
  stem: ӕрбадзыгъуыр.//рбадзыгъуыр.
  paradigm: Nct
  trans_ru: собирание в одно место, в одну ночь
  trans_en:
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрбадт
  stem: ӕрбадт.//рбадт.|ӕрбадт.//рбадт.|ӕрбӕдты.//рбӕдты.
@@ -14925,7 +14932,7 @@
  paradigm: Nct
  trans_ru: окоченение, замерзание
  trans_en: freezing
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрбадӕнтӕ
  stem: ӕрбадӕн.//рбадӕн.
@@ -14988,21 +14995,21 @@
  paradigm: Nct
  trans_ru: бег рысью
  trans_en: at a trot
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрбатары
  stem: ӕрбатары.//рбатары.
  paradigm: Nv
  trans_ru: потеря, пропажа
  trans_en: loss
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрбатеу-теу
  stem: ӕрбатеу-теу.//рбатеу-теу.
  paradigm: Nct
  trans_ru: притаскивание
  trans_en: bringing
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрбауагъд
  stem: ӕрбауагъд.//рбауагъд.
@@ -15016,7 +15023,7 @@
  paradigm: Nct
  trans_ru: приход толпой
  trans_en:
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрбафӕйлыд
  stem: ӕрбафӕйлыд.//рбафӕйлыд.
@@ -15037,28 +15044,28 @@
  paradigm: Nct
  trans_ru: удушение
  trans_en: stifling, smothering
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрбацагъды
  stem: ӕрбацагъды.//рбацагъды.
  paradigm: Nct
  trans_ru: уничножение
  trans_en: destruction
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрбацупал
  stem: ӕрбацупал.//рбацупал.
  paradigm: Nct
  trans_ru: окружение
  trans_en: encirclement
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрбелдзӕф
  stem: ӕрбелдзӕф.//рбелдзӕф.
  paradigm: Nct
  trans_ru: копание
  trans_en: digging
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрвад
  stem: ӕрвад.//рвад.|ӕрвад.//рвад.|ӕрвадӕл.//рвадӕл.
@@ -15072,7 +15079,7 @@
  paradigm: Nct
  trans_ru: оказывать друг другу родственное внимание; доводиться (родственником)
  trans_en: be (a relative)
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрвайдӕн
  stem: ӕрвайдӕн.//рвайдӕн.
@@ -15240,7 +15247,7 @@
  paradigm: Nct
  trans_ru: приласкивание
  trans_en: caress
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕргом
  stem: ӕргом.//ргом.
@@ -15338,7 +15345,7 @@
  paradigm: Nct
  trans_ru: перевязывание для переноски на спине, на плечах
  trans_en:
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕргъомдзау
  stem: ӕргъомдзау.//ргъомдзау.
@@ -15947,7 +15954,7 @@
  paradigm: Nv
  trans_ru: сильное удивление
  trans_en: great surprise
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрмхуд
  stem: ӕрмхуд.//рмхуд.
@@ -16045,7 +16052,7 @@
  paradigm: Nct
  trans_ru: лишение
  trans_en: deprivation
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрмӕчъытӕ
  stem: ӕрмӕчъытӕ.//рмӕчъытӕ.
@@ -16059,7 +16066,7 @@
  paradigm: Nct
  trans_ru: возвращение в сознание
  trans_en: recovering consciousness
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрнӕг
  stem: ӕрнӕг.//рнӕг.|ӕрнӕдж.//рнӕдж.|ӕрнӕджы.//рнӕджы.
@@ -16178,7 +16185,7 @@
  paradigm: Nct
  trans_ru: вбивание; втыкание
  trans_en: hammering in; sticking in
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрсгӕс
  stem: ӕрсгӕс.//рсгӕс.
@@ -16248,7 +16255,7 @@
  paradigm: Nct
  trans_ru: поглаживание, приглаживание
  trans_en: stroking, smoothing
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕртау
  stem: ӕртау.//ртау.
@@ -16507,7 +16514,7 @@
  paradigm: Nct
  trans_ru: ласка
  trans_en: caress
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕртыхст
  stem: ӕртыхст.//ртыхст.|ӕртыхст.//ртыхст.|ӕртыхсты.//ртыхсты.
@@ -16794,7 +16801,7 @@
  paradigm: Nct
  trans_ru: заболевший
  trans_en: ill
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕруӕз
  stem: ӕруӕз.//руӕз.
@@ -16822,14 +16829,14 @@
  paradigm: Nct
  trans_ru: прибытие, доставка
  trans_en: arrival, delivery
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрфаринтӕ
  stem: ӕрфаринтӕ.//рфаринтӕ.
  paradigm: Nv
  trans_ru: раздирание на полоски
  trans_en: tearing for bands
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрфарст
  stem: ӕрфарст.//рфарст.|ӕрфарст.//рфарст.|ӕрфӕрсты.//рфӕрсты.
@@ -17088,7 +17095,7 @@
  paradigm: Nct
  trans_ru: запинка; увиливание; прихрамывание
  trans_en: stammer; shirking; limping
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрхӕцӕн
  stem: ӕрхӕцӕн.//рхӕцӕн.
@@ -17116,7 +17123,7 @@
  paradigm: Nct
  trans_ru: опускание век, прищур
  trans_en: screwing up ones eyes
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрцындз
  stem: ӕрцындз.//рцындз.
@@ -17235,7 +17242,7 @@
  paradigm: Nv
  trans_ru: обнюхивание
  trans_en: sniffing, nosing
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: ӕрыхъусӕггаг
  stem: ӕрыхъусӕггаг.//рыхъусӕггаг.|ӕрыхъусӕггадж.//рыхъусӕггадж.|ӕрыхъусӕггаг.//рыхъусӕггаг.
@@ -17865,7 +17872,7 @@
  paradigm: Vtr
  trans_ru: напирать; плотно укладывать, впихивать, запихивать; утаптывать; оседать; врываться
  trans_en: press, push; shove, push in; trample down; settle, sink; burst (into); storm (into)
- gramm: Vtr
+ gramm: V,tr
 -lexeme
  lex: ӕфтау
  stem: ӕфтау.//фтау.
@@ -17942,7 +17949,7 @@
  paradigm: Nct
  trans_ru: выкидыш; недоносок
  trans_en: misbirth, abortion; prematirely born child
- gramm: N,anim,hum,nonhuman
+ gramm: N,anim,human,nonhuman
 -lexeme
  lex: ӕфтыйын
  stem: ӕфтый.//фтый.|.|.
@@ -19790,14 +19797,14 @@
  paradigm: Nct
  trans_ru: испуг
  trans_en: fright
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: бакуырмӕлхынцъ
  stem: бакуырмӕлхынцъ.
  paradigm: Nct
  trans_ru: завязывание мертвым узлом
  trans_en: builder's knot
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: бакуыст
  stem: бакуыст.|бакуыст.|бакуысты.
@@ -20070,7 +20077,7 @@
  paradigm: Nct
  trans_ru: позднее время
  trans_en: late
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: бандероль
  stem: бандероль.
@@ -20252,7 +20259,7 @@
  paradigm: Nct
  trans_ru: власть; отношение
  trans_en: power; relationship
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: бардарӕг
  stem: бардарӕг.|бардарӕдж.|бардарджы.
@@ -20455,7 +20462,7 @@
  paradigm: Nct
  trans_ru: самое отборное
  trans_en: selected
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: барӕвзаргӕ
  stem: барӕвзаргӕ.
@@ -20630,7 +20637,7 @@
  paradigm: Nct
  trans_ru: заглядывать, заходить
  trans_en: pop in
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: бафӕйлыд
  stem: бафӕйлыд.
@@ -20679,7 +20686,7 @@
  paradigm: Nct
  trans_ru: прицел; намерение
  trans_en: sight, aim; intention
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: бахъуаджы
  stem: бахъуаджы.
@@ -20728,7 +20735,7 @@
  paradigm: NCP
  trans_ru:
  trans_en:
- gramm: NCP,pv,pv_ba
+ gramm: N,inanim,nonhuman,pv,pv_ba
 -lexeme
  lex: бачъырхын
  stem: бачъырх.|бачъырхт.|бачъырхт.
@@ -21905,7 +21912,7 @@
  paradigm: Nct
  trans_ru: откладывание
  trans_en: delay
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: бонӕй-бон
  stem: бонӕй-бон.
@@ -23109,7 +23116,14 @@
  paradigm: ZERO
  trans_ru: ниже, пониже
  trans_en: lower
- gramm: ADV-POST
+ gramm: ADV
+-lexeme
+ lex: бындӕр
+ stem: бындӕр.
+ paradigm: ZERO
+ trans_ru: ниже, пониже
+ trans_en: lower
+ gramm: POST
 -lexeme
  lex: бынзад
  stem: бынзад.
@@ -23137,7 +23151,7 @@
  paradigm: Nct
  trans_ru: подкоп
  trans_en: sap, tunnel
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: бынмиз
  stem: бынмиз.
@@ -23235,7 +23249,7 @@
  paradigm: ZERO
  trans_ru: из-под
  trans_en: from under
- gramm: POSt
+ gramm: POST
 -lexeme
  lex: бынӕлвыд
  stem: бынӕлвыд.|бынӕлвыд.|бынӕлвыд.//бынӕлвыдты.
@@ -23445,7 +23459,7 @@
  paradigm: Vtr
  trans_ru: терпеть
  trans_en: bear, endure
- gramm: Vtr
+ gramm: V,tr
 -lexeme
  lex: быцӕу
  stem: быцӕу.
@@ -23571,7 +23585,7 @@
  paradigm: Nct
  trans_ru: барахтание, валяние
  trans_en: rolling, wallowing, floundering
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: бӕгънӕг
  stem: бӕгънӕг.|бӕгънӕдж.|бӕгънӕджы.
@@ -26595,7 +26609,7 @@
  paradigm: Nct
  trans_ru: лень; приведение в негодность
  trans_en: laziness; spoiling
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: гобанӕмбӕрзӕн
  stem: гобанӕмбӕрзӕн.
@@ -27526,7 +27540,7 @@
  paradigm: Nv
  trans_ru: толпа
  trans_en: crowd
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: гуылгонд
  stem: гуылгонд.
@@ -27582,7 +27596,7 @@
  paradigm: Nct
  trans_ru: бурление
  trans_en: swirling
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: гуылфӕн
  stem: гуылфӕн.
@@ -31593,7 +31607,7 @@
  paradigm: Nct
  trans_ru: пересыхание
  trans_en: drying up
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: дзӕдӕл
  stem: дзӕдӕл.
@@ -34939,7 +34953,7 @@
  paradigm: Nct
  trans_ru: унижение
  trans_en: abasement
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: дӕлдзырон
  stem: дӕлдзырон.|дӕлдзырон.|дӕлдзырӕ.
@@ -38313,7 +38327,7 @@
  paradigm: Nct
  trans_ru: брыкание
  trans_en: fling
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: зӕгъ
  stem: зӕгъ.
@@ -39132,7 +39146,7 @@
  paradigm: Nct
  trans_ru: усталость
  trans_en: tiredness
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: зӕрин
  stem: зӕрин.
@@ -39216,7 +39230,7 @@
  paradigm: Nct
  trans_ru: висение
  trans_en: handing
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: зӕфц
  stem: зӕфц.
@@ -42311,7 +42325,7 @@
  paradigm: ZERO
  trans_ru: с ним
  trans_en: with him
- gramm: PRON,pers,ENCL,3,sg,com
+ gramm: PRON,pers,ENCL,3,sg,comit
 -lexeme
  lex: йод
  stem: йод.
@@ -42948,7 +42962,7 @@
  paradigm: Nct
  trans_ru: капитулянт
  trans_en: capitulator
- gramm: N,anim,human,inamin,nonhuman
+ gramm: N,anim,human,inanim,nonhuman
 -lexeme
  lex: капитуляци
  stem: капитуляци.
@@ -43144,7 +43158,7 @@
  paradigm: Nct
  trans_ru: важничанье; кокетство
  trans_en: airs and graces; coquetry
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: карлик
  stem: карлик.|карлич.|карлик.
@@ -44635,7 +44649,7 @@
  paradigm: Nv
  trans_ru: повиновение
  trans_en: obedience
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: коммӕгӕс
  stem: коммӕгӕс.
@@ -46798,7 +46812,14 @@
  paradigm: Nct
  trans_ru: когда; если
  trans_en: when; if
- gramm: ADV-CONJ
+ gramm: ADV
+-lexeme
+ lex: кӕд
+ stem: кӕд.
+ paradigm: Nct
+ trans_ru: когда; если
+ trans_en: when; if
+ gramm: CONJ
 -lexeme
  lex: кӕдӕм
  stem: кӕдӕм.
@@ -46910,14 +46931,14 @@
  paradigm: ZERO
  trans_ru: с кем
  trans_en: with whom
- gramm: PRON,rel,sg,com
+ gramm: PRON,rel,sg,comit
 -lexeme
  lex: кӕимӕты
  stem: кӕимӕты.
  paradigm: ZERO
  trans_ru: с кем
  trans_en: with whom
- gramm: PRON,rel,pl,com
+ gramm: PRON,rel,pl,comit
 -lexeme
  lex: кӕй
  stem: кӕй.
@@ -48289,21 +48310,21 @@
  paradigm: Nct
  trans_ru: приласкание
  trans_en: caress
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: гудзи
  stem: гудзи.//гудзицц.
  paradigm: Nct
  trans_ru: выглядывание, высовывание
  trans_en: looking out
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: куыси
  stem: куыси.//гуыси.
  paradigm: Nct
  trans_ru: быстрое появление; быстрое притаскивание
  trans_en: quick appearance; quick bringing
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: къаба
  stem: къаба.
@@ -48667,7 +48688,7 @@
  paradigm: Nv
  trans_ru: Камсхо (село)
  trans_en: Kamskho (village)
- gramm: N,propinanim,nonhuman
+ gramm: N,prop,inanim,nonhuman
 -lexeme
  lex: къамӕйхъазӕг
  stem: къамӕйхъазӕг.|къамӕйхъазӕдж.|къамӕйхъазджы.
@@ -48688,7 +48709,7 @@
  paradigm: NCP
  trans_ru: конвоировать
  trans_en: take under convoy
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: къанвой
  stem: къанвой.|къанвой.|къанвой.
@@ -51376,7 +51397,7 @@
  paradigm: Nv
  trans_ru: брожение
  trans_en: blundering
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: лексикографи
  stem: лексикографи.
@@ -52671,7 +52692,7 @@
  paradigm: Nct
  trans_ru: шлюха
  trans_en: bitch
- gramm: N,anim,human-lexeme
+ gramm: N,anim,human
 -lexeme
  lex: лӕппын
  stem: лӕппын.
@@ -52783,7 +52804,7 @@
  paradigm: Nct
  trans_ru: тяжелое дыхание
  trans_en: heavy breath
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: лӕх
  stem: лӕх.
@@ -53310,14 +53331,14 @@
  paradigm: Nv
  trans_ru: вращение
  trans_en: rotating
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: мамали
  stem: мамали.
  paradigm: Nv
  trans_ru: угроза
  trans_en: threatening
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: мамм
  stem: мамм.
@@ -54402,7 +54423,7 @@
  paradigm: Nct
  trans_ru: пожирание
  trans_en: devouring
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: мес
  stem: мес.
@@ -56810,7 +56831,7 @@
  paradigm: Nct
  trans_ru: купать
  trans_en: bathe
- gramm: V,intr,ptcp-ag
+ gramm: V,intr,ptcp.ag
 -lexeme
  lex: найдар
  stem: найдар.
@@ -58644,7 +58665,7 @@
  paradigm: Nct
  trans_ru: считать, уважать
  trans_en: count, consider, respect
- gramm: V,tr,ptcp-ag
+ gramm: V,tr,ptcp.ag
 -lexeme
  lex: нымайынад
  stem: нымайынад.|нымайынад.|нымайынӕд.
@@ -59638,7 +59659,7 @@
  paradigm: ZERO
  trans_ru: да
  trans_en: yes
- gramm: ZERO
+ gramm: PART
 -lexeme
  lex: оазис
  stem: оазис.
@@ -63005,7 +63026,7 @@
  paradigm: Nct
  trans_ru: программа
  trans_en: programme
- gramm: N,inanim,nonhuman]
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: программон
  stem: программон.|программон.|программӕ.
@@ -64314,7 +64335,7 @@
  paradigm: ZERO
  trans_ru: давным-давно
  trans_en: once upon a time
- gramm: ZERO
+ gramm: ADV
 -lexeme
  lex: радзыназын
  stem: радзыназ.|радзынӕзт.|радзынӕзт.
@@ -68367,7 +68388,7 @@
  paradigm: Nct
  trans_ru: трата
  trans_en: expenditure
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: сатин
  stem: сатин.
@@ -69165,14 +69186,14 @@
  paradigm: Nct
  trans_ru: бег
  trans_en: running
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: сенк кӕнын
  stem: сенк.|сенч.|сенк.
  paradigm: Nct
  trans_ru: отрезание
  trans_en: cutting off
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: сенсаци
  stem: сенсаци.
@@ -70047,7 +70068,7 @@
  paradigm: Nct
  trans_ru: прослезиться
  trans_en: burst in tears
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: слабодкӕ
  stem: слабодкӕ.
@@ -72658,7 +72679,7 @@
  paradigm: Nct
  trans_ru: окучивание
  trans_en: earthing up
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: сыджытӕвгӕнӕн
  stem: сыджытӕвгӕнӕн.
@@ -76382,7 +76403,7 @@
  paradigm: Nctt
  trans_ru: типичный
  trans_en: typical
- gramm: Adj
+ gramm: ADJ
 -lexeme
  lex: типографи
  stem: типографи.
@@ -77819,12 +77840,12 @@
  trans_en: bubble
  gramm: N,inanim,nonhuman
 -lexeme
- lex: тъупп-тъупп кӕнын
- stem: тъупп-тъупп.|тъупп-тъупп.|тъупп-тъупп.//тъупп-тъуппы.
- paradigm: Nct
- trans_ru: стучать, колотить
- trans_en: knock
- gramm: NCP
+ lex: тъупп-тъупп
+ stem: тъупп-тъупп.
+ paradigm: ZERO
+ trans_ru: тук-тук
+ trans_en: knock-knock
+ gramm: INTJ
 -lexeme
  lex: тъури
  stem: тъури.
@@ -77901,7 +77922,7 @@
  paradigm: Nct
  trans_ru: мерцание
  trans_en: shimmering
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: тъӕлланг
  stem: тъӕлланг.|тъӕлландж.|тъӕллӕнг.
@@ -79795,10 +79816,10 @@
 -lexeme
  lex: уазалриз
  stem: уазалриз.
- paradigm: Nct
+ paradigm: Vtr
  trans_ru: лихорадить
  trans_en: cause fever
- gramm: NCP
+ gramm: V,tr
 -lexeme
  lex: уазалцӕстӕнгас
  stem: уазалцӕстӕнгас.
@@ -79938,7 +79959,7 @@
  paradigm: Nct
  trans_ru: стыдящийся
  trans_en: being ashamed
- gramm: NCP
+ gramm: ADJ
 -lexeme
  lex: уайӕгой
  stem: уайӕгой.
@@ -80029,7 +80050,7 @@
  paradigm: Nct
  trans_ru: (возможный)
  trans_en: (possible)
- gramm: NCP
+ gramm: ADJ
 -lexeme
  lex: уанцъылы
  stem: уанцъылы.
@@ -82536,7 +82557,7 @@
  paradigm: Nct
  trans_ru: чистка войлока
  trans_en: cleaning thick felt
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: уӕлдзарм
  stem: уӕлдзарм.|уӕлдзарм.|уӕлдзӕрм.
@@ -82648,7 +82669,7 @@
  paradigm: Nv
  trans_ru: увиливание
  trans_en: evasion
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: уӕлиау
  stem: уӕлиау.
@@ -82732,7 +82753,7 @@
  paradigm: Nv
  trans_ru: Карца (село)
  trans_en: Kartsa (village)
- gramm: N,inanim,nonhuman, prop
+ gramm: N,inanim,nonhuman,prop
 -lexeme
  lex: Лезгор
  stem: лезгор.
@@ -82872,7 +82893,7 @@
  paradigm: Nct
  trans_ru: рука (в соч. с хӕссын)
  trans_en: hand (in combination with xӕssyn)
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: уӕлстъол
  stem: уӕлстъол.
@@ -82963,7 +82984,7 @@
  paradigm: Nct
  trans_ru: рвота
  trans_en: vomit
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: уӕлхъус
  stem: уӕлхъус.
@@ -83222,14 +83243,14 @@
  paradigm: Nct
  trans_ru: победа
  trans_en: victory
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: уӕлӕхох
  stem: уӕлӕхох.|уӕлӕхох.|уӕлӕхӕх.
  paradigm: Nct
  trans_ru: пренебрежение
  trans_en: disregard
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: уӕмын
  stem: уӕм.|уӕмдт.|уӕмд.
@@ -84839,7 +84860,7 @@
  paradigm: Vtr
  trans_ru: платить
  trans_en: pay
- gramm: Vtr
+ gramm: V,tr
 -lexeme
  lex: фидынхъомад
  stem: фидынхъомад.|фидынхъомад.|фидынхъомӕд.
@@ -85812,7 +85833,7 @@
  paradigm: Nv
  trans_ru: дуновение
  trans_en: blowing
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: фугас
  stem: фугас.
@@ -85987,7 +86008,7 @@
  paradigm: Nct
  trans_ru: вред
  trans_en: harm
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: фыдахаст
  stem: фыдахаст.|фыдахаст.|фыдахасты.
@@ -87331,7 +87352,7 @@
  paradigm: Nct
  trans_ru: недоваренный, недопечёный
  trans_en: underboiled, underbaked
- gramm: ADj
+ gramm: ADJ
 -lexeme
  lex: фыццаг
  stem: фыццаг.|фыццадж.|фыццӕг.
@@ -88695,7 +88716,7 @@
  paradigm: Nct
  trans_ru: на стороне
  trans_en: on the side (of smb.)
- gramm: NCP
+ gramm: POST
 -lexeme
  lex: фӕрсдзырд
  stem: фӕрсдзырд.|фӕрсдзырд.|фӕрсдзырд.//фӕрсдзырдты.
@@ -88884,7 +88905,7 @@
  paradigm: Nct
  trans_ru: второй на лошади
  trans_en: second rider on horse
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: фӕсарӕн
  stem: фӕсарӕн.
@@ -93190,7 +93211,7 @@
  paradigm: Nct
  trans_ru: сливки, каймак; сметана
  trans_en: cream, kaymak; sour cream
- gramm: N,inanim,nonhumans
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: хъаймӕт
  stem: хъаймӕт.
@@ -93729,7 +93750,7 @@
  paradigm: Nv
  trans_ru: делание медленно, кое-как
  trans_en: doing slowly, haphazardly
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: хъентӕ-ментӕ
  stem: хъентӕ-ментӕ.
@@ -94786,7 +94807,7 @@
  paradigm: Nv
  trans_ru: объятие
  trans_en: embrace
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: хъуырычъи
  stem: хъуырычъи.
@@ -96585,7 +96606,7 @@
  paradigm: Nct
  trans_ru: колебание
  trans_en: hesitation
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: хырттын-бырттын
  stem: хырттын-бырттын.
@@ -96697,7 +96718,7 @@
  paradigm: Nct
  trans_ru: расставив ноги
  trans_en: with one's legs apart
- gramm: ADV,NCP
+ gramm: ADV
 -lexeme
  lex: хӕбӕццӕг
  stem: хӕбӕццӕг.|хӕбӕццӕдж.|хӕбӕццӕг.//хӕбӕццӕджы.//хӕбӕцджы.
@@ -100134,7 +100155,7 @@
  paradigm: Nv
  trans_ru: понукание
  trans_en: urging on
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: цумаввонг
  stem: цумаввонг.|цумаввондж.|цумаввонг.
@@ -100568,7 +100589,7 @@
  paradigm: Nct
  trans_ru: отнятие, обнажение (кинжала)
  trans_en: taking away, baring (of dagger)
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: цъуй
  stem: цъуй.
@@ -101037,7 +101058,7 @@
  paradigm: Nct
  trans_ru: шлёпанье по грязи
  trans_en: splashing through mud
- gramm: NCP
+ gramm: N,inanim,nonhuman
 -lexeme
  lex: цъӕппӕг
  stem: цъӕппӕг.|цъӕппӕдж.|цъӕппӕджы.
@@ -113991,7 +114012,7 @@
  paradigm: Vtr
  trans_ru: вымести, подмести, вытереть
  trans_en: (perf) sweep out, sweep up; wipe
- gramm: Vtr
+ gramm: V,tr
 -lexeme
  lex: амбарын
  stem: амбар.|амбӕрст.|амбӕрст.
@@ -115426,7 +115447,7 @@
  paradigm: Vtr
  trans_ru: уплатить, отплатить; перен. отомстить
  trans_en: (perf) pay, repay; fig. avenge
- gramm: Vtr
+ gramm: V,tr
 -lexeme
  lex: афицауын
  stem: афицау.|афицаудт.|афицауд.
@@ -115454,7 +115475,7 @@
  paradigm: Vtr
  trans_ru: подмять под себя, побороть; утоптать, утрамбовать; ринуться
  trans_en: (perf) subjugate, conquer; trample down, tamp; rush
- gramm: Vtr
+ gramm: V,tr
 -lexeme
  lex: афснайын
  stem: афснай.|афснайдт.|афснайд.
@@ -116264,7 +116285,7 @@
  paradigm: Vtr
  trans_ru: вторгнуться; плотно уложить, набить; утрамбовать
  trans_en: (perf) break in; place densely, stuff; ram, tamp
- gramm: Vtr
+ gramm: V,tr
 -lexeme
  lex: ӕрӕфснайын
  stem: ӕрӕфснай.//рӕфснай.|ӕрӕфснайдт.//рӕфснайдт.|ӕрӕфснайд.//рӕфснайд.
@@ -117401,210 +117422,210 @@
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,prs,1,sg
+ gramm: V,intr,pv,pv_aerba,prs,1,sg
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбадӕ.//рбадӕ.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,prs,2,sg
+ gramm: V,intr,pv,pv_aerba,prs,2,sg
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбаци.//рбаци//ӕрбацис//рбацис.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,prs,3,sg
+ gramm: V,intr,pv,pv_aerba,prs,3,sg
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбаистӕм.//рбаистӕм.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,prs,1,pl
+ gramm: V,intr,pv,pv_aerba,prs,1,pl
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбаистут.//рбаистут.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,prs,2,pl
+ gramm: V,intr,pv,pv_aerba,prs,2,pl
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбаисты.//рбаисты.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,prs,3,pl
+ gramm: V,intr,pv,pv_aerba,prs,3,pl
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауы.//рбауы.//ӕрбауӕв.//рбауӕв.|ӕрбауыд.//рбауыд.|ӕрбауыд.//рбауыд.
  paradigm: Vintr
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba
+ gramm: V,intr,pv,pv_aerba
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауаин.//рбауаин.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,sbjv,1,sg
+ gramm: V,intr,pv,pv_aerba,sbjv,1,sg
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауаис.//рбауаис.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,sbjv,2,sg
+ gramm: V,intr,pv,pv_aerba,sbjv,2,sg
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауаид.//рбауаид.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,sbjv,3,sg
+ gramm: V,intr,pv,pv_aerba,sbjv,3,sg
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауаиккам.//рбауаиккам.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,sbjv,1,pl
+ gramm: V,intr,pv,pv_aerba,sbjv,1,pl
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауаиккат.//рбауаиккат.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,sbjv,2,pl
+ gramm: V,intr,pv,pv_aerba,sbjv,2,pl
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауаиккой.//рбауаиккой.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,sbjv,3,pl
+ gramm: V,intr,pv,pv_aerba,sbjv,3,pl
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауин.//рбауин.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,sbjv,1,sg
+ gramm: V,intr,pv,pv_aerba,sbjv,1,sg
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауис.//рбауис.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,sbjv,2,sg
+ gramm: V,intr,pv,pv_aerba,sbjv,2,sg
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауид.//рбауид.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,sbjv,3,sg
+ gramm: V,intr,pv,pv_aerba,sbjv,3,sg
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауиккам.//рбауиккам.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,sbjv,1,pl
+ gramm: V,intr,pv,pv_aerba,sbjv,1,pl
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауиккат.//рбауиккат.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,sbjv,2,pl
+ gramm: V,intr,pv,pv_aerba,sbjv,2,pl
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауиккой.//рбауиккой.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,sbjv,3,pl
+ gramm: V,intr,pv,pv_aerba,sbjv,3,pl
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауон.//рбауон.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,opt,1,sg
+ gramm: V,intr,pv,pv_aerba,opt,1,sg
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауай.//рбауай.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,opt,2,sg
+ gramm: V,intr,pv,pv_aerba,opt,2,sg
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауа.//рбауа.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,opt,3,sg
+ gramm: V,intr,pv,pv_aerba,opt,3,sg
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауӕм.//рбауӕм.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,opt,1,pl
+ gramm: V,intr,pv,pv_aerba,opt,1,pl
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауат.//рбауат.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,opt,2,pl
+ gramm: V,intr,pv,pv_aerba,opt,2,pl
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауой.//рбауой.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,opt,3,pl
+ gramm: V,intr,pv,pv_aerba,opt,3,pl
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбау.//рбау.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,imp,2,sg
+ gramm: V,intr,pv,pv_aerba,imp,2,sg
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбаут.//рбаут.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,imp,2,pl
+ gramm: V,intr,pv,pv_aerba,imp,2,pl
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауӕд.//рбауӕд.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,imp,3,sg
+ gramm: V,intr,pv,pv_aerba,imp,3,sg
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауӕнт.//рбауӕнт.
  paradigm: ZERO
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,imp,3,pl
+ gramm: V,intr,pv,pv_aerba,imp,3,pl
 -lexeme
  lex: ӕрбауӕвын
  stem: ӕрбауинаг.//рбауинаг.//|ӕрбауинадж.//рбауинадж.|ӕрбауинӕг.//рбауинӕг.
  paradigm: Nct
  trans_ru: деваться, деться; становиться, стать
  trans_en: (perf/impf) disappear, get to; become
- gramm: V,intr,pv,pv_ӕrba,ptcp.inag
+ gramm: V,intr,pv,pv_aerba,ptcp.inag
 -lexeme
  lex: ӕрбауӕндын
  stem: ӕрбауӕнд.//рбауӕнд.|ӕрбауӕндыд.//рбауӕндыд.|ӕрбауӕндыд.//рбауӕндыд.
@@ -117660,7 +117681,7 @@
  paradigm: Vtr
  trans_ru: втоптать; ворваться, вломиться
  trans_en: (perf) trample in; burst/break (into)
- gramm: Vtr
+ gramm: V,tr
 -lexeme
  lex: ӕрбафснайын
  stem: ӕрбафснай.//рбафснай.|ӕрбафснайдт.//рбафснайдт.|ӕрбафснайд.//рбафснайд.
@@ -118616,210 +118637,210 @@
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,prs,1,sg
+ gramm: V,intr,pv,pv_aer,prs,1,sg
 -lexeme
  lex: ӕруын
  stem: ӕрдӕ.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,prs,2,sg
+ gramm: V,intr,pv,pv_aer,prs,2,sg
 -lexeme
  lex: ӕруын
  stem: ӕрцис.//ӕрци.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,prs,3,sg
+ gramm: V,intr,pv,pv_aer,prs,3,sg
 -lexeme
  lex: ӕруын
  stem: ӕристӕм.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,prs,1,pl
+ gramm: V,intr,pv,pv_aer,prs,1,pl
 -lexeme
  lex: ӕруын
  stem: ӕристут.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,prs,2,pl
+ gramm: V,intr,pv,pv_aer,prs,2,pl
 -lexeme
  lex: ӕруын
  stem: ӕристы.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,prs,3,pl
+ gramm: V,intr,pv,pv_aer,prs,3,pl
 -lexeme
  lex: ӕруын
  stem: ӕуы.//ӕуӕв.|ӕуыд.|ӕуыд.
  paradigm: Vintr
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr
+ gramm: V,intr,pv,pv_aer
 -lexeme
  lex: ӕруын
  stem: ӕруаин.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,sbjv,1,sg
+ gramm: V,intr,pv,pv_aer,sbjv,1,sg
 -lexeme
  lex: ӕруын
  stem: ӕруаис.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,sbjv,2,sg
+ gramm: V,intr,pv,pv_aer,sbjv,2,sg
 -lexeme
  lex: ӕруын
  stem: ӕруаид.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,sbjv,3,sg
+ gramm: V,intr,pv,pv_aer,sbjv,3,sg
 -lexeme
  lex: ӕруын
  stem: ӕруаиккам.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,sbjv,1,pl
+ gramm: V,intr,pv,pv_aer,sbjv,1,pl
 -lexeme
  lex: ӕруын
  stem: ӕруаиккат.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,sbjv,2,pl
+ gramm: V,intr,pv,pv_aer,sbjv,2,pl
 -lexeme
  lex: ӕруын
  stem: ӕруаиккой.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,sbjv,3,pl
+ gramm: V,intr,pv,pv_aer,sbjv,3,pl
 -lexeme
  lex: ӕруын
  stem: ӕруин.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,sbjv,1,sg
+ gramm: V,intr,pv,pv_aer,sbjv,1,sg
 -lexeme
  lex: ӕруын
  stem: ӕруис.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,sbjv,2,sg
+ gramm: V,intr,pv,pv_aer,sbjv,2,sg
 -lexeme
  lex: ӕруын
  stem: ӕруид.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,sbjv,3,sg
+ gramm: V,intr,pv,pv_aer,sbjv,3,sg
 -lexeme
  lex: ӕруын
  stem: ӕруиккам.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,sbjv,1,pl
+ gramm: V,intr,pv,pv_aer,sbjv,1,pl
 -lexeme
  lex: ӕруын
  stem: ӕруиккат.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,sbjv,2,pl
+ gramm: V,intr,pv,pv_aer,sbjv,2,pl
 -lexeme
  lex: ӕруын
  stem: ӕруиккой.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,sbjv,3,pl
+ gramm: V,intr,pv,pv_aer,sbjv,3,pl
 -lexeme
  lex: ӕруын
  stem: ӕруон.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,opt,1,sg
+ gramm: V,intr,pv,pv_aer,opt,1,sg
 -lexeme
  lex: ӕруын
  stem: ӕруай.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,opt,2,sg
+ gramm: V,intr,pv,pv_aer,opt,2,sg
 -lexeme
  lex: ӕруын
  stem: ӕруа.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,opt,3,sg
+ gramm: V,intr,pv,pv_aer,opt,3,sg
 -lexeme
  lex: ӕруын
  stem: ӕруӕм.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,opt,1,pl
+ gramm: V,intr,pv,pv_aer,opt,1,pl
 -lexeme
  lex: ӕруын
  stem: ӕруат.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,opt,2,pl
+ gramm: V,intr,pv,pv_aer,opt,2,pl
 -lexeme
  lex: ӕруын
  stem: ӕруой.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,opt,3,pl
+ gramm: V,intr,pv,pv_aer,opt,3,pl
 -lexeme
  lex: ӕруын
  stem: ӕру.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,imp,2,sg
+ gramm: V,intr,pv,pv_aer,imp,2,sg
 -lexeme
  lex: ӕруын
  stem: ӕрут.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,imp,2,pl
+ gramm: V,intr,pv,pv_aer,imp,2,pl
 -lexeme
  lex: ӕруын
  stem: ӕруӕд.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,imp,3,sg
+ gramm: V,intr,pv,pv_aer,imp,3,sg
 -lexeme
  lex: ӕруын
  stem: ӕруӕнт.
  paradigm: ZERO
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,imp,3,pl
+ gramm: V,intr,pv,pv_aer,imp,3,pl
 -lexeme
  lex: ӕруын
  stem: ӕруинаг.|ӕруинадж.|ӕруинӕг.
  paradigm: Nct
  trans_ru: стать
  trans_en: (perf) become
- gramm: V,intr,pv,pv_ӕr,ptcp.inag
+ gramm: V,intr,pv,pv_aer,ptcp.inag
 -lexeme
  lex: ӕруынын
  stem: ӕруын.//руын.|ӕруыдт.//руыдт.|ӕруынд.//руынд.
@@ -119442,7 +119463,7 @@
  paradigm: Vtr
  trans_ru: потерпеть; вытерпеть, выдержать
  trans_en: (perf) be patient (for a while); bear, endure
- gramm: Vtr
+ gramm: V,tr
 -lexeme
  lex: бавӕййын
  stem: бавӕйй.||
@@ -121605,7 +121626,7 @@
  paradigm: Vtr
  trans_ru: оплатить, выплатить, расплатиться; вознаградить; искупить
  trans_en: (perf) pay, pay off, pay in full; reward; redeem
- gramm: Vtr
+ gramm: V,tr
 -lexeme
  lex: бафиппайын
  stem: бафиппай.//бафиппа.|бафиппайдт.|бафиппайд.
@@ -121633,7 +121654,7 @@
  paradigm: Vtr
  trans_ru: вломиться
  trans_en: (perf) break/rush into
- gramm: Vtr
+ gramm: V,tr
 -lexeme
  lex: бафснайын
  stem: бафснай.|бафснайдт.|бафснайд.
@@ -122159,7 +122180,7 @@
  paradigm: Vtr
  trans_ru: вытерпеть, вынести
  trans_en: (perf) bear, endure
- gramm: Vtr
+ gramm: V,tr
 -lexeme
  lex: нывӕрын
  stem: нывӕр.//нывӕргӕ.|нывӕрд.|нывӕрд.
@@ -123129,7 +123150,7 @@
  paradigm: Vtr
  trans_ru: осесть, набить, наполнить; впихнуть
  trans_en: (perf) settle, stuff, fill; shove/stuff in
- gramm: Vtr
+ gramm: V,tr
 -lexeme
  lex: ныфтауын
  stem: ныфтау.|ныфтыдт.|ныфтыд.
@@ -123279,7 +123300,7 @@
  paradigm: Vintr
  trans_ru: засмеяться, расхохотаться
  trans_en: (perf) laugh, burst out laughing
- gramm: V, intr
+ gramm: V,intr
 -lexeme
  lex: ныххуырсын
  stem: ныххуырс.|ныххуырст.|ныххуырст.
@@ -126457,7 +126478,7 @@
  paradigm: Vintr
  trans_ru: засмеяться
  trans_en: (perf) start laughing
- gramm: V, intr
+ gramm: V,intr
 -lexeme
  lex: схуыйнын
  stem: схуыйн.//ысхуыйн.|схуынд.//ысхуыйн.|схуынд.//ысхуынд.
@@ -127588,210 +127609,210 @@
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,prs,1,sg
+ gramm: V,intr,pv,pv_fae,prs,1,sg
 -lexeme
  lex: фӕуын
  stem: фӕдӕ.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,prs,2,sg
+ gramm: V,intr,pv,pv_fae,prs,2,sg
 -lexeme
  lex: фӕуын
  stem: фӕци.//фӕцис.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,prs,3,sg
+ gramm: V,intr,pv,pv_fae,prs,3,sg
 -lexeme
  lex: фӕуын
  stem: фестӕм.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,prs,1,pl
+ gramm: V,intr,pv,pv_fae,prs,1,pl
 -lexeme
  lex: фӕуын
  stem: фестут.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,prs,2,pl
+ gramm: V,intr,pv,pv_fae,prs,2,pl
 -lexeme
  lex: фӕуын
  stem: фесты.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,prs,3,pl
+ gramm: V,intr,pv,pv_fae,prs,3,pl
 -lexeme
  lex: фӕуын
  stem: фӕуы.//фӕуӕв.|фӕуыд.|фӕуыд.
  paradigm: Vintr
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ
+ gramm: V,intr,pv,pv_fae
 -lexeme
  lex: фӕуын
  stem: фӕуаин.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,sbjv,1,sg
+ gramm: V,intr,pv,pv_fae,sbjv,1,sg
 -lexeme
  lex: фӕуын
  stem: фӕуаис.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,sbjv,2,sg
+ gramm: V,intr,pv,pv_fae,sbjv,2,sg
 -lexeme
  lex: фӕуын
  stem: фӕуаид.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,sbjv,3,sg
+ gramm: V,intr,pv,pv_fae,sbjv,3,sg
 -lexeme
  lex: фӕуын
  stem: фӕуаиккам.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,sbjv,1,pl
+ gramm: V,intr,pv,pv_fae,sbjv,1,pl
 -lexeme
  lex: фӕуын
  stem: фӕуаиккат.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,sbjv,2,pl
+ gramm: V,intr,pv,pv_fae,sbjv,2,pl
 -lexeme
  lex: фӕуын
  stem: фӕуаиккой.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,sbjv,3,pl
+ gramm: V,intr,pv,pv_fae,sbjv,3,pl
 -lexeme
  lex: фӕуын
  stem: фӕуин.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,sbjv,1,sg
+ gramm: V,intr,pv,pv_fae,sbjv,1,sg
 -lexeme
  lex: фӕуын
  stem: фӕуис.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,sbjv,2,sg
+ gramm: V,intr,pv,pv_fae,sbjv,2,sg
 -lexeme
  lex: фӕуын
  stem: фӕуид.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,sbjv,3,sg
+ gramm: V,intr,pv,pv_fae,sbjv,3,sg
 -lexeme
  lex: фӕуын
  stem: фӕуиккам.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,sbjv,1,pl
+ gramm: V,intr,pv,pv_fae,sbjv,1,pl
 -lexeme
  lex: фӕуын
  stem: фӕуиккат.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,sbjv,2,pl
+ gramm: V,intr,pv,pv_fae,sbjv,2,pl
 -lexeme
  lex: фӕуын
  stem: фӕуиккой.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,sbjv,3,pl
+ gramm: V,intr,pv,pv_fae,sbjv,3,pl
 -lexeme
  lex: фӕуын
  stem: фӕуон.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,opt,1,sg
+ gramm: V,intr,pv,pv_fae,opt,1,sg
 -lexeme
  lex: фӕуын
  stem: фӕуай.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,opt,2,sg
+ gramm: V,intr,pv,pv_fae,opt,2,sg
 -lexeme
  lex: фӕуын
  stem: фӕуа.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,opt,3,sg
+ gramm: V,intr,pv,pv_fae,opt,3,sg
 -lexeme
  lex: фӕуын
  stem: фӕуӕм.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,opt,1,pl
+ gramm: V,intr,pv,pv_fae,opt,1,pl
 -lexeme
  lex: фӕуын
  stem: фӕуат.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,opt,2,pl
+ gramm: V,intr,pv,pv_fae,opt,2,pl
 -lexeme
  lex: фӕуын
  stem: фӕуой.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,opt,3,pl
+ gramm: V,intr,pv,pv_fae,opt,3,pl
 -lexeme
  lex: фӕуын
  stem: фӕу.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,imp,2,sg
+ gramm: V,intr,pv,pv_fae,imp,2,sg
 -lexeme
  lex: фӕуын
  stem: фӕут.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,imp,2,pl
+ gramm: V,intr,pv,pv_fae,imp,2,pl
 -lexeme
  lex: фӕуын
  stem: фӕуӕд.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,imp,3,sg
+ gramm: V,intr,pv,pv_fae,imp,3,sg
 -lexeme
  lex: фӕуын
  stem: фӕуӕнт.
  paradigm: ZERO
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,imp,3,pl
+ gramm: V,intr,pv,pv_fae,imp,3,pl
 -lexeme
  lex: фӕуын
  stem: фӕуинаг.|фӕуинадж.|фӕуинӕг.
  paradigm: Nct
  trans_ru: закончить; очутиться; перен. отругать
  trans_en: (perf) finish; get (somewhere); fig. scold
- gramm: V,intr,pv,pv_fӕ,ptcp.inag
+ gramm: V,intr,pv,pv_fae,ptcp.inag
 -lexeme
  lex: фӕфасын
  stem: фӕфас.|фӕфаст.|фӕфаст.
@@ -127847,7 +127868,7 @@
  paradigm: Vtr
  trans_ru: выплачивать, платить (определённое время)
  trans_en: (impf) pay, pay off (for a certain time)
- gramm: Vtr
+ gramm: V,tr
 -lexeme
  lex: фӕфиппайын
  stem: фӕфиппай.//фӕфиппа.|фӕфиппайдт.|фӕфиппайд.
@@ -128684,7 +128705,7 @@
  paradigm: Vtr
  trans_ru: осесть; взять направление, взять курс
  trans_en: (perf) subside; take a ply, set course
- gramm: Vtr
+ gramm: V,tr
 -lexeme
  lex: фефснайын
  stem: фефснай.|фефснайдт.|фефснайд.
