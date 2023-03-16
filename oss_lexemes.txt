@@ -58633,14 +58633,14 @@
  gramm: ADJ
 -lexeme
  lex: нымад
- stem: нымад.|нымад.|нымӕдтыю.
+ stem: нымад.|нымад.|нымӕдты.
  paradigm: Nct
  trans_ru: счёт; авторитетный
  trans_en: counting; authoritative
  gramm: N,inanim,nonhuman
 -lexeme
  lex: нымад
- stem: нымад.|нымад.|нымӕдтыю.
+ stem: нымад.|нымад.|нымӕдты.
  paradigm: Nct
  trans_ru: счёт; авторитетный
  trans_en: counting; authoritative
